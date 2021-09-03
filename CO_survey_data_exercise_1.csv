@@ -1,0 +1,840 @@
+survey_id,voter_id,_Survey_Name_,_Last_Connection_Date_,_Last_question_filled_,_Total_Duration__sec___,_Device_,_Device_OS_,Q1,Q2,Q3,Q4,Q5,Q6,Q7,is_dem,ypccc_alarm_score,Income,og_production,ZIP,AGE_RAW,GENDER,DOB,EMAIL,TREATMENT
+55644,1721555,DTP001,20210614,Q7,78,Smartphone,IOS,5,1,5,5,1,70,2,true,80-90,lower_ii,No O&G Production 20,80916,47,female,1974-02-23,,1
+53006,17282082,DTP001,20210614,Q7,262,Smartphone,IOS,3,5,3,1,2,42,2,true,90-95,middle_i,O&G Producing 20,80504,42,female,1978-08-01,,0
+89773,18219017,DTP001,20210614,Q7,277,Smartphone,IOS,1,1,1,4,2,32,2,false,50-60,lower_ii,O&G Producing 20,80836,30,female,1990-12-15,,1
+9388,18647711,DTP001,20210614,Q7,35,Smartphone,IOS,5,5,5,1,3,23,2,true,95-100,lower_ii,No O&G Production 20,80224,24,female,1997-01-01,,0
+43136,15601453,DTP001,20210614,Q7,38,Smartphone,IOS,1,1,1,2,2,32,2,false,30-40,lower_ii,No O&G Production 20,80446,33,female,1988-01-01,,0
+67646,15838491,DTP001,20210614,Q7,38,Smartphone,IOS,2,3,6,2,4,31,2,true,80-90,lower_ii,No O&G Production 20,80209,32,female,1989-01-01,,1
+7272,16845041,DTP001,20210614,Q7,39,Smartphone,IOS,6,6,5,2,4,30,2,true,80-90,lower_ii,O&G Producing 20,80634,31,female,1990-01-01,,0
+69187,18149701,DTP001,20210614,Q7,39,Smartphone,IOS,5,5,2,1,4,28,1,true,70-80,lower_ii,No O&G Production 20,80109,28,male,1992-11-01,,1
+53457,18882695,DTP001,20210614,Q7,41,Smartphone,IOS,5,5,5,1,2,29,2,true,80-90,lower_ii,No O&G Production 20,80218,29,female,1991-12-27,,1
+92544,17458852,DTP001,20210614,Q7,41,Smartphone,IOS,5,5,6,1,2,27,2,false,40-50,lower_ii,O&G Producing 20,80233,27,female,1994-01-01,,0
+42740,17959952,DTP001,20210614,Q7,42,Smartphone,IOS,5,5,4,1,4,33,2,true,80-90,middle_i,No O&G Production 20,80205,33,female,1987-12-23,,0
+95894,19084386,DTP001,20210614,Q7,42,Smartphone,IOS,5,5,5,1,2,21,3,true,70-80,high_i,No O&G Production 20,80917,22,female,1999-01-01,,1
+56943,17672303,DTP001,20210614,Q7,43,Smartphone,IOS,5,5,3,1,3,33,2,true,95-100,lower_ii,No O&G Production 20,80215,33,female,1988-01-01,,1
+60978,18173277,DTP001,20210614,Q7,43,Smartphone,IOS,5,4,6,1,2,33,2,true,90-95,lower_ii,No O&G Production 20,80203,33,female,1988-04-01,,1
+83251,18650870,DTP001,20210614,Q7,44,Smartphone,IOS,4,4,4,1,1,39,2,true,90-95,lower_ii,No O&G Production 20,80224,40,female,1981-01-01,,0
+35166,15302323,DTP001,20210614,Q7,46,Smartphone,IOS,1,2,1,3,4,24,2,false,50-60,lower_ii,O&G Producing 20,81521,34,female,1987-02-01,,1
+95637,17953201,DTP001,20210614,Q7,47,Smartphone,IOS,1,1,1,3,2,41,1,true,95-100,lower_ii,No O&G Production 20,80220,41,female,1980-01-01,,1
+13039,17232112,DTP001,20210614,Q7,48,Smartphone,Android,5,4,4,1,2,28,3,true,95-100,lower_ii,O&G Producing 20,81082,28,female,1993-01-01,,1
+57915,18864553,DTP001,20210614,Q7,49,Smartphone,IOS,3,3,6,3,4,23,2,false,80-90,lower_ii,O&G Producing 20,80234,23,female,1998-01-01,,1
+55941,2214616,DTP001,20210614,Q7,50,Desktop,Mac OS X,2,4,6,1,4,60,2,true,95-100,lower_ii,O&G Producing 20,80526,60,female,1960-10-04,,1
+64258,16924258,DTP001,20210614,Q7,129,Smartphone,Android,3,5,4,1,1,73,2,true,90-95,lower_ii,O&G Producing 20,80031,72,female,1948-09-24,,1
+29839,17389264,DTP001,20210614,Q7,51,Smartphone,IOS,5,5,5,1,4,27,1,true,90-95,lower_ii,No O&G Production 20,81623,27,male,1994-01-01,,0
+46281,1682083,DTP001,20210614,Q7,61,Smartphone,Android,5,5,4,1,2,60,2,true,60-70,lower_ii,O&G Producing 20,81212,60,female,1960-08-29,,1
+27783,15310989,DTP001,20210614,Q7,52,Smartphone,IOS,1,1,1,5,2,20,4,false,30-40,lower_ii,O&G Producing 20,81504,34,female,1987-03-25,,1
+62704,731931,DTP001,20210614,Q7,52,Smartphone,IOS,4,5,4,1,2,43,2,true,95-100,middle_i,O&G Producing 20,80501,43,female,1977-07-12,,0
+75556,18786291,DTP001,20210614,Q7,52,Smartphone,IOS,4,5,5,1,2,27,2,true,90-95,lower_ii,No O&G Production 20,80206,27,female,1993-07-08,,0
+27381,17575018,DTP001,20210614,Q7,53,Smartphone,IOS,1,1,2,4,2,38,2,true,90-95,lower_ii,O&G Producing 20,80234,38,female,1983-01-01,,1
+48666,19016142,DTP001,20210614,Q7,53,Smartphone,IOS,5,5,2,1,4,18,2,true,80-90,lower_ii,No O&G Production 20,81001,25,male,1996-01-01,,1
+79457,18613613,DTP001,20210614,Q7,53,Smartphone,Android,5,5,3,1,4,28,4,true,50-60,middle_i,O&G Producing 20,80631,28,female,1993-01-01,,0
+60083,15655545,DTP001,20210614,Q7,54,Smartphone,IOS,2,5,5,1,2,39,2,true,80-90,middle_i,O&G Producing 20,80550,39,female,1981-10-01,,1
+6023,17997803,DTP001,20210614,Q7,55,Smartphone,Android,1,1,1,4,2,36,2,true,30-40,lower_ii,No O&G Production 20,80124,80,female,1941-01-01,,0
+23571,2418374,DTP001,20210614,Q7,55,Smartphone,IOS,5,2,5,2,2,42,2,true,90-95,middle_i,O&G Producing 20,81503,42,female,1979-02-27,,0
+10252,2518583,DTP001,20210614,Q7,56,Smartphone,IOS,5,5,4,1,3,58,2,true,80-90,lower_ii,No O&G Production 20,81077,58,female,1962-07-25,,0
+54245,2652759,DTP001,20210614,Q7,56,Smartphone,IOS,4,5,3,2,4,48,1,false,60-70,lower_ii,No O&G Production 20,81005,34,female,1986-09-01,,0
+87560,18971452,DTP001,20210614,Q7,56,Smartphone,IOS,5,5,2,1,2,24,2,false,80-90,lower_ii,O&G Producing 20,80303,24,female,1997-01-01,,1
+97491,18589965,DTP001,20210614,Q7,56,Smartphone,IOS,4,4,3,1,2,59,2,true,80-90,lower_ii,No O&G Production 20,81101,59,female,1961-11-25,,0
+97733,1593862,DTP001,20210614,Q7,56,Smartphone,IOS,3,3,6,1,2,36,2,true,90-95,lower_ii,O&G Producing 20,80521,36,female,1985-03-07,,1
+39268,18556922,DTP001,20210614,Q7,57,Smartphone,Android,5,5,5,1,2,31,2,true,70-80,lower_ii,No O&G Production 20,80211,32,female,1989-01-01,,0
+74831,733376,DTP001,20210614,Q7,57,Smartphone,IOS,2,5,3,2,4,25,1,true,95-100,high_i,O&G Producing 20,80503,58,female,1963-03-01,,1
+95476,4316594,DTP001,20210614,Q7,57,Smartphone,Android,4,5,4,2,3,33,2,false,50-60,lower_ii,No O&G Production 20,80918,33,female,1987-10-01,,0
+73816,2819525,DTP001,20210614,Q7,58,Smartphone,Android,2,5,4,1,2,57,2,false,90-95,lower_ii,O&G Producing 20,80634,57,female,1963-08-22,,0
+6309,16860149,DTP001,20210614,Q7,59,Smartphone,Android,5,5,5,1,2,37,2,true,70-80,lower_ii,No O&G Production 20,80910,36,female,1984-05-19,,1
+89445,1980619,DTP001,20210614,Q7,60,Smartphone,Android,4,4,4,1,2,55,2,true,95-100,middle_i,No O&G Production 20,80202,55,female,1965-12-21,,0
+11329,18817239,DTP001,20210614,Q7,62,Smartphone,IOS,3,4,4,3,4,24,4,true,70-80,lower_ii,O&G Producing 20,80305,25,male,1996-01-01,,1
+21623,18094653,DTP001,20210614,Q7,62,Smartphone,IOS,4,5,3,1,4,19,2,true,60-70,middle_i,No O&G Production 20,80829,19,female,2002-01-01,,0
+22259,1856694,DTP001,20210614,Q7,62,Smartphone,IOS,4,4,2,1,1,18,1,true,95-100,lower_ii,No O&G Production 20,80224,78,female,1942-11-01,,0
+38073,4349145,DTP001,20210614,Q7,63,Smartphone,IOS,1,1,1,4,2,34,1,true,70-80,lower_ii,O&G Producing 20,80759,32,female,1988-10-10,,0
+45287,4160024,DTP001,20210614,Q7,65,Smartphone,Android,2,2,2,2,1,57,2,true,95-100,middle_i,O&G Producing 20,81647,57,female,1963-11-15,,1
+88565,17720321,DTP001,20210614,Q7,63,Smartphone,IOS,2,5,4,1,2,48,2,true,80-90,lower_ii,No O&G Production 20,80246,48,female,1973-02-01,,0
+94873,15579371,DTP001,20210614,Q7,63,Smartphone,Android,5,5,3,1,4,62,2,false,70-80,lower_ii,No O&G Production 20,81007,62,female,1959-01-01,,1
+32258,564115,DTP001,20210614,Q7,64,Smartphone,IOS,1,3,4,3,4,61,2,true,80-90,middle_i,O&G Producing 20,80503,61,female,1960-03-28,,0
+60409,17905385,DTP001,20210614,Q7,65,Smartphone,Android,5,5,5,1,4,30,2,true,80-90,middle_ii,No O&G Production 20,81432,31,female,1990-01-01,,0
+71136,18940331,DTP001,20210614,Q7,65,Smartphone,Android,5,5,6,1,3,34,4,true,95-100,lower_ii,O&G Producing 20,80304,35,female,1986-01-01,,1
+81244,15707196,DTP001,20210614,Q7,66,Smartphone,IOS,1,1,1,4,2,29,2,true,70-80,lower_ii,No O&G Production 20,81432,37,female,1984-01-01,,0
+88849,18870331,DTP001,20210614,Q7,66,Smartphone,Android,4,4,3,2,4,22,1,true,60-70,lower_ii,O&G Producing 20,80233,30,female,1990-08-01,,1
+92039,18850034,DTP001,20210614,Q7,67,Smartphone,IOS,4,5,2,1,4,20,1,true,70-80,high_i,O&G Producing 20,80504,23,female,1998-01-01,,1
+17326,15199358,DTP001,20210614,Q7,68,Smartphone,IOS,4,5,5,2,4,43,2,true,95-100,lower_ii,No O&G Production 20,80238,43,female,1978-03-26,,1
+79387,15332011,DTP001,20210614,Q7,68,Smartphone,IOS,6,5,6,1,2,36,2,true,95-100,middle_i,O&G Producing 20,80301,36,female,1985-01-01,,1
+91761,15615346,DTP001,20210614,Q7,68,Smartphone,IOS,5,5,5,1,2,37,2,true,90-95,middle_i,No O&G Production 20,80905,37,female,1983-08-01,,1
+13769,2625259,DTP001,20210614,Q7,69,Smartphone,IOS,5,5,3,3,2,41,2,true,80-90,lower_ii,No O&G Production 20,81001,41,female,1980-02-26,,0
+16083,18654828,DTP001,20210614,Q7,69,Smartphone,IOS,3,4,6,1,2,29,3,true,95-100,lower_ii,O&G Producing 20,80229,30,female,1991-01-01,,0
+70620,15987753,DTP001,20210614,Q7,69,Smartphone,Android,6,6,6,3,2,30,2,false,40-50,lower_ii,No O&G Production 20,81050,31,female,1990-01-01,,1
+81924,16906735,DTP001,20210614,Q7,69,Smartphone,IOS,1,1,5,5,4,43,2,true,80-90,middle_i,No O&G Production 20,80918,43,female,1978-04-01,,0
+46616,271994,DTP001,20210614,Q7,70,Smartphone,IOS,1,3,1,5,2,60,2,true,95-100,middle_i,No O&G Production 20,80238,98,female,1923-01-11,,1
+53379,1431446,DTP001,20210614,Q7,70,Smartphone,IOS,4,3,3,1,2,68,2,false,80-90,lower_ii,No O&G Production 20,80919,68,female,1952-11-10,,0
+90434,18888190,DTP001,20210614,Q7,70,Smartphone,IOS,3,4,2,2,2,33,2,true,80-90,middle_ii,No O&G Production 20,80443,33,female,1988-01-01,,1
+93506,4333278,DTP001,20210614,Q7,70,Smartphone,IOS,4,4,4,1,4,42,4,true,95-100,lower_ii,No O&G Production 20,80203,33,female,1987-06-01,,1
+98998,2703653,DTP001,20210614,Q7,70,Smartphone,IOS,6,4,1,1,1,41,2,true,90-95,lower_ii,No O&G Production 20,80221,41,female,1980-02-15,,1
+31679,624853,DTP001,20210614,Q7,71,Smartphone,IOS,3,3,2,2,4,55,1,true,95-100,high_i,O&G Producing 20,80026,78,female,1942-10-18,,1
+59511,18480338,DTP001,20210614,Q7,71,Smartphone,IOS,6,4,3,1,2,49,2,true,90-95,lower_ii,No O&G Production 20,80207,26,female,1994-12-19,,0
+21488,18992313,DTP001,20210614,Q7,73,Smartphone,IOS,4,5,5,1,3,27,2,false,60-70,lower_ii,No O&G Production 20,80918,28,female,1993-01-01,,1
+54729,2182076,DTP001,20210614,Q7,73,Smartphone,IOS,3,5,6,2,2,68,2,true,95-100,lower_ii,O&G Producing 20,80521,67,female,1953-05-30,,1
+99287,433582,DTP001,20210614,Q7,73,Smartphone,IOS,3,4,4,3,3,36,1,true,95-100,middle_i,No O&G Production 20,80138,36,female,1984-08-14,,1
+40937,2394952,DTP001,20210614,Q7,74,Smartphone,IOS,4,5,5,1,2,69,2,true,80-90,middle_i,O&G Producing 20,81506,69,female,1951-12-17,,1
+41366,18862322,DTP001,20210614,Q7,74,Smartphone,Android,1,5,1,2,1,44,1,true,70-80,middle_i,No O&G Production 20,80920,34,female,1986-05-14,,1
+70999,16196222,DTP001,20210614,Q7,74,Smartphone,Android,1,5,1,3,2,81,2,true,80-90,lower_ii,No O&G Production 20,80204,44,female,1977-01-01,,0
+16693,25671,DTP001,20210614,Q7,75,Smartphone,Android,4,5,3,1,4,53,2,true,70-80,lower_ii,O&G Producing 20,80260,53,female,1968-04-04,,0
+64184,18163275,DTP001,20210614,Q7,75,Smartphone,Android,4,4,4,1,2,44,2,true,60-70,middle_i,No O&G Production 20,80138,44,female,1977-02-01,,1
+65667,17134775,DTP001,20210614,Q7,75,Smartphone,IOS,1,2,1,4,3,60,2,true,60-70,lower_ii,No O&G Production 20,81005,21,female,2000-01-01,,1
+63118,17722595,DTP001,20210614,Q7,331,Smartphone,IOS,4,3,4,2,2,29,2,true,90-95,lower_ii,O&G Producing 20,81650,30,female,1991-01-01,,0
+16092,15825757,DTP001,20210614,Q7,76,Smartphone,IOS,1,4,6,2,4,39,1,true,95-100,lower_ii,No O&G Production 20,80205,35,female,1985-10-01,,1
+80790,15637327,DTP001,20210614,Q7,76,Smartphone,Android,4,5,5,1,2,38,2,true,60-70,lower_ii,O&G Producing 20,81506,38,female,1982-10-01,,0
+6905,2414820,DTP001,20210614,Q7,77,Smartphone,Android,1,1,1,4,2,46,1,true,80-90,lower_ii,O&G Producing 20,81501,70,female,1950-07-19,,0
+87415,1543177,DTP001,20210614,Q7,77,Smartphone,IOS,1,1,1,1,2,21,1,true,80-90,lower_ii,No O&G Production 20,80906,89,female,1931-05-22,,1
+25837,17979587,DTP001,20210614,Q7,78,Smartphone,IOS,4,4,2,2,2,35,2,true,90-95,lower_ii,No O&G Production 20,80219,34,female,1987-01-01,,1
+72087,18897447,DTP001,20210614,Q7,78,Smartphone,IOS,1,2,1,3,4,50,1,true,80-90,lower_ii,No O&G Production 20,81620,29,male,1991-07-16,,0
+77443,2365421,DTP001,20210614,Q7,78,Smartphone,IOS,4,4,4,1,3,58,2,true,40-50,lower_ii,O&G Producing 20,81501,58,female,1963-02-09,,1
+10234,15878444,DTP001,20210614,Q7,79,Smartphone,IOS,1,2,1,5,1,67,2,true,95-100,lower_ii,O&G Producing 20,80537,76,female,1944-06-01,,0
+69351,2034685,DTP001,20210614,Q7,79,Smartphone,IOS,1,3,1,4,1,61,4,false,95-100,lower_ii,O&G Producing 20,80530,63,female,1958-02-19,,1
+84792,2514327,DTP001,20210614,Q7,79,Smartphone,IOS,6,1,1,5,4,44,1,true,80-90,lower_ii,No O&G Production 20,81050,62,female,1958-06-07,,1
+29457,2432541,DTP001,20210614,Q7,81,Smartphone,IOS,6,6,3,1,2,41,2,true,80-90,middle_i,O&G Producing 20,81504,41,female,1979-10-01,,1
+34460,54248,DTP001,20210614,Q7,82,Smartphone,IOS,2,4,4,1,4,29,1,true,95-100,middle_i,O&G Producing 20,80233,60,female,1960-09-27,,1
+14807,15614069,DTP001,20210614,Q7,83,Smartphone,Android,1,4,4,2,2,31,4,false,60-70,lower_ii,No O&G Production 20,80831,32,female,1989-01-01,,0
+17713,2407187,DTP001,20210614,Q7,83,Smartphone,IOS,4,3,2,2,2,62,2,false,80-90,lower_ii,O&G Producing 20,81501,62,female,1958-12-01,,1
+62625,18724043,DTP001,20210614,Q7,83,Smartphone,IOS,5,1,5,1,1,79,2,true,80-90,middle_i,No O&G Production 20,81611,80,female,1941-01-01,,0
+37363,935922,DTP001,20210614,Q7,84,Smartphone,IOS,1,3,2,4,3,60,2,true,95-100,lower_ii,No O&G Production 20,80212,56,female,1964-11-16,,0
+60186,17559943,DTP001,20210614,Q7,84,Smartphone,IOS,5,5,5,1,1,41,2,true,95-100,lower_ii,No O&G Production 20,80424,42,female,1979-01-01,,1
+87620,15649927,DTP001,20210614,Q7,84,Smartphone,IOS,6,4,6,2,2,33,2,true,90-95,lower_ii,O&G Producing 20,80031,33,female,1987-11-01,,0
+33925,2773599,DTP001,20210614,Q7,85,Smartphone,Android,4,5,3,1,4,35,2,true,60-70,middle_i,O&G Producing 20,80634,35,female,1985-09-19,,1
+74212,18894205,DTP001,20210614,Q7,85,Smartphone,Android,3,5,6,1,2,33,4,true,70-80,lower_i,No O&G Production 20,80918,33,female,1988-01-01,,1
+1027,196036,DTP001,20210614,Q7,86,Smartphone,IOS,1,1,1,2,1,55,2,false,70-80,lower_ii,No O&G Production 20,81101,55,female,1965-12-07,,0
+35973,18972487,DTP001,20210614,Q7,86,Smartphone,IOS,6,5,4,1,2,28,2,true,80-90,lower_ii,O&G Producing 20,80003,28,female,1993-01-01,,0
+76557,1743785,DTP001,20210614,Q7,87,Smartphone,Android,4,5,2,1,4,63,2,false,95-100,lower_ii,O&G Producing 20,81230,63,female,1957-07-04,,1
+32935,887024,DTP001,20210614,Q7,91,Smartphone,Android,1,1,5,5,2,65,1,true,90-95,lower_ii,No O&G Production 20,80204,97,female,1924-04-27,,0
+54666,2581604,DTP001,20210614,Q7,91,Smartphone,IOS,3,1,5,3,2,58,2,true,80-90,lower_ii,No O&G Production 20,81005,90,female,1931-01-02,,1
+68397,146224,DTP001,20210614,Q7,91,Smartphone,IOS,3,5,5,1,2,42,2,true,95-100,lower_ii,No O&G Production 20,80207,41,female,1979-05-19,,1
+93422,17939753,DTP001,20210614,Q7,92,Desktop,Mac OS X,1,2,1,4,4,64,1,true,90-95,lower_ii,O&G Producing 20,80026,68,female,1953-01-01,,1
+99366,18506729,DTP001,20210614,Q7,94,Smartphone,Android,4,5,3,2,3,52,2,true,70-80,lower_ii,No O&G Production 20,80917,53,female,1968-01-01,,0
+100121,17977216,DTP001,20210614,Q7,94,Smartphone,IOS,4,5,4,1,4,34,4,true,95-100,lower_ii,O&G Producing 20,80487,33,male,1987-08-01,,0
+15842,4114230,DTP001,20210614,Q7,95,Smartphone,IOS,3,1,2,2,3,65,2,true,80-90,middle_i,O&G Producing 20,81301,56,female,1965-01-01,,0
+19262,1197424,DTP001,20210614,Q7,95,Smartphone,IOS,1,1,1,5,4,51,1,true,95-100,high_i,No O&G Production 20,80129,79,female,1941-06-23,,0
+46346,4697283,DTP001,20210614,Q7,97,Smartphone,IOS,1,1,1,5,1,55,2,false,50-60,lower_ii,No O&G Production 20,80916,32,female,1988-10-18,,1
+17268,2139120,DTP001,20210614,Q7,98,Smartphone,Android,1,2,2,2,2,60,2,true,30-40,middle_i,O&G Producing 20,81301,60,female,1960-09-28,,0
+38182,2699430,DTP001,20210614,Q7,98,Smartphone,IOS,5,5,5,1,2,67,2,true,95-100,lower_ii,No O&G Production 20,80216,68,female,1952-07-01,,1
+80817,16732575,DTP001,20210614,Q7,98,Smartphone,IOS,4,5,3,1,4,33,4,true,80-90,middle_i,O&G Producing 20,80520,34,female,1987-01-01,,0
+7523,1587934,DTP001,20210614,Q7,100,Smartphone,IOS,5,5,6,1,2,70,2,true,95-100,lower_ii,No O&G Production 20,80907,65,male,1955-11-11,,1
+40042,2809468,DTP001,20210614,Q7,100,Smartphone,Android,3,5,4,1,4,58,2,true,80-90,lower_ii,O&G Producing 20,80631,58,female,1963-01-03,,1
+45572,1314654,DTP001,20210614,Q7,100,Smartphone,IOS,3,5,6,1,4,36,2,true,95-100,lower_ii,No O&G Production 20,80205,41,female,1979-08-13,,1
+95388,3412327,DTP001,20210614,Q7,115,Smartphone,Android,5,5,5,1,1,75,1,false,40-50,lower_ii,No O&G Production 20,81401,63,female,1957-11-05,,1
+49151,2474504,DTP001,20210614,Q7,102,Smartphone,IOS,5,1,1,4,2,64,2,true,70-80,middle_i,No O&G Production 20,81403,64,female,1956-09-08,,1
+74574,1821564,DTP001,20210614,Q7,102,Smartphone,Android,3,2,1,3,2,71,1,true,95-100,high_i,O&G Producing 20,80138,72,female,1948-12-01,,1
+37175,1422914,DTP001,20210614,Q7,103,Smartphone,IOS,1,4,1,5,2,50,4,true,50-60,high_i,No O&G Production 20,80908,67,female,1954-01-23,,1
+24221,16449614,DTP001,20210614,Q7,105,Smartphone,IOS,1,1,1,3,2,73,2,true,70-80,middle_i,No O&G Production 20,80130,30,female,1991-01-01,,0
+64956,18335124,DTP001,20210614,Q7,105,Smartphone,IOS,5,5,4,1,1,25,2,false,90-95,lower_ii,O&G Producing 20,80301,25,female,1996-01-01,,0
+86475,1591114,DTP001,20210614,Q7,106,Smartphone,Android,1,5,5,5,4,67,1,true,80-90,lower_ii,No O&G Production 20,80910,58,female,1963-03-11,,1
+69989,2530158,DTP001,20210614,Q7,107,Smartphone,IOS,2,3,1,3,4,62,1,true,90-95,middle_i,No O&G Production 20,80420,59,female,1961-10-08,,1
+27770,16143546,DTP001,20210614,Q7,109,Smartphone,IOS,5,5,5,1,2,22,2,true,80-90,middle_i,O&G Producing 20,80026,58,female,1963-02-27,,0
+36875,2334647,DTP001,20210614,Q7,109,Smartphone,IOS,1,1,1,2,2,43,4,true,90-95,lower_ii,O&G Producing 20,80537,76,female,1945-04-04,,1
+35554,17840652,DTP001,20210614,Q7,111,Smartphone,IOS,5,5,4,1,4,29,1,true,90-95,lower_ii,O&G Producing 20,80303,30,male,1991-01-01,,1
+98268,464407,DTP001,20210614,Q7,111,Smartphone,IOS,2,5,6,1,2,64,2,true,95-100,lower_ii,No O&G Production 20,80223,63,female,1957-09-06,,1
+31659,18195300,DTP001,20210614,Q7,112,Smartphone,Android,3,4,6,2,2,31,2,true,70-80,lower_ii,O&G Producing 20,80260,26,female,1995-01-01,,1
+2924,1290925,DTP001,20210614,Q7,113,Smartphone,IOS,3,5,4,1,4,77,1,true,95-100,high_iii,No O&G Production 20,80108,73,female,1947-05-01,,0
+5411,18440681,DTP001,20210614,Q7,114,Smartphone,Android,4,4,4,2,3,54,2,true,80-90,lower_ii,O&G Producing 20,80634,54,female,1967-01-01,,0
+37654,15584688,DTP001,20210614,Q7,116,Smartphone,IOS,1,5,1,5,2,70,1,false,70-80,lower_ii,O&G Producing 20,80117,34,female,1986-08-13,,1
+63311,1628366,DTP001,20210614,Q7,116,Smartphone,Android,5,3,3,1,4,61,2,true,90-95,lower_ii,No O&G Production 20,80916,61,female,1960-03-13,,0
+75423,1118245,DTP001,20210614,Q7,116,Smartphone,Android,4,4,4,3,3,40,2,true,95-100,lower_ii,No O&G Production 20,80205,40,female,1980-10-13,,0
+95852,18572701,DTP001,20210614,Q7,116,Smartphone,IOS,1,2,1,4,1,66,2,true,80-90,lower_ii,O&G Producing 20,80504,24,female,1997-01-01,,1
+42666,2258323,DTP001,20210614,Q7,118,Smartphone,IOS,2,5,5,2,2,79,2,true,95-100,high_i,O&G Producing 20,80023,79,female,1941-12-15,,0
+63866,1301275,DTP001,20210614,Q7,118,Smartphone,IOS,4,4,6,1,2,41,2,true,90-95,middle_i,No O&G Production 20,80906,42,female,1979-01-30,,0
+9493,17665135,DTP001,20210614,Q7,119,Smartphone,Android,1,3,1,5,2,61,1,true,50-60,lower_ii,O&G Producing 20,81504,30,male,1991-01-01,,0
+69699,1868056,DTP001,20210614,Q7,121,Smartphone,Android,4,4,6,1,2,55,2,true,95-100,middle_i,No O&G Production 20,80923,55,female,1965-12-01,,1
+72768,1720093,DTP001,20210614,Q7,126,Desktop,Linux,4,5,4,1,2,73,1,true,90-95,middle_i,O&G Producing 20,81601,71,female,1949-12-04,,0
+37758,2426514,DTP001,20210614,Q7,127,Smartphone,IOS,1,1,1,3,3,62,2,true,80-90,middle_i,O&G Producing 20,81521,62,female,1959-01-01,,0
+25307,15160886,DTP001,20210614,Q7,128,Smartphone,IOS,4,5,5,1,4,85,2,false,70-80,lower_ii,No O&G Production 20,81211,85,female,1936-01-17,,1
+81900,1751305,DTP001,20210614,Q7,128,Smartphone,IOS,4,5,5,1,2,76,2,true,90-95,middle_i,O&G Producing 20,81224,76,female,1945-01-02,,0
+5518,821745,DTP001,20210614,Q7,129,Smartphone,Android,2,2,1,2,2,78,2,true,95-100,lower_ii,No O&G Production 20,80207,77,female,1943-05-03,,0
+71509,2781682,DTP001,20210614,Q7,130,Smartphone,Android,4,5,5,2,2,55,2,true,80-90,middle_i,O&G Producing 20,80615,55,female,1965-08-18,,1
+42304,18570963,DTP001,20210614,Q7,131,Smartphone,IOS,3,6,6,2,3,48,2,true,70-80,lower_ii,No O&G Production 20,80817,25,female,1996-01-01,,0
+81578,464337,DTP001,20210614,Q7,133,Smartphone,Android,2,5,1,2,2,63,2,true,95-100,lower_ii,No O&G Production 20,80239,63,female,1957-08-01,,1
+53184,17674786,DTP001,20210614,Q7,135,Smartphone,IOS,2,1,1,4,4,72,2,true,90-95,lower_ii,No O&G Production 20,80910,42,female,1979-01-01,,1
+64942,15642969,DTP001,20210614,Q7,135,Smartphone,IOS,5,5,6,1,3,61,2,true,95-100,lower_ii,No O&G Production 20,80205,61,female,1960-01-01,,0
+43704,2546648,DTP001,20210614,Q7,139,Smartphone,IOS,5,5,2,1,2,72,2,true,95-100,middle_i,No O&G Production 20,81623,72,female,1948-12-18,,0
+1482,2131818,DTP001,20210614,Q7,144,Smartphone,Android,5,1,1,1,3,60,2,true,90-95,middle_i,O&G Producing 20,81137,60,female,1960-09-07,,0
+6036,2445323,DTP001,20210614,Q7,148,Smartphone,Android,1,1,2,3,2,64,2,true,80-90,lower_ii,O&G Producing 20,81520,64,female,1956-08-20,,0
+65639,554700,DTP001,20210614,Q7,148,Smartphone,IOS,5,3,1,4,2,20,4,true,90-95,high_i,O&G Producing 20,80301,65,female,1955-08-18,,0
+84283,2824168,DTP001,20210614,Q7,149,Smartphone,Android,1,6,1,1,2,43,1,true,95-100,lower_ii,O&G Producing 20,80634,32,male,1988-10-05,,0
+89219,16403022,DTP001,20210614,Q7,152,Smartphone,Android,4,3,1,3,1,61,2,true,70-80,lower_ii,O&G Producing 20,80022,62,female,1959-01-01,,1
+24148,2758736,DTP001,20210614,Q7,157,Smartphone,IOS,1,1,1,2,2,56,1,true,95-100,lower_ii,O&G Producing 20,80631,59,female,1961-09-01,,0
+58023,18596576,DTP001,20210614,Q7,157,Smartphone,IOS,5,4,4,1,2,29,2,true,70-80,lower_ii,No O&G Production 20,80401,30,female,1991-01-01,,1
+46466,17517904,DTP001,20210614,Q7,1437,Smartphone,IOS,5,5,2,5,2,33,2,false,60-70,lower_ii,No O&G Production 20,80908,33,female,1987-07-25,,1
+68642,594017,DTP001,20210614,Q7,159,Smartphone,IOS,4,1,3,1,2,22,4,false,95-100,lower_ii,O&G Producing 20,80305,65,female,1955-07-27,,0
+10973,1125461,DTP001,20210614,Q7,160,Smartphone,IOS,6,5,3,1,3,57,2,true,95-100,middle_i,No O&G Production 20,80224,56,female,1964-07-12,,0
+69912,18736052,DTP001,20210614,Q7,163,Smartphone,IOS,2,5,3,1,2,29,1,true,70-80,lower_ii,No O&G Production 20,80424,30,male,1991-01-01,,1
+89239,1074850,DTP001,20210614,Q7,165,Smartphone,Android,3,4,4,1,4,65,1,true,95-100,middle_i,No O&G Production 20,80249,72,female,1949-03-16,,1
+97325,17544902,DTP001,20210614,Q7,167,Smartphone,IOS,1,3,1,2,4,25,2,false,30-40,lower_ii,O&G Producing 20,80723,26,female,1995-01-01,,0
+81430,15982794,DTP001,20210614,Q7,175,Smartphone,IOS,6,2,3,2,4,30,2,false,40-50,lower_ii,No O&G Production 20,81005,29,female,1991-06-04,,0
+69161,2660593,DTP001,20210614,Q7,189,Smartphone,IOS,6,5,2,2,4,53,2,true,90-95,lower_ii,No O&G Production 20,81144,53,female,1967-08-18,,1
+26494,15251748,DTP001,20210614,Q7,198,Smartphone,IOS,4,4,6,1,4,23,1,false,90-95,lower_ii,No O&G Production 20,80207,31,female,1989-06-18,,1
+47748,15971366,DTP001,20210614,Q7,212,Smartphone,IOS,1,1,2,1,2,76,2,true,95-100,middle_i,O&G Producing 20,81224,76,female,1944-07-28,,0
+62259,19063180,DTP001,20210614,Q7,214,Smartphone,IOS,6,2,4,3,2,58,2,false,50-60,lower_ii,O&G Producing 20,81082,58,female,1962-09-23,,0
+90561,18080229,DTP001,20210614,Q7,216,Smartphone,IOS,1,1,1,5,1,49,1,false,80-90,lower_ii,No O&G Production 20,81007,25,female,1996-01-01,,1
+45998,1321378,DTP001,20210614,Q7,219,Smartphone,Android,4,6,3,4,3,41,2,true,95-100,middle_i,No O&G Production 20,81637,65,female,1956-04-01,,0
+63582,2457230,DTP001,20210614,Q7,221,Smartphone,IOS,1,5,1,2,1,69,1,true,70-80,middle_i,O&G Producing 20,81625,68,female,1952-05-08,,1
+44116,3276074,DTP001,20210614,Q7,241,Smartphone,Android,1,1,1,5,4,40,1,true,80-90,lower_ii,No O&G Production 20,80214,77,female,1943-09-26,,1
+48863,15594349,DTP001,20210614,Q7,241,Smartphone,IOS,1,1,1,3,4,21,4,true,50-60,lower_ii,No O&G Production 20,80215,62,female,1959-01-01,,1
+54493,15367497,DTP001,20210614,Q7,1782,Smartphone,Android,3,3,3,3,2,57,2,true,70-80,middle_i,O&G Producing 20,80642,32,female,1988-12-07,,0
+49707,17620504,DTP001,20210614,Q7,253,Smartphone,IOS,1,3,1,2,2,53,1,true,70-80,lower_ii,O&G Producing 20,81504,50,female,1971-01-01,,0
+6497,17498444,DTP001,20210615,Q7,80,Smartphone,Android,4,4,4,1,2,27,1,true,80-90,middle_i,No O&G Production 20,80206,25,female,1996-04-14,,1
+25832,144882,DTP001,20210615,Q7,95,Smartphone,Android,5,1,1,3,2,27,4,true,80-90,lower_ii,O&G Producing 20,80621,37,female,1983-09-23,,0
+30249,18583395,DTP001,20210615,Q7,120,Smartphone,Android,6,6,6,5,3,83,2,true,60-70,middle_i,No O&G Production 20,80918,83,female,1937-10-10,,0
+41309,15277134,DTP001,20210615,Q7,127,Smartphone,Android,3,6,6,1,2,58,2,true,90-95,lower_ii,O&G Producing 20,80221,57,female,1963-07-01,,0
+66957,15614880,DTP001,20210615,Q7,75,Smartphone,Android,6,4,6,1,2,64,2,false,50-60,lower_ii,O&G Producing 20,81526,65,female,1956-01-01,,1
+21134,3254699,DTP001,20210615,Q7,262,Smartphone,Android,5,5,4,1,2,58,2,true,80-90,middle_i,No O&G Production 20,80903,58,female,1962-12-02,,1
+439,18142326,DTP001,20210615,Q7,65,Smartphone,IOS,5,5,6,1,4,62,2,true,80-90,middle_i,O&G Producing 20,80503,62,female,1959-01-01,,0
+24751,3834875,DTP001,20210615,Q7,267,Smartphone,Android,1,1,1,4,2,77,1,false,60-70,lower_ii,O&G Producing 20,81212,68,female,1953-01-01,,1
+85266,19660763,DTP001,20210615,Q7,270,Smartphone,IOS,5,5,5,1,2,29,2,true,95-100,,No O&G Production 20,80906,29,female,1992-02-01,,1
+74257,1574327,DTP001,20210615,Q7,271,Smartphone,Android,6,5,6,1,2,44,2,true,90-95,lower_ii,No O&G Production 20,80918,44,female,1976-09-13,,1
+65559,1589752,DTP001,20210615,Q7,164,Smartphone,Android,4,4,3,1,3,61,2,true,90-95,lower_i,No O&G Production 20,80910,61,female,1959-09-24,,1
+38428,2638569,DTP001,20210615,Q7,282,Smartphone,IOS,6,6,1,1,2,62,2,true,95-100,middle_i,No O&G Production 20,81007,62,female,1959-02-12,,0
+80114,3350876,DTP001,20210615,Q7,33,Smartphone,Android,5,5,5,1,4,33,4,true,95-100,middle_i,O&G Producing 20,80540,33,female,1988-04-09,,0
+97754,16144741,DTP001,20210615,Q7,34,Smartphone,Android,5,5,5,1,2,29,3,true,70-80,middle_i,No O&G Production 20,80919,28,female,1992-05-28,,0
+25480,18705467,DTP001,20210615,Q7,35,Smartphone,IOS,6,6,6,2,4,32,2,false,50-60,lower_ii,No O&G Production 20,80224,32,female,1989-03-02,,1
+26247,18413980,DTP001,20210615,Q7,35,Smartphone,IOS,5,5,5,1,3,24,2,true,80-90,high_ii,No O&G Production 20,80211,24,female,1997-03-05,,0
+49533,18373118,DTP001,20210615,Q7,37,Smartphone,IOS,5,1,6,1,2,40,2,true,95-100,middle_i,O&G Producing 20,80504,40,female,1980-09-02,,1
+1240,19013847,DTP001,20210615,Q7,38,Smartphone,IOS,5,5,5,1,4,28,2,true,80-90,lower_ii,No O&G Production 20,80424,27,female,1993-06-04,,0
+24898,17018987,DTP001,20210615,Q7,38,Smartphone,IOS,5,5,4,1,4,31,1,true,90-95,lower_ii,O&G Producing 20,80631,31,male,1990-03-01,,0
+29469,15310546,DTP001,20210615,Q7,38,Smartphone,IOS,5,5,5,1,4,31,2,true,90-95,middle_i,No O&G Production 20,80916,31,female,1989-11-04,,0
+66691,18381985,DTP001,20210615,Q7,38,Smartphone,IOS,6,4,3,1,4,36,2,true,80-90,middle_i,O&G Producing 20,80304,36,female,1984-11-24,,0
+30175,18285173,DTP001,20210615,Q7,39,Smartphone,IOS,5,5,5,1,2,32,1,true,80-90,lower_ii,O&G Producing 20,80501,31,male,1989-05-01,,0
+9657,17911755,DTP001,20210615,Q7,40,Smartphone,IOS,5,4,4,1,4,33,2,true,80-90,middle_i,No O&G Production 20,80211,33,female,1987-12-14,,0
+25109,1105177,DTP001,20210615,Q7,40,Smartphone,IOS,5,5,4,1,4,43,2,true,95-100,lower_ii,No O&G Production 20,80220,43,female,1977-12-23,,0
+33514,18799710,DTP001,20210615,Q7,40,Smartphone,IOS,5,5,5,1,2,23,2,true,60-70,lower_ii,O&G Producing 20,80524,23,female,1997-10-28,,1
+38126,18783979,DTP001,20210615,Q7,40,Smartphone,IOS,4,5,3,1,2,33,2,true,70-80,high_i,No O&G Production 20,81632,33,female,1988-01-16,,0
+29823,3372230,DTP001,20210615,Q7,296,Smartphone,IOS,3,3,6,2,4,56,2,false,95-100,lower_ii,No O&G Production 20,80904,56,female,1965-01-18,,1
+31486,16992460,DTP001,20210615,Q7,41,Smartphone,IOS,5,5,6,1,2,31,2,false,70-80,lower_ii,No O&G Production 20,80237,31,female,1989-07-13,,0
+72907,2511473,DTP001,20210615,Q7,41,Smartphone,IOS,3,4,6,2,2,39,2,true,80-90,lower_ii,No O&G Production 20,80109,39,female,1981-06-17,,0
+42349,18350152,DTP001,20210615,Q7,42,Smartphone,IOS,4,5,3,1,2,35,2,true,60-70,lower_ii,No O&G Production 20,80003,34,female,1986-05-01,,0
+76842,18263691,DTP001,20210615,Q7,42,Smartphone,IOS,5,5,5,1,2,27,2,true,60-70,high_i,No O&G Production 20,80205,27,female,1993-12-02,,0
+11610,15900202,DTP001,20210615,Q7,43,Smartphone,IOS,4,4,4,2,4,39,2,true,95-100,lower_ii,No O&G Production 20,80203,39,female,1981-10-31,,0
+36390,17389424,DTP001,20210615,Q7,43,Smartphone,IOS,5,5,5,1,4,31,4,false,95-100,lower_ii,No O&G Production 20,80424,32,female,1989-01-01,,1
+38167,18408397,DTP001,20210615,Q7,43,Smartphone,Android,1,2,2,3,1,31,2,false,60-70,lower_ii,O&G Producing 20,80631,31,female,1989-09-01,,1
+66523,15630397,DTP001,20210615,Q7,43,Smartphone,IOS,5,5,4,1,2,31,2,true,95-100,middle_i,No O&G Production 20,80239,31,female,1990-04-18,,0
+78130,17154313,DTP001,20210615,Q7,43,Smartphone,IOS,3,5,2,3,1,27,2,false,80-90,lower_ii,No O&G Production 20,80237,27,female,1994-03-04,,1
+83360,983536,DTP001,20210615,Q7,43,Smartphone,IOS,5,5,4,1,2,38,2,false,95-100,lower_ii,No O&G Production 20,80123,33,female,1987-09-01,,0
+45613,16262975,DTP001,20210615,Q7,44,Smartphone,Android,3,5,4,2,2,32,2,true,50-60,middle_i,O&G Producing 20,81650,33,female,1988-01-01,,1
+45767,18416914,DTP001,20210615,Q7,44,Smartphone,Android,5,5,3,1,4,28,1,true,80-90,lower_ii,O&G Producing 20,80305,27,male,1993-07-18,,1
+54572,16450936,DTP001,20210615,Q7,44,Smartphone,Android,5,5,5,1,4,30,3,true,95-100,lower_ii,No O&G Production 20,80237,30,female,1990-05-01,,0
+59651,155568,DTP001,20210615,Q7,44,Smartphone,IOS,5,5,6,1,2,42,2,true,95-100,high_i,No O&G Production 20,80108,41,female,1979-05-08,,1
+91006,18102852,DTP001,20210615,Q7,44,Smartphone,Android,5,5,4,1,2,26,2,false,80-90,lower_ii,No O&G Production 20,80424,27,female,1994-01-01,,1
+40,15307616,DTP001,20210615,Q7,45,Smartphone,IOS,5,5,5,1,2,32,2,true,80-90,middle_i,O&G Producing 20,80504,31,female,1989-06-01,,1
+26499,15272800,DTP001,20210615,Q7,45,Smartphone,IOS,6,4,6,1,2,32,2,false,90-95,lower_ii,No O&G Production 20,80218,32,female,1989-02-08,,0
+36773,15732444,DTP001,20210615,Q7,45,Smartphone,IOS,6,5,6,1,2,30,2,false,50-60,lower_ii,No O&G Production 20,80132,30,female,1990-09-07,,1
+41553,18781787,DTP001,20210615,Q7,45,Smartphone,Android,5,5,2,1,3,34,1,false,80-90,lower_ii,No O&G Production 20,80249,29,female,1991-08-23,,1
+62002,18786048,DTP001,20210615,Q7,45,Smartphone,Android,3,4,1,2,4,26,2,true,70-80,lower_ii,O&G Producing 20,81506,26,female,1994-06-27,,0
+67900,17712501,DTP001,20210615,Q7,45,Smartphone,IOS,6,4,6,2,3,27,2,true,80-90,middle_i,No O&G Production 20,80123,27,female,1993-12-15,,1
+69770,16859690,DTP001,20210615,Q7,45,Smartphone,IOS,5,5,4,2,1,28,2,true,70-80,lower_ii,O&G Producing 20,80010,28,female,1992-11-01,,1
+79523,18317776,DTP001,20210615,Q7,45,Smartphone,IOS,4,4,2,2,4,33,2,true,90-95,lower_ii,No O&G Production 20,80204,33,female,1988-01-02,,1
+81919,596274,DTP001,20210615,Q7,160,Smartphone,Android,4,5,4,3,2,50,4,false,95-100,lower_ii,O&G Producing 20,80501,72,female,1948-12-01,,1
+84501,15705521,DTP001,20210615,Q7,45,Smartphone,IOS,5,5,3,1,4,30,1,true,90-95,lower_ii,No O&G Production 20,80903,31,male,1990-01-01,,1
+5513,18956764,DTP001,20210615,Q7,46,Smartphone,IOS,6,4,6,2,4,18,2,false,70-80,lower_ii,No O&G Production 20,80921,26,female,1995-01-01,,1
+10993,16462992,DTP001,20210615,Q7,46,Smartphone,IOS,4,5,5,1,4,29,2,true,80-90,lower_i,No O&G Production 20,80126,29,female,1991-07-01,,1
+24469,231297,DTP001,20210615,Q7,46,Smartphone,IOS,5,5,4,1,2,42,2,true,95-100,high_i,No O&G Production 20,81632,42,female,1978-08-28,,1
+49153,15316461,DTP001,20210615,Q7,46,Smartphone,IOS,4,5,5,1,4,31,2,true,90-95,lower_ii,O&G Producing 20,80623,31,female,1989-08-03,,1
+49485,18147833,DTP001,20210615,Q7,46,Smartphone,IOS,6,3,2,2,2,33,2,true,90-95,middle_i,No O&G Production 20,80435,33,female,1988-01-01,,0
+90796,15289267,DTP001,20210615,Q7,46,Smartphone,IOS,1,2,2,2,4,31,2,true,80-90,middle_ii,O&G Producing 20,80634,31,female,1990-02-05,,0
+94133,19745185,DTP001,20210615,Q7,46,Smartphone,IOS,5,5,5,1,3,31,2,true,80-90,,O&G Producing 20,80467,31,female,1989-12-12,,1
+11736,17544331,DTP001,20210615,Q7,47,Smartphone,IOS,5,5,5,1,1,30,2,true,90-95,middle_ii,O&G Producing 20,80023,30,female,1990-11-09,,1
+72358,18642334,DTP001,20210615,Q7,47,Smartphone,Android,5,5,5,1,4,28,2,true,70-80,lower_ii,O&G Producing 20,80603,24,female,1996-05-01,,0
+41744,18601544,DTP001,20210615,Q7,48,Smartphone,IOS,3,3,2,2,4,23,2,true,70-80,lower_ii,O&G Producing 20,80501,23,female,1998-01-30,,0
+81195,19606487,DTP001,20210615,Q7,48,Smartphone,IOS,6,5,5,1,4,28,2,true,80-90,,No O&G Production 20,80435,29,female,1992-01-01,,1
+2470,4321060,DTP001,20210615,Q7,49,Smartphone,IOS,5,5,5,1,4,32,2,true,95-100,middle_i,No O&G Production 20,81656,32,female,1988-08-09,,0
+6915,2330384,DTP001,20210615,Q7,49,Smartphone,IOS,3,4,2,1,4,34,2,true,95-100,lower_ii,O&G Producing 20,80303,34,female,1986-08-23,,1
+20427,19799497,DTP001,20210615,Q7,49,Smartphone,IOS,4,5,5,1,2,34,4,true,70-80,,No O&G Production 20,80910,34,female,1986-08-05,,0
+20647,165651,DTP001,20210615,Q7,49,Smartphone,IOS,5,5,5,1,4,30,2,true,95-100,lower_ii,O&G Producing 20,80229,57,female,1964-01-09,,1
+25467,15609688,DTP001,20210615,Q7,49,Smartphone,Android,4,5,6,2,2,36,2,true,90-95,lower_ii,O&G Producing 20,80524,36,female,1984-11-12,,0
+43234,840604,DTP001,20210615,Q7,49,Smartphone,IOS,5,5,3,2,2,44,2,true,95-100,high_i,No O&G Production 20,80906,44,female,1976-10-29,,0
+56120,18210451,DTP001,20210615,Q7,49,Smartphone,IOS,6,3,3,1,1,26,2,false,90-95,lower_ii,No O&G Production 20,81004,27,female,1994-01-01,,1
+75535,17047884,DTP001,20210615,Q7,49,Smartphone,Android,5,4,4,2,3,28,2,true,80-90,middle_i,O&G Producing 20,80504,28,female,1992-12-01,,1
+91665,701974,DTP001,20210615,Q7,49,Smartphone,IOS,6,6,6,1,4,35,2,false,70-80,lower_ii,O&G Producing 20,80530,34,female,1986-06-09,,1
+14489,18500151,DTP001,20210615,Q7,50,Smartphone,Android,5,5,6,1,4,24,2,true,90-95,middle_i,O&G Producing 20,80233,23,female,1997-06-12,,0
+26077,4262050,DTP001,20210615,Q7,50,Smartphone,IOS,3,2,1,1,2,33,2,true,95-100,middle_i,O&G Producing 20,81430,33,female,1987-12-01,,1
+32583,15606897,DTP001,20210615,Q7,50,Smartphone,IOS,5,5,5,1,2,26,1,true,95-100,lower_ii,No O&G Production 20,80220,83,female,1938-01-01,,1
+36328,4678443,DTP001,20210615,Q7,50,Smartphone,IOS,2,2,1,4,4,34,2,true,80-90,high_i,O&G Producing 20,80503,33,female,1987-05-18,,0
+63785,18279855,DTP001,20210615,Q7,50,Smartphone,IOS,4,3,1,1,1,28,2,false,70-80,lower_ii,O&G Producing 20,80631,24,female,1996-05-08,,0
+74889,18409439,DTP001,20210615,Q7,50,Smartphone,IOS,5,5,4,2,3,24,2,true,70-80,lower_ii,O&G Producing 20,81428,25,female,1996-01-01,,1
+97305,1055835,DTP001,20210615,Q7,50,Smartphone,Android,4,5,4,1,2,46,2,true,70-80,lower_ii,No O&G Production 20,81201,46,female,1974-11-28,,0
+28753,17608885,DTP001,20210615,Q7,306,Smartphone,IOS,5,5,6,1,2,33,2,true,90-95,lower_ii,O&G Producing 20,80603,33,female,1987-12-24,,0
+5634,16417839,DTP001,20210615,Q7,51,Desktop,Windows,5,5,4,2,2,34,2,true,95-100,high_i,O&G Producing 20,80304,34,female,1987-01-01,,1
+22627,18620660,DTP001,20210615,Q7,51,Smartphone,Android,6,4,6,2,2,32,1,true,70-80,lower_ii,No O&G Production 20,80424,33,male,1988-01-01,,1
+25246,18959075,DTP001,20210615,Q7,51,Smartphone,IOS,6,4,6,2,4,25,2,true,50-60,lower_ii,No O&G Production 20,80424,25,female,1995-09-06,,1
+25728,19029433,DTP001,20210615,Q7,51,Smartphone,IOS,6,6,6,2,2,22,2,true,90-95,high_i,No O&G Production 20,80211,22,female,1998-12-11,,1
+30505,18896366,DTP001,20210615,Q7,52,Smartphone,IOS,5,5,3,1,2,32,2,true,90-95,lower_ii,O&G Producing 20,80305,32,female,1989-01-01,,0
+31677,19072041,DTP001,20210615,Q7,51,Smartphone,Android,6,4,6,1,4,33,1,true,95-100,middle_i,No O&G Production 20,80249,32,female,1988-10-23,,0
+69341,15286640,DTP001,20210615,Q7,51,Smartphone,IOS,3,4,6,2,2,34,2,true,90-95,lower_i,No O&G Production 20,80237,34,female,1986-11-10,,0
+76905,18447101,DTP001,20210615,Q7,51,Smartphone,IOS,1,1,2,2,2,29,1,false,40-50,lower_ii,No O&G Production 20,80923,29,female,1992-01-01,,0
+74642,1956569,DTP001,20210615,Q7,819,Smartphone,Android,5,5,5,2,2,77,2,true,95-100,lower_ii,No O&G Production 20,80214,78,female,1942-11-23,,1
+30956,18436308,DTP001,20210615,Q7,53,Smartphone,Android,1,3,1,3,2,37,2,true,60-70,middle_i,No O&G Production 20,80108,37,female,1983-11-30,,0
+39415,689269,DTP001,20210615,Q7,53,Tablet,Mac OS X,4,5,4,1,3,41,2,true,95-100,high_i,O&G Producing 20,80516,41,female,1979-10-26,,1
+58524,2443323,DTP001,20210615,Q7,53,Smartphone,Android,4,4,4,1,2,54,2,true,80-90,lower_ii,O&G Producing 20,81506,54,female,1966-10-07,,0
+66197,2467745,DTP001,20210615,Q7,53,Smartphone,Android,3,5,5,2,2,54,2,true,90-95,lower_ii,O&G Producing 20,81323,54,female,1966-11-09,,1
+68482,18216996,DTP001,20210615,Q7,53,Smartphone,IOS,5,5,6,1,4,31,2,true,70-80,middle_i,No O&G Production 20,80905,31,female,1990-02-01,,1
+75133,17636819,DTP001,20210615,Q7,53,Smartphone,IOS,5,5,5,1,1,49,2,true,80-90,high_i,No O&G Production 20,80239,56,female,1964-09-09,,0
+91806,17865424,DTP001,20210615,Q7,53,Smartphone,Android,4,5,5,1,3,28,4,true,40-50,lower_ii,O&G Producing 20,80022,27,female,1993-06-15,,1
+4337,18339723,DTP001,20210615,Q7,54,Smartphone,Android,4,4,4,1,2,26,2,false,80-90,lower_ii,No O&G Production 20,80224,26,female,1995-02-03,,0
+11119,18637979,DTP001,20210615,Q7,54,Smartphone,Android,5,5,5,1,4,25,2,true,70-80,middle_i,O&G Producing 20,80504,25,female,1995-10-16,,1
+17944,18552278,DTP001,20210615,Q7,54,Smartphone,Android,5,5,5,1,2,27,4,false,60-70,lower_ii,No O&G Production 20,80917,27,female,1993-09-18,,0
+26353,18670331,DTP001,20210615,Q7,54,Smartphone,IOS,3,4,2,1,2,31,2,true,60-70,middle_i,No O&G Production 20,80442,30,female,1990-05-12,,0
+18045,2196457,DTP001,20210615,Q7,55,Smartphone,IOS,5,5,3,1,2,68,2,true,90-95,lower_ii,O&G Producing 20,80517,68,female,1952-10-04,,0
+18433,17547011,DTP001,20210615,Q7,55,Smartphone,IOS,4,5,4,1,2,27,2,true,90-95,middle_i,O&G Producing 20,81326,27,female,1993-12-17,,0
+19403,18601689,DTP001,20210615,Q7,55,Smartphone,IOS,4,4,2,2,2,23,4,false,95-100,lower_ii,O&G Producing 20,80601,23,female,1997-12-07,,0
+24439,18499229,DTP001,20210615,Q7,55,Smartphone,IOS,4,5,4,1,1,28,2,true,95-100,lower_ii,O&G Producing 20,80304,29,female,1992-01-01,,1
+50985,16442498,DTP001,20210615,Q7,55,Smartphone,Android,1,2,1,3,4,34,1,false,50-60,lower_ii,O&G Producing 20,80221,29,female,1991-05-30,,1
+52288,17304308,DTP001,20210615,Q7,55,Smartphone,IOS,1,5,5,5,4,45,2,true,95-100,lower_i,No O&G Production 20,81007,44,female,1976-10-01,,0
+84240,16482510,DTP001,20210615,Q7,55,Smartphone,Android,5,5,4,1,4,43,2,true,95-100,high_i,No O&G Production 20,80124,43,female,1977-10-04,,0
+21992,18799227,DTP001,20210615,Q7,56,Smartphone,IOS,5,1,1,2,2,22,2,false,40-50,lower_ii,No O&G Production 20,81403,22,female,1998-08-25,,0
+28714,15746131,DTP001,20210615,Q7,56,Smartphone,IOS,4,4,3,2,2,38,2,true,95-100,middle_i,No O&G Production 20,81621,38,female,1982-07-23,,1
+35100,16924417,DTP001,20210615,Q7,56,Smartphone,IOS,3,4,4,1,2,29,2,true,80-90,lower_ii,No O&G Production 20,80227,29,female,1992-03-01,,1
+54929,1510542,DTP001,20210615,Q7,56,Smartphone,Android,5,5,5,1,2,48,2,true,80-90,lower_ii,No O&G Production 20,80903,48,female,1972-11-04,,1
+64587,4382126,DTP001,20210615,Q7,56,Smartphone,IOS,6,4,4,1,4,21,2,true,40-50,lower_ii,No O&G Production 20,80911,21,female,2000-01-01,,0
+65422,16448391,DTP001,20210615,Q7,56,Smartphone,IOS,6,4,6,1,2,29,2,true,80-90,high_i,No O&G Production 20,80202,29,female,1992-01-01,,0
+67659,3369504,DTP001,20210615,Q7,56,Smartphone,IOS,5,5,5,1,4,55,2,true,90-95,lower_ii,O&G Producing 20,80020,55,female,1965-08-01,,0
+75848,16430647,DTP001,20210615,Q7,56,Smartphone,IOS,5,1,1,5,1,28,2,false,70-80,lower_ii,O&G Producing 20,80019,29,female,1992-01-01,,1
+90430,18734382,DTP001,20210615,Q7,56,Smartphone,IOS,3,5,5,1,3,23,2,true,50-60,high_iii,No O&G Production 20,80108,23,female,1998-01-01,,0
+776,18387393,DTP001,20210615,Q7,57,Smartphone,IOS,6,3,6,3,2,24,2,false,50-60,lower_ii,No O&G Production 20,80109,24,female,1997-01-01,,0
+20159,1578263,DTP001,20210615,Q7,57,Smartphone,IOS,4,5,5,1,2,60,2,true,95-100,middle_i,No O&G Production 20,80829,60,female,1960-07-14,,0
+21128,18665896,DTP001,20210615,Q7,57,Smartphone,Android,3,4,2,3,2,31,2,true,80-90,lower_ii,No O&G Production 20,80231,31,female,1990-01-01,,0
+41890,16045642,DTP001,20210615,Q7,57,Smartphone,Android,4,5,6,1,4,31,2,true,60-70,middle_ii,No O&G Production 20,80911,30,female,1990-05-01,,0
+42332,16269162,DTP001,20210615,Q7,57,Smartphone,Android,2,5,2,2,4,30,2,false,95-100,lower_ii,No O&G Production 20,80218,30,female,1990-10-01,,1
+90043,318899,DTP001,20210615,Q7,57,Smartphone,IOS,4,2,1,1,2,47,2,true,90-95,lower_ii,O&G Producing 20,80503,47,female,1974-04-20,,1
+2101,1056638,DTP001,20210615,Q7,58,Smartphone,Android,3,4,1,1,2,26,2,false,95-100,lower_ii,No O&G Production 20,80204,25,female,1995-05-30,,0
+68255,16493240,DTP001,20210615,Q7,58,Smartphone,IOS,5,5,3,1,4,37,2,true,80-90,lower_ii,No O&G Production 20,80909,37,female,1983-10-20,,0
+98826,15804617,DTP001,20210615,Q7,58,Smartphone,IOS,4,5,4,1,2,36,2,true,95-100,lower_ii,No O&G Production 20,80211,36,female,1984-08-20,,0
+100414,15970374,DTP001,20210615,Q7,58,Smartphone,Android,4,5,2,1,3,30,2,true,80-90,lower_ii,O&G Producing 20,81503,30,female,1990-12-01,,0
+10501,18020895,DTP001,20210615,Q7,59,Smartphone,IOS,5,5,3,1,2,37,3,true,80-90,middle_i,No O&G Production 20,80112,37,female,1983-09-12,,1
+38403,1586233,DTP001,20210615,Q7,59,Smartphone,Android,5,5,4,1,3,38,2,true,95-100,lower_ii,No O&G Production 20,80220,38,female,1982-10-01,,0
+66735,17852520,DTP001,20210615,Q7,59,Smartphone,IOS,6,4,4,1,2,30,2,true,70-80,middle_i,O&G Producing 20,81301,29,female,1991-09-01,,0
+78814,18517921,DTP001,20210615,Q7,59,Smartphone,IOS,5,4,4,1,2,31,2,true,70-80,middle_ii,No O&G Production 20,80138,30,female,1990-08-01,,1
+81038,17006519,DTP001,20210615,Q7,59,Smartphone,IOS,5,5,6,1,4,28,2,true,80-90,middle_i,O&G Producing 20,80233,29,female,1992-04-01,,1
+10131,19062782,DTP001,20210615,Q7,60,Smartphone,IOS,5,5,2,1,2,34,4,true,90-95,lower_ii,No O&G Production 20,80228,33,female,1987-07-04,,0
+28101,19664408,DTP001,20210615,Q7,60,Smartphone,IOS,5,5,2,1,2,29,2,true,60-70,,O&G Producing 20,81430,28,female,1992-05-03,,1
+52014,17133688,DTP001,20210615,Q7,60,Smartphone,Android,1,5,1,2,2,50,2,true,80-90,lower_ii,O&G Producing 20,80241,52,female,1969-04-01,,1
+53805,18890914,DTP001,20210615,Q7,60,Smartphone,IOS,3,3,1,2,2,25,2,false,60-70,lower_ii,O&G Producing 20,80022,25,female,1995-11-08,,1
+56279,16165449,DTP001,20210615,Q7,60,Smartphone,IOS,4,4,4,1,2,26,2,true,60-70,middle_i,O&G Producing 20,80023,26,female,1995-03-01,,1
+56811,15862010,DTP001,20210615,Q7,60,Smartphone,IOS,2,4,1,1,4,31,2,true,95-100,lower_ii,O&G Producing 20,80233,31,female,1990-03-01,,1
+37976,16015550,DTP001,20210615,Q7,61,Smartphone,Android,5,5,5,3,2,46,2,true,50-60,lower_ii,No O&G Production 20,80910,46,female,1974-09-01,,0
+38112,2543568,DTP001,20210615,Q7,61,Smartphone,IOS,4,5,4,1,4,77,2,true,70-80,middle_i,No O&G Production 20,81621,77,female,1943-08-22,,1
+38254,18923158,DTP001,20210615,Q7,61,Smartphone,IOS,5,4,4,1,1,56,2,false,60-70,lower_ii,No O&G Production 20,80906,57,female,1964-04-23,,1
+54919,465561,DTP001,20210615,Q7,61,Smartphone,IOS,2,5,2,2,4,62,2,true,95-100,lower_ii,No O&G Production 20,80231,62,female,1958-11-25,,1
+63532,4261003,DTP001,20210615,Q7,61,Smartphone,IOS,6,6,6,2,2,33,2,true,70-80,middle_i,O&G Producing 20,80233,33,female,1987-08-12,,0
+84907,2387966,DTP001,20210615,Q7,61,Smartphone,Android,3,4,4,1,2,60,2,false,95-100,lower_ii,No O&G Production 20,81004,60,female,1961-02-01,,0
+86145,18437149,DTP001,20210615,Q7,61,Smartphone,IOS,4,5,3,2,2,36,2,true,95-100,lower_ii,O&G Producing 20,81301,36,female,1985-02-23,,0
+95083,18669519,DTP001,20210615,Q7,61,Smartphone,Android,5,5,5,3,3,26,2,false,50-60,lower_ii,No O&G Production 20,80249,26,female,1994-12-29,,1
+36699,2365864,DTP001,20210615,Q7,62,Smartphone,IOS,2,4,4,1,4,70,2,true,95-100,middle_i,O&G Producing 20,81523,69,female,1951-07-07,,0
+69562,17564878,DTP001,20210615,Q7,62,Smartphone,IOS,3,1,2,2,3,56,2,true,80-90,lower_ii,No O&G Production 20,81006,26,female,1994-08-13,,0
+77037,2666464,DTP001,20210615,Q7,62,Smartphone,IOS,3,4,6,1,2,56,2,true,80-90,middle_i,O&G Producing 20,80487,56,female,1965-03-31,,0
+81743,19101271,DTP001,20210615,Q7,62,Smartphone,IOS,6,6,6,2,3,34,2,true,80-90,middle_i,No O&G Production 20,80204,33,female,1987-05-27,,1
+91659,72293,DTP001,20210615,Q7,62,Smartphone,Android,5,5,5,1,2,35,2,true,90-95,middle_i,No O&G Production 20,80918,34,female,1986-05-01,,1
+12275,18271220,DTP001,20210615,Q7,63,Smartphone,IOS,2,4,1,2,2,25,2,false,70-80,lower_ii,No O&G Production 20,80202,25,female,1996-02-29,,1
+23404,17667618,DTP001,20210615,Q7,63,Smartphone,Android,5,5,4,1,3,29,2,true,70-80,lower_ii,O&G Producing 20,80537,29,female,1991-06-01,,1
+24964,17435529,DTP001,20210615,Q7,63,Smartphone,IOS,4,4,2,1,4,19,2,true,70-80,high_i,O&G Producing 20,80305,19,female,2002-02-08,,0
+27555,2618337,DTP001,20210615,Q7,63,Smartphone,Android,3,3,3,1,1,41,2,true,95-100,middle_i,No O&G Production 20,80203,64,female,1956-12-10,,0
+36261,3398992,DTP001,20210615,Q7,63,Smartphone,IOS,5,5,2,1,1,33,2,true,95-100,middle_i,No O&G Production 20,80247,33,female,1987-07-01,,0
+44369,18561101,DTP001,20210615,Q7,63,Smartphone,Android,4,4,4,1,2,29,2,false,50-60,lower_ii,No O&G Production 20,80134,29,female,1991-11-01,,0
+64283,16323287,DTP001,20210615,Q7,63,Smartphone,IOS,5,4,2,2,2,30,2,true,80-90,lower_ii,O&G Producing 20,80026,30,female,1990-12-13,,0
+85712,2135455,DTP001,20210615,Q7,63,Smartphone,IOS,3,5,4,1,2,35,2,true,95-100,middle_i,O&G Producing 20,81301,38,female,1983-04-19,,0
+89227,17559947,DTP001,20210615,Q7,63,Smartphone,Android,3,5,4,1,2,37,2,true,90-95,lower_ii,No O&G Production 20,80424,38,female,1983-01-01,,1
+17476,15426716,DTP001,20210615,Q7,319,Smartphone,Android,1,1,1,2,2,40,2,true,70-80,middle_i,No O&G Production 20,80911,41,female,1980-02-01,,1
+41762,18331889,DTP001,20210615,Q7,64,Smartphone,IOS,5,5,5,1,2,30,2,false,90-95,lower_ii,O&G Producing 20,80601,30,female,1990-09-20,,0
+30325,1357447,DTP001,20210615,Q7,65,Smartphone,Android,3,4,4,1,3,57,2,true,80-90,lower_ii,No O&G Production 20,80907,57,female,1963-10-24,,1
+50241,1752226,DTP001,20210615,Q7,65,Smartphone,IOS,3,4,4,1,3,47,2,true,95-100,lower_ii,O&G Producing 20,81230,47,female,1973-10-15,,1
+18467,1627725,DTP001,20210615,Q7,66,Smartphone,Android,4,5,3,1,3,53,2,true,95-100,lower_ii,No O&G Production 20,80909,53,female,1967-12-30,,1
+18720,15306500,DTP001,20210615,Q7,66,Smartphone,Android,1,1,4,2,4,31,2,false,50-60,lower_ii,O&G Producing 20,80634,31,female,1990-01-05,,0
+28532,3331369,DTP001,20210615,Q7,66,Smartphone,Android,5,1,2,5,2,33,1,true,60-70,lower_ii,No O&G Production 20,80909,33,male,1988-01-30,,0
+53154,848846,DTP001,20210615,Q7,66,Smartphone,IOS,3,5,4,1,2,36,2,true,95-100,lower_ii,No O&G Production 20,80216,36,female,1985-02-28,,0
+66145,3961466,DTP001,20210615,Q7,66,Smartphone,IOS,4,4,2,1,2,55,2,true,95-100,middle_i,No O&G Production 20,80222,55,female,1965-12-01,,0
+78452,18510273,DTP001,20210615,Q7,66,Smartphone,IOS,5,5,5,2,2,27,2,true,90-95,middle_i,O&G Producing 20,80233,27,female,1993-10-23,,0
+84427,15669561,DTP001,20210615,Q7,66,Smartphone,IOS,3,5,5,1,2,37,2,true,70-80,high_i,No O&G Production 20,81620,37,female,1983-10-01,,0
+34464,3399336,DTP001,20210615,Q7,67,Smartphone,IOS,6,2,6,1,2,42,2,true,95-100,lower_ii,No O&G Production 20,81101,43,female,1977-12-01,,0
+94260,18182668,DTP001,20210615,Q7,67,Smartphone,IOS,1,3,3,2,2,30,2,true,80-90,middle_i,O&G Producing 20,81224,30,female,1991-01-01,,0
+16372,18481185,DTP001,20210615,Q7,68,Smartphone,IOS,5,5,4,1,4,32,2,true,90-95,middle_i,O&G Producing 20,80301,32,female,1988-07-16,,0
+34154,16015644,DTP001,20210615,Q7,68,Smartphone,IOS,5,5,4,1,2,30,2,true,70-80,middle_i,O&G Producing 20,80631,29,female,1991-05-20,,0
+51529,2641224,DTP001,20210615,Q7,68,Smartphone,IOS,1,2,1,3,2,58,1,true,70-80,lower_ii,No O&G Production 20,80915,94,female,1926-09-24,,1
+59701,2137653,DTP001,20210615,Q7,68,Smartphone,IOS,4,5,5,1,4,73,2,true,90-95,middle_i,O&G Producing 20,81301,73,female,1947-07-11,,1
+83874,15305116,DTP001,20210615,Q7,68,Smartphone,IOS,4,5,4,1,4,19,1,true,80-90,lower_ii,O&G Producing 20,80631,66,female,1954-08-11,,1
+97594,2637788,DTP001,20210615,Q7,68,Smartphone,Android,5,4,3,2,3,59,2,true,95-100,middle_i,No O&G Production 20,81007,59,female,1962-01-31,,0
+2245,15757135,DTP001,20210615,Q7,69,Smartphone,Android,1,1,1,3,4,30,2,false,80-90,lower_ii,O&G Producing 20,80631,30,female,1990-06-22,,0
+20243,693065,DTP001,20210615,Q7,69,Smartphone,IOS,5,5,6,1,2,62,2,true,95-100,middle_i,O&G Producing 20,80540,61,female,1959-06-01,,1
+50474,18741448,DTP001,20210615,Q7,69,Smartphone,IOS,5,5,5,1,4,40,1,true,90-95,lower_ii,No O&G Production 20,80218,38,female,1982-07-01,,1
+51241,18723993,DTP001,20210615,Q7,69,Smartphone,Android,4,5,6,1,2,31,2,true,90-95,middle_ii,O&G Producing 20,80021,31,female,1989-07-27,,0
+55231,1531659,DTP001,20210615,Q7,69,Smartphone,IOS,6,5,2,1,2,57,2,true,90-95,lower_ii,O&G Producing 20,80487,57,female,1963-11-09,,0
+70126,15579449,DTP001,20210615,Q7,69,Smartphone,Android,5,4,4,1,1,35,2,true,80-90,lower_ii,O&G Producing 20,80526,34,female,1986-05-01,,0
+77315,18349154,DTP001,20210615,Q7,69,Desktop,Mac OS X,5,5,3,1,2,33,2,true,90-95,lower_ii,No O&G Production 20,80205,34,female,1987-01-01,,0
+96112,2360236,DTP001,20210615,Q7,69,Smartphone,Android,3,4,4,1,4,56,4,true,95-100,lower_ii,O&G Producing 20,80751,56,female,1964-08-21,,0
+7864,16442899,DTP001,20210615,Q7,70,Smartphone,IOS,5,5,4,1,2,30,2,true,90-95,high_i,No O&G Production 20,80205,30,female,1991-02-01,,0
+19531,17052932,DTP001,20210615,Q7,70,Smartphone,IOS,3,4,4,1,4,33,2,true,95-100,lower_ii,No O&G Production 20,80126,33,female,1987-06-01,,0
+36832,15575351,DTP001,20210615,Q7,70,Smartphone,Android,4,3,2,3,2,36,2,true,95-100,lower_ii,No O&G Production 20,80231,36,female,1984-11-01,,0
+53117,19016386,DTP001,20210615,Q7,70,Smartphone,IOS,5,4,3,4,4,22,2,true,90-95,lower_i,No O&G Production 20,80219,22,female,1999-01-01,,0
+65616,17660637,DTP001,20210615,Q7,71,Smartphone,Android,4,4,2,1,4,27,2,true,30-40,lower_i,O&G Producing 20,81323,26,female,1994-05-27,,1
+49645,18266692,DTP001,20210615,Q7,72,Smartphone,IOS,3,5,6,1,2,54,2,false,90-95,lower_ii,O&G Producing 20,80503,26,female,1995-01-01,,1
+52246,2129142,DTP001,20210615,Q7,72,Smartphone,IOS,1,1,1,1,2,57,2,true,80-90,middle_i,O&G Producing 20,81301,58,female,1962-12-10,,1
+77916,2986360,DTP001,20210615,Q7,72,Smartphone,IOS,3,5,4,2,4,64,2,false,80-90,lower_ii,O&G Producing 20,80631,63,female,1957-05-28,,1
+49285,17358105,DTP001,20210615,Q7,73,Smartphone,Android,2,3,2,4,4,49,1,false,90-95,lower_ii,O&G Producing 20,80260,26,female,1994-08-26,,1
+50771,4841597,DTP001,20210615,Q7,73,Smartphone,IOS,3,3,2,2,2,66,2,true,80-90,middle_i,No O&G Production 20,80130,66,female,1955-01-10,,1
+98433,18529238,DTP001,20210615,Q7,73,Smartphone,Android,1,1,1,2,2,39,1,true,95-100,high_i,O&G Producing 20,80602,38,female,1983-01-01,,1
+6988,16927079,DTP001,20210615,Q7,74,Smartphone,IOS,5,3,3,1,1,28,4,true,80-90,middle_i,O&G Producing 20,80631,28,female,1993-01-01,,1
+19181,16865403,DTP001,20210615,Q7,74,Smartphone,Android,5,5,4,1,2,29,2,false,90-95,lower_ii,No O&G Production 20,81008,29,female,1992-04-01,,1
+43020,18526048,DTP001,20210615,Q7,74,Smartphone,IOS,6,5,6,1,4,33,2,true,70-80,middle_i,O&G Producing 20,80534,34,female,1987-01-01,,1
+87249,16025466,DTP001,20210615,Q7,74,Smartphone,Android,4,5,5,1,2,30,1,true,80-90,lower_ii,O&G Producing 20,80634,30,male,1990-11-06,,1
+94803,17561342,DTP001,20210615,Q7,74,Smartphone,IOS,6,5,3,1,2,27,2,true,90-95,lower_ii,No O&G Production 20,80424,27,female,1993-10-27,,1
+98417,18720809,DTP001,20210615,Q7,74,Smartphone,IOS,2,4,2,3,3,67,1,false,80-90,lower_ii,No O&G Production 20,80204,26,female,1995-01-01,,1
+14248,18291173,DTP001,20210615,Q7,75,Smartphone,Android,5,5,5,1,2,27,2,true,90-95,lower_ii,O&G Producing 20,80020,27,female,1993-08-26,,0
+34795,15297697,DTP001,20210615,Q7,76,Smartphone,IOS,1,1,1,2,2,34,2,true,70-80,lower_ii,O&G Producing 20,80723,34,female,1986-05-01,,1
+40077,4555489,DTP001,20210615,Q7,75,Smartphone,Android,4,5,4,2,3,29,4,true,80-90,middle_ii,No O&G Production 20,80910,29,female,1991-11-23,,1
+23820,2792149,DTP001,20210615,Q7,76,Smartphone,IOS,4,4,4,3,3,50,2,true,80-90,lower_ii,O&G Producing 20,80620,50,female,1971-03-01,,1
+26947,20023844,DTP001,20210615,Q7,76,Smartphone,IOS,5,5,4,1,2,34,2,true,80-90,,O&G Producing 20,80550,34,female,1987-02-16,,1
+62200,18566136,DTP001,20210615,Q7,76,Smartphone,IOS,3,3,2,4,2,25,2,true,60-70,lower_ii,O&G Producing 20,80514,25,female,1996-01-01,,1
+12802,18618534,DTP001,20210615,Q7,77,Smartphone,IOS,4,4,4,1,4,26,2,true,80-90,middle_ii,O&G Producing 20,80305,26,female,1994-11-08,,1
+87460,16035595,DTP001,20210615,Q7,77,Smartphone,Android,2,3,2,3,2,55,2,true,90-95,lower_ii,No O&G Production 20,80829,55,female,1965-07-01,,0
+12602,1312966,DTP001,20210615,Q7,78,Smartphone,IOS,4,4,2,1,2,55,2,true,95-100,middle_i,O&G Producing 20,80027,55,female,1966-02-11,,0
+63108,17337,DTP001,20210615,Q7,78,Smartphone,IOS,5,5,2,1,2,70,2,true,95-100,middle_i,O&G Producing 20,80011,70,female,1950-12-01,,1
+63257,2787545,DTP001,20210615,Q7,78,Smartphone,Android,3,3,4,2,3,35,2,true,90-95,middle_i,O&G Producing 20,80634,35,female,1986-02-03,,1
+65284,18369695,DTP001,20210615,Q7,78,Smartphone,Android,4,5,4,1,2,76,2,true,70-80,middle_i,O&G Producing 20,80620,71,female,1949-07-16,,1
+65480,2701764,DTP001,20210615,Q7,78,Smartphone,Android,3,4,2,2,2,42,2,true,90-95,middle_i,No O&G Production 20,80498,42,female,1978-10-30,,0
+85797,19987330,DTP001,20210615,Q7,78,Smartphone,IOS,6,5,6,1,3,27,2,true,60-70,,No O&G Production 20,80134,27,female,1994-01-01,,1
+86594,3358729,DTP001,20210615,Q7,78,Smartphone,IOS,3,3,4,1,2,55,2,false,80-90,lower_ii,O&G Producing 20,80634,55,female,1966-03-28,,0
+5561,1586579,DTP001,20210615,Q7,79,Smartphone,Android,4,5,3,1,2,58,1,true,80-90,lower_i,No O&G Production 20,80910,56,female,1964-11-09,,1
+7257,764363,DTP001,20210615,Q7,79,Smartphone,IOS,5,4,5,1,4,36,2,true,95-100,lower_ii,O&G Producing 20,81233,36,female,1984-09-11,,0
+87218,472920,DTP001,20210615,Q7,79,Smartphone,Android,5,2,1,4,2,54,2,true,95-100,middle_i,O&G Producing 20,80530,78,female,1943-03-22,,0
+12415,2612847,DTP001,20210615,Q7,80,Smartphone,Android,3,1,1,1,2,34,1,true,90-95,lower_ii,No O&G Production 20,81001,34,male,1986-12-14,,1
+12563,16858893,DTP001,20210615,Q7,80,Smartphone,Android,5,5,5,1,2,47,1,true,90-95,lower_ii,No O&G Production 20,80033,32,female,1989-03-01,,0
+92591,15628440,DTP001,20210615,Q7,80,Smartphone,IOS,3,5,3,2,2,46,2,true,95-100,lower_ii,O&G Producing 20,80301,46,female,1974-07-01,,0
+17440,2615369,DTP001,20210615,Q7,81,Smartphone,IOS,5,4,4,3,3,36,2,true,80-90,lower_i,No O&G Production 20,81003,74,female,1947-04-02,,0
+20154,18893032,DTP001,20210615,Q7,81,Smartphone,IOS,1,2,5,1,4,28,1,true,40-50,lower_ii,O&G Producing 20,80516,29,male,1992-01-01,,1
+53268,16427966,DTP001,20210615,Q7,81,Smartphone,Android,3,3,3,3,1,59,2,true,80-90,lower_ii,O&G Producing 20,81122,60,female,1961-02-01,,0
+67233,18687108,DTP001,20210615,Q7,81,Smartphone,IOS,5,5,6,1,2,32,2,true,80-90,lower_ii,No O&G Production 20,80424,32,female,1989-01-01,,0
+69101,17132237,DTP001,20210615,Q7,81,Smartphone,Android,3,5,1,3,2,28,2,false,95-100,lower_ii,No O&G Production 20,80204,27,female,1993-05-01,,1
+99130,16925488,DTP001,20210615,Q7,81,Smartphone,Android,4,3,6,2,2,30,2,true,70-80,lower_ii,No O&G Production 20,80211,30,female,1990-11-01,,0
+1678,3745673,DTP001,20210615,Q7,82,Smartphone,Android,1,5,1,1,2,71,2,false,90-95,lower_ii,O&G Producing 20,80723,71,female,1950-04-16,,1
+7589,18437791,DTP001,20210615,Q7,82,Smartphone,IOS,5,5,6,1,2,34,2,true,95-100,high_i,O&G Producing 20,80301,34,female,1987-04-13,,0
+15833,67337,DTP001,20210615,Q7,82,Smartphone,IOS,1,3,1,2,2,77,2,true,30-40,high_i,O&G Producing 20,80602,76,female,1944-05-16,,0
+29619,4289579,DTP001,20210615,Q7,82,Smartphone,Android,5,5,5,1,2,40,2,true,95-100,lower_ii,O&G Producing 20,80303,40,female,1981-03-01,,0
+40828,2575270,DTP001,20210615,Q7,82,Smartphone,Android,1,1,1,1,4,65,2,true,90-95,lower_ii,No O&G Production 20,81005,63,female,1957-09-13,,1
+42588,2045943,DTP001,20210615,Q7,82,Smartphone,IOS,1,1,1,5,4,72,1,true,95-100,lower_ii,No O&G Production 20,80214,78,female,1943-02-05,,0
+44456,1429334,DTP001,20210615,Q7,82,Smartphone,IOS,3,5,3,1,4,66,2,false,95-100,lower_ii,No O&G Production 20,80907,66,female,1955-04-01,,0
+46892,251750,DTP001,20210615,Q7,82,Smartphone,IOS,5,4,4,2,2,71,2,true,50-60,middle_i,No O&G Production 20,80923,71,female,1949-12-01,,1
+67125,15602756,DTP001,20210615,Q7,82,Smartphone,IOS,6,4,2,3,2,32,2,true,95-100,lower_ii,O&G Producing 20,80503,32,female,1988-10-06,,0
+95973,124917,DTP001,20210615,Q7,82,Smartphone,IOS,5,5,5,1,2,30,1,true,95-100,middle_i,O&G Producing 20,80234,56,female,1965-04-13,,0
+71469,18953497,DTP001,20210615,Q7,338,Smartphone,Android,6,3,3,1,3,22,2,true,80-90,lower_ii,No O&G Production 20,80219,23,female,1998-01-01,,1
+424,4273634,DTP001,20210615,Q7,83,Smartphone,Android,6,3,6,2,4,45,1,false,70-80,lower_ii,O&G Producing 20,80260,32,female,1989-01-01,,1
+14424,15296134,DTP001,20210615,Q7,83,Smartphone,Android,4,5,4,1,4,33,2,true,40-50,middle_i,No O&G Production 20,80203,33,female,1987-08-01,,0
+51710,15995620,DTP001,20210615,Q7,83,Smartphone,IOS,5,5,4,1,2,36,2,true,95-100,lower_ii,O&G Producing 20,81301,36,female,1985-01-01,,1
+75736,957084,DTP001,20210615,Q7,84,Smartphone,Android,1,5,1,5,4,100,1,true,60-70,lower_ii,O&G Producing 20,80229,70,female,1950-06-22,,1
+86380,18618588,DTP001,20210615,Q7,84,Smartphone,Android,6,5,6,1,2,31,2,true,80-90,lower_ii,No O&G Production 20,81007,31,female,1990-01-22,,1
+92855,1791647,DTP001,20210615,Q7,84,Smartphone,IOS,5,1,1,4,2,70,2,true,80-90,lower_ii,No O&G Production 20,80004,59,female,1962-04-05,,0
+96997,18745228,DTP001,20210615,Q7,84,Smartphone,IOS,5,6,6,2,1,34,2,true,90-95,lower_ii,No O&G Production 20,80206,34,female,1987-04-01,,0
+1990,19796837,DTP001,20210615,Q7,85,Smartphone,IOS,5,5,6,1,2,31,2,true,90-95,,O&G Producing 20,80302,30,female,1990-05-01,,1
+10375,18847035,DTP001,20210615,Q7,85,Desktop,Windows,6,5,6,1,2,30,2,true,70-80,middle_i,No O&G Production 20,80440,30,female,1991-03-06,,1
+18069,17724678,DTP001,20210615,Q7,85,Smartphone,IOS,4,4,1,1,2,32,2,true,90-95,lower_ii,No O&G Production 20,80004,32,female,1988-07-26,,1
+19642,16523715,DTP001,20210615,Q7,85,Smartphone,IOS,6,4,6,2,2,29,2,true,80-90,lower_ii,O&G Producing 20,80233,30,female,1991-02-01,,0
+33266,884099,DTP001,20210615,Q7,85,Smartphone,Android,4,5,5,1,2,67,2,true,95-100,lower_ii,No O&G Production 20,80212,67,female,1954-01-21,,1
+67313,1528446,DTP001,20210615,Q7,85,Desktop,Mac OS X,5,5,4,1,2,64,2,true,80-90,lower_ii,No O&G Production 20,80907,64,female,1956-10-29,,1
+73565,2482362,DTP001,20210615,Q7,85,Smartphone,IOS,5,5,5,2,4,61,2,true,80-90,lower_ii,No O&G Production 20,81401,61,female,1960-02-22,,0
+2708,17660624,DTP001,20210615,Q7,86,Smartphone,Android,3,3,3,1,2,44,2,true,70-80,lower_ii,No O&G Production 20,81101,28,female,1993-01-01,,0
+8530,18563004,DTP001,20210615,Q7,86,Smartphone,IOS,4,4,2,2,1,23,2,true,60-70,lower_ii,No O&G Production 20,80204,23,female,1997-08-23,,1
+16029,2928170,DTP001,20210615,Q7,86,Smartphone,IOS,4,4,4,1,2,55,2,true,95-100,lower_ii,No O&G Production 20,80206,55,female,1966-03-29,,0
+17359,3178467,DTP001,20210615,Q7,86,Smartphone,IOS,4,5,4,1,2,55,2,true,95-100,lower_ii,No O&G Production 20,80221,55,female,1965-11-25,,0
+29634,2465941,DTP001,20210615,Q7,86,Smartphone,Android,3,2,5,1,3,38,2,true,60-70,middle_i,O&G Producing 20,81321,37,female,1983-12-01,,0
+31411,180583,DTP001,20210615,Q7,86,Smartphone,Android,2,2,1,2,4,59,2,true,95-100,lower_ii,O&G Producing 20,80229,59,female,1961-07-06,,1
+42471,15302348,DTP001,20210615,Q7,86,Smartphone,Android,4,5,4,3,3,48,1,true,95-100,lower_ii,No O&G Production 20,81144,31,female,1989-05-26,,1
+70278,351849,DTP001,20210615,Q7,86,Smartphone,IOS,5,1,4,4,2,70,2,true,95-100,lower_ii,No O&G Production 20,80209,75,female,1946-01-30,,0
+84754,17866375,DTP001,20210615,Q7,86,Smartphone,IOS,3,4,3,1,2,30,1,true,80-90,lower_ii,O&G Producing 20,80487,30,male,1990-10-01,,1
+100427,18920502,DTP001,20210615,Q7,86,Smartphone,IOS,1,1,2,1,2,63,2,true,70-80,middle_i,O&G Producing 20,81647,62,female,1958-05-13,,1
+10578,18382287,DTP001,20210615,Q7,87,Desktop,Mac OS X,5,5,2,1,4,59,2,true,60-70,lower_ii,No O&G Production 20,81101,25,female,1996-02-14,,0
+24350,15203937,DTP001,20210615,Q7,87,Smartphone,IOS,1,5,4,5,2,100,1,true,95-100,lower_ii,No O&G Production 20,80207,40,female,1980-10-01,,0
+55517,17907894,DTP001,20210615,Q7,87,Smartphone,Android,5,1,1,4,2,51,1,true,60-70,middle_i,No O&G Production 20,80920,31,female,1990-01-01,,1
+82627,17349214,DTP001,20210615,Q7,88,Smartphone,Android,5,5,6,2,1,66,2,true,80-90,lower_ii,No O&G Production 20,81003,66,female,1955-03-23,,1
+79926,3164567,DTP001,20210615,Q7,89,Smartphone,IOS,5,5,5,2,2,54,2,true,95-100,lower_ii,No O&G Production 20,80219,54,female,1966-10-01,,0
+81376,1041859,DTP001,20210615,Q7,89,Smartphone,IOS,5,5,1,1,4,60,2,true,95-100,high_i,No O&G Production 20,80218,60,female,1960-11-15,,1
+45058,17834719,DTP001,20210615,Q7,90,Smartphone,Android,6,3,6,1,3,37,1,true,90-95,lower_ii,No O&G Production 20,81005,29,female,1992-02-01,,1
+62790,3403882,DTP001,20210615,Q7,90,Smartphone,IOS,5,5,3,1,2,33,2,false,80-90,lower_ii,No O&G Production 20,80917,33,female,1987-12-25,,0
+68211,802139,DTP001,20210615,Q7,90,Smartphone,IOS,5,5,4,1,2,63,2,true,95-100,lower_ii,No O&G Production 20,80209,67,female,1953-05-30,,1
+88497,18740075,DTP001,20210615,Q7,90,Smartphone,IOS,6,4,3,2,2,21,1,true,70-80,middle_i,O&G Producing 20,80234,23,female,1997-07-10,,0
+21771,27052,DTP001,20210615,Q7,91,Smartphone,Android,6,4,4,2,4,56,2,true,90-95,high_i,O&G Producing 20,80602,56,female,1964-10-19,,1
+74330,18768208,DTP001,20210615,Q7,91,Smartphone,IOS,4,5,4,1,2,67,2,true,70-80,middle_i,No O&G Production 20,80829,66,female,1954-06-11,,1
+96243,789868,DTP001,20210615,Q7,92,Smartphone,IOS,5,5,5,1,2,84,2,true,90-95,lower_ii,No O&G Production 20,81401,84,female,1937-03-28,,1
+16524,18128508,DTP001,20210615,Q7,93,Smartphone,Android,5,5,3,1,4,106,4,false,40-50,lower_ii,No O&G Production 20,81403,59,female,1961-12-17,,1
+43919,2516949,DTP001,20210615,Q7,93,Smartphone,Android,3,3,3,2,4,40,2,true,70-80,lower_ii,No O&G Production 20,81067,40,female,1980-11-05,,1
+70950,2122423,DTP001,20210615,Q7,93,Smartphone,IOS,4,5,6,2,2,72,2,true,95-100,middle_i,O&G Producing 20,80504,72,female,1948-09-01,,1
+23154,17616803,DTP001,20210615,Q7,99,Smartphone,IOS,3,5,6,2,4,65,2,true,90-95,lower_ii,O&G Producing 20,80526,72,female,1948-12-21,,0
+57860,885258,DTP001,20210615,Q7,95,Smartphone,IOS,1,1,1,5,2,69,1,true,90-95,lower_ii,O&G Producing 20,80221,61,female,1959-12-04,,1
+39874,2317439,DTP001,20210615,Q7,96,Smartphone,IOS,1,2,4,1,4,34,1,true,95-100,middle_i,O&G Producing 20,80634,36,female,1985-04-01,,0
+70769,1719797,DTP001,20210615,Q7,96,Smartphone,Android,6,5,5,1,2,58,2,false,50-60,lower_ii,O&G Producing 20,81223,58,female,1963-04-07,,0
+81191,15293867,DTP001,20210615,Q7,96,Smartphone,IOS,1,6,1,2,2,32,2,false,30-40,lower_ii,O&G Producing 20,81520,32,female,1989-03-11,,0
+164,343258,DTP001,20210615,Q7,97,Smartphone,Android,5,5,6,1,4,82,2,true,95-100,middle_i,No O&G Production 20,80109,82,female,1938-07-25,,0
+54580,1546469,DTP001,20210615,Q7,97,Smartphone,IOS,4,5,3,2,3,56,2,true,70-80,lower_ii,O&G Producing 20,81240,56,female,1964-07-01,,0
+80179,2146986,DTP001,20210615,Q7,97,Smartphone,IOS,1,3,1,4,2,49,2,true,95-100,middle_i,O&G Producing 20,81303,66,female,1954-06-01,,1
+90448,18674401,DTP001,20210615,Q7,97,Smartphone,IOS,3,3,1,1,2,76,2,true,90-95,lower_ii,No O&G Production 20,80209,76,female,1944-10-07,,0
+26118,570283,DTP001,20210615,Q7,98,Smartphone,IOS,5,5,5,1,2,80,1,false,70-80,lower_ii,O&G Producing 20,80026,79,female,1941-11-17,,1
+13708,3420484,DTP001,20210615,Q7,99,Smartphone,Android,6,6,6,2,1,38,2,true,95-100,lower_i,O&G Producing 20,80233,32,female,1988-10-08,,1
+13735,16436476,DTP001,20210615,Q7,99,Smartphone,IOS,5,3,6,3,1,29,2,true,80-90,lower_ii,No O&G Production 20,81141,29,female,1992-02-02,,1
+23068,3592488,DTP001,20210615,Q7,99,Smartphone,IOS,5,5,3,2,4,80,2,true,90-95,middle_i,No O&G Production 20,80218,80,female,1940-12-10,,1
+25640,17716515,DTP001,20210615,Q7,100,Smartphone,IOS,4,3,6,2,2,27,2,false,60-70,lower_ii,No O&G Production 20,80204,28,female,1993-01-01,,1
+43664,2116397,DTP001,20210615,Q7,100,Smartphone,IOS,5,5,1,4,2,52,2,true,90-95,lower_ii,No O&G Production 20,80461,51,female,1969-05-25,,1
+1864,731981,DTP001,20210615,Q7,101,Desktop,Mac OS X,4,5,2,1,4,63,2,true,80-90,lower_ii,O&G Producing 20,80501,63,female,1958-04-05,,0
+38891,18882742,DTP001,20210615,Q7,101,Smartphone,IOS,6,5,6,1,4,64,2,true,80-90,lower_ii,O&G Producing 20,80521,64,female,1957-04-28,,0
+89706,18588530,DTP001,20210615,Q7,101,Smartphone,IOS,5,4,4,1,2,57,2,true,90-95,lower_ii,No O&G Production 20,80909,57,female,1964-02-27,,1
+99971,16813204,DTP001,20210615,Q7,101,Smartphone,Android,4,5,4,1,4,61,2,true,95-100,lower_ii,No O&G Production 20,80905,61,female,1960-02-12,,0
+21276,17674094,DTP001,20210615,Q7,102,Smartphone,Android,1,1,1,4,2,38,1,true,70-80,lower_ii,No O&G Production 20,80003,24,female,1996-05-07,,1
+30659,1536977,DTP001,20210615,Q7,102,Smartphone,IOS,5,5,5,1,2,80,2,true,95-100,lower_ii,No O&G Production 20,80918,80,female,1940-08-22,,1
+98517,16056016,DTP001,20210615,Q7,102,Smartphone,IOS,1,5,4,1,2,68,2,true,70-80,middle_i,No O&G Production 20,80917,68,female,1952-12-07,,0
+55901,18601846,DTP001,20210615,Q7,103,Smartphone,IOS,3,6,1,2,3,23,2,true,95-100,lower_ii,No O&G Production 20,80219,23,female,1998-01-01,,0
+93349,15747550,DTP001,20210615,Q7,104,Smartphone,Android,5,5,4,1,4,71,2,true,95-100,lower_ii,O&G Producing 20,81089,64,female,1957-03-01,,1
+95748,1974899,DTP001,20210615,Q7,104,Smartphone,Android,3,5,3,1,2,64,2,true,95-100,lower_ii,No O&G Production 20,80214,63,female,1957-06-22,,1
+31626,1663070,DTP001,20210615,Q7,105,Smartphone,Android,3,2,3,2,2,57,2,true,70-80,lower_ii,No O&G Production 20,80864,57,female,1963-09-07,,0
+59109,621617,DTP001,20210615,Q7,105,Smartphone,IOS,3,1,5,4,2,80,2,true,30-40,high_i,O&G Producing 20,80503,79,female,1941-05-01,,0
+81640,18754749,DTP001,20210615,Q7,105,Smartphone,Android,5,5,5,1,4,47,2,true,60-70,lower_ii,No O&G Production 20,80204,47,female,1973-12-17,,0
+83043,891712,DTP001,20210615,Q7,105,Smartphone,IOS,3,5,2,1,2,75,1,true,95-100,lower_ii,No O&G Production 20,80222,73,female,1948-01-08,,0
+25910,2308641,DTP001,20210615,Q7,106,Smartphone,IOS,5,5,6,1,4,35,2,true,95-100,lower_ii,O&G Producing 20,80526,82,female,1938-11-05,,0
+51831,18569120,DTP001,20210615,Q7,107,Smartphone,IOS,5,5,3,1,1,37,2,true,70-80,middle_i,No O&G Production 20,80923,38,female,1983-01-01,,0
+73780,15749186,DTP001,20210615,Q7,107,Smartphone,Android,3,3,2,1,2,33,2,false,70-80,lower_ii,O&G Producing 20,81501,33,female,1988-02-13,,1
+77137,15588063,DTP001,20210615,Q7,107,Smartphone,IOS,5,5,5,1,4,40,2,true,90-95,middle_i,No O&G Production 20,80422,41,female,1979-12-20,,0
+1578,2437528,DTP001,20210615,Q7,109,Smartphone,IOS,3,3,3,1,3,57,2,true,90-95,middle_i,O&G Producing 20,81507,58,female,1962-11-13,,1
+11350,18711213,DTP001,20210615,Q7,109,Smartphone,IOS,5,4,2,2,2,26,1,true,60-70,high_i,O&G Producing 20,80550,26,female,1995-01-11,,1
+89469,384445,DTP001,20210615,Q7,110,Smartphone,IOS,4,4,2,2,2,53,2,true,90-95,lower_ii,No O&G Production 20,80249,53,female,1967-10-10,,0
+5802,18623059,DTP001,20210615,Q7,366,Smartphone,IOS,6,6,5,4,2,23,2,true,50-60,middle_i,O&G Producing 20,80747,23,female,1998-01-29,,1
+48250,16912241,DTP001,20210615,Q7,111,Smartphone,Android,1,6,6,4,4,65,2,false,60-70,lower_ii,No O&G Production 20,80910,30,female,1990-12-01,,1
+30964,16054520,DTP001,20210615,Q7,112,Smartphone,IOS,1,1,1,2,2,30,2,true,80-90,lower_i,O&G Producing 20,80620,31,female,1990-01-01,,0
+40243,2693122,DTP001,20210615,Q7,112,Smartphone,IOS,3,3,2,2,2,69,2,false,80-90,lower_ii,No O&G Production 20,81201,68,female,1952-11-08,,0
+15360,2605443,DTP001,20210615,Q7,113,Smartphone,Android,4,4,4,1,3,64,2,true,95-100,middle_i,No O&G Production 20,81008,64,female,1957-04-24,,0
+12959,2792241,DTP001,20210615,Q7,115,Smartphone,Android,1,3,5,4,2,64,2,false,90-95,lower_ii,O&G Producing 20,80501,64,female,1956-11-27,,1
+86964,628161,DTP001,20210615,Q7,115,Smartphone,IOS,1,5,5,2,3,65,2,false,80-90,lower_ii,O&G Producing 20,80501,65,female,1955-12-07,,0
+89324,1677252,DTP001,20210615,Q7,115,Smartphone,IOS,3,5,3,1,2,50,2,true,70-80,lower_ii,O&G Producing 20,81226,57,female,1963-09-16,,1
+6639,15511496,DTP001,20210615,Q7,116,Smartphone,IOS,5,5,3,1,4,57,4,true,95-100,lower_ii,O&G Producing 20,80302,71,female,1949-11-01,,0
+60812,1712152,DTP001,20210615,Q7,116,Smartphone,Android,2,5,1,3,4,34,2,true,80-90,middle_i,O&G Producing 20,81647,69,female,1952-01-22,,0
+95136,10804,DTP001,20210615,Q7,116,Smartphone,Android,6,4,2,1,2,79,2,true,95-100,lower_ii,O&G Producing 20,80233,79,female,1942-04-09,,0
+69066,819869,DTP001,20210615,Q7,117,Smartphone,IOS,1,1,1,4,4,56,1,true,95-100,lower_ii,No O&G Production 20,80204,61,female,1959-10-04,,0
+12532,1628432,DTP001,20210615,Q7,118,Smartphone,Android,5,5,5,1,3,64,2,false,50-60,lower_ii,No O&G Production 20,80817,64,female,1957-01-24,,0
+68860,16887575,DTP001,20210615,Q7,120,Smartphone,Android,3,5,3,1,2,100,1,false,80-90,lower_ii,No O&G Production 20,80207,30,female,1991-03-11,,0
+27198,826198,DTP001,20210615,Q7,121,Smartphone,Android,4,4,2,1,4,63,2,true,95-100,lower_ii,No O&G Production 20,80123,63,female,1957-11-21,,0
+92383,17025982,DTP001,20210615,Q7,121,Smartphone,IOS,5,5,5,4,2,58,1,false,30-40,lower_ii,No O&G Production 20,81425,60,female,1960-10-01,,0
+32192,2016284,DTP001,20210615,Q7,123,Smartphone,IOS,6,4,3,1,3,65,2,true,95-100,lower_ii,No O&G Production 20,80219,65,female,1956-04-02,,0
+46639,18444921,DTP001,20210615,Q7,123,Smartphone,IOS,6,3,2,2,1,31,2,false,60-70,lower_ii,O&G Producing 20,80602,31,female,1990-01-01,,0
+54517,16026506,DTP001,20210615,Q7,635,Smartphone,IOS,3,2,3,2,4,20,1,false,30-40,lower_ii,O&G Producing 20,81428,33,female,1988-04-01,,0
+45349,3843412,DTP001,20210615,Q7,124,Smartphone,Android,1,1,6,5,4,50,1,false,50-60,lower_ii,O&G Producing 20,81122,56,female,1965-04-24,,0
+82458,18321912,DTP001,20210615,Q7,124,Smartphone,IOS,4,4,2,2,2,26,2,true,80-90,lower_ii,O&G Producing 20,80503,26,female,1994-12-27,,1
+25545,1628569,DTP001,20210615,Q7,125,Smartphone,Android,3,5,6,2,2,56,2,true,95-100,lower_ii,No O&G Production 20,80916,56,female,1964-11-13,,0
+78335,914767,DTP001,20210615,Q7,125,Smartphone,IOS,5,5,4,1,2,41,2,true,95-100,lower_ii,No O&G Production 20,80205,41,female,1979-11-16,,1
+3450,893290,DTP001,20210615,Q7,127,Smartphone,Android,3,5,3,2,3,68,2,true,95-100,lower_i,No O&G Production 20,80212,67,female,1953-09-11,,0
+17482,2573515,DTP001,20210615,Q7,129,Smartphone,Android,3,5,5,2,2,60,2,false,70-80,lower_ii,No O&G Production 20,81001,60,female,1961-02-01,,1
+11668,1163575,DTP001,20210615,Q7,131,Smartphone,Android,4,4,2,2,4,68,2,true,95-100,lower_ii,No O&G Production 20,80206,67,female,1953-11-01,,0
+28693,2581025,DTP001,20210615,Q7,132,Smartphone,Android,3,3,2,2,1,39,2,true,95-100,lower_i,No O&G Production 20,81005,38,female,1982-06-05,,0
+92033,17562416,DTP001,20210615,Q7,132,Smartphone,IOS,3,3,3,1,4,18,4,true,50-60,lower_ii,No O&G Production 20,81425,27,male,1994-02-20,,0
+88258,1555499,DTP001,20210615,Q7,133,Smartphone,Android,5,5,3,1,2,69,1,true,95-100,lower_ii,No O&G Production 20,80905,69,male,1952-03-01,,1
+52324,4342967,DTP001,20210615,Q7,134,Smartphone,Android,3,5,4,1,4,70,1,true,90-95,lower_ii,No O&G Production 20,81149,68,female,1953-04-11,,1
+34302,4311265,DTP001,20210615,Q7,135,Smartphone,IOS,4,3,2,2,2,43,2,true,95-100,middle_i,No O&G Production 20,80922,43,female,1978-04-20,,0
+72650,4280448,DTP001,20210615,Q7,139,Smartphone,Android,2,1,1,1,4,33,2,true,95-100,middle_i,O&G Producing 20,80011,33,female,1988-02-16,,0
+75429,1130732,DTP001,20210615,Q7,139,Smartphone,Android,1,6,1,5,2,99,4,true,95-100,lower_ii,No O&G Production 20,80220,87,female,1933-11-21,,0
+91337,15304586,DTP001,20210615,Q7,139,Smartphone,Android,4,5,4,1,2,62,2,true,80-90,lower_ii,No O&G Production 20,80860,61,female,1959-06-01,,0
+8088,18138024,DTP001,20210615,Q7,140,Smartphone,IOS,4,5,2,3,4,29,4,false,40-50,lower_ii,O&G Producing 20,80542,29,female,1991-09-18,,1
+56867,1549998,DTP001,20210615,Q7,396,Smartphone,IOS,6,1,1,2,4,81,1,true,80-90,lower_ii,O&G Producing 20,80020,71,female,1950-01-19,,0
+33971,18564945,DTP001,20210615,Q7,141,Smartphone,IOS,4,5,4,2,2,58,2,true,70-80,lower_ii,O&G Producing 20,81089,23,female,1997-11-30,,1
+73704,15843925,DTP001,20210615,Q7,142,Desktop,Mac OS X,4,5,4,1,2,40,2,true,80-90,lower_ii,No O&G Production 20,80909,40,female,1981-02-01,,0
+2242,2617743,DTP001,20210615,Q7,143,Smartphone,Android,5,4,5,1,1,64,2,true,95-100,lower_ii,No O&G Production 20,81004,64,female,1957-03-23,,1
+54237,182254,DTP001,20210615,Q7,144,Smartphone,IOS,5,5,4,2,2,75,2,true,95-100,middle_i,O&G Producing 20,80229,75,female,1945-07-22,,0
+18551,1645642,DTP001,20210615,Q7,149,Smartphone,IOS,3,2,2,1,2,68,2,false,70-80,lower_ii,No O&G Production 20,80904,68,female,1952-09-05,,0
+70367,17894418,DTP001,20210615,Q7,149,Smartphone,Android,6,5,3,4,2,68,2,true,80-90,lower_ii,No O&G Production 20,80903,67,female,1953-12-01,,0
+71066,17387881,DTP001,20210615,Q7,149,Smartphone,Android,2,1,2,5,4,65,1,false,30-40,lower_ii,O&G Producing 20,81073,27,female,1993-06-01,,0
+30942,15977068,DTP001,20210615,Q7,153,Smartphone,Android,3,4,4,3,4,35,2,true,90-95,middle_ii,No O&G Production 20,81631,33,female,1988-01-01,,0
+47045,901264,DTP001,20210615,Q7,156,Smartphone,IOS,6,5,1,2,2,72,1,true,95-100,lower_ii,No O&G Production 20,80219,67,female,1953-05-04,,0
+29131,163423,DTP001,20210615,Q7,158,Smartphone,IOS,4,5,5,1,2,73,1,true,95-100,middle_i,O&G Producing 20,80031,69,female,1952-03-17,,0
+20716,18653529,DTP001,20210615,Q7,163,Smartphone,IOS,5,5,4,1,2,32,2,true,70-80,lower_ii,O&G Producing 20,80526,32,female,1989-04-01,,0
+52563,15573491,DTP001,20210615,Q7,164,Smartphone,IOS,4,5,5,1,4,31,2,false,95-100,lower_ii,O&G Producing 20,80023,31,female,1990-03-01,,0
+44661,15264230,DTP001,20210615,Q7,165,Smartphone,IOS,5,5,2,1,4,34,2,true,70-80,lower_ii,No O&G Production 20,80910,34,female,1986-10-01,,1
+67406,17926858,DTP001,20210615,Q7,166,Smartphone,IOS,6,4,6,2,4,60,2,true,60-70,high_i,No O&G Production 20,80134,61,female,1960-01-01,,1
+83993,18293513,DTP001,20210615,Q7,166,Smartphone,IOS,5,4,2,1,4,67,2,true,70-80,high_i,No O&G Production 20,80138,67,female,1953-06-01,,1
+29806,15638295,DTP001,20210615,Q7,168,Smartphone,IOS,5,5,2,1,1,64,2,true,90-95,lower_ii,No O&G Production 20,80033,64,female,1957-04-13,,0
+39677,2733675,DTP001,20210615,Q7,170,Tablet,Mac OS X,4,5,6,1,4,100,4,true,95-100,lower_ii,O&G Producing 20,80620,67,female,1953-07-01,,0
+79311,164485,DTP001,20210615,Q7,172,Smartphone,Android,3,4,4,2,2,57,2,true,95-100,lower_ii,O&G Producing 20,80234,56,female,1964-05-07,,1
+79827,2590761,DTP001,20210615,Q7,172,Smartphone,Android,3,5,5,3,1,63,2,false,90-95,lower_ii,No O&G Production 20,81004,62,female,1958-06-07,,0
+33955,17980103,DTP001,20210615,Q7,173,Smartphone,Android,4,1,3,2,4,65,1,true,60-70,lower_ii,No O&G Production 20,80907,65,male,1955-07-01,,1
+35178,18424167,DTP001,20210615,Q7,174,Smartphone,IOS,1,1,1,5,1,38,4,false,95-100,lower_ii,O&G Producing 20,80503,61,female,1959-08-04,,1
+42686,18884410,DTP001,20210615,Q7,175,Smartphone,Android,3,2,2,2,2,25,4,true,70-80,middle_i,O&G Producing 20,80303,25,female,1995-12-20,,0
+39328,18449892,DTP001,20210615,Q7,178,Smartphone,IOS,5,5,5,1,2,28,2,true,60-70,lower_ii,O&G Producing 20,81507,28,female,1992-08-01,,0
+30871,1024851,DTP001,20210615,Q7,179,Smartphone,IOS,4,4,1,2,1,65,2,true,95-100,lower_ii,No O&G Production 20,80239,72,female,1948-06-21,,0
+25831,1581666,DTP001,20210615,Q7,180,Smartphone,Android,2,5,1,2,2,77,2,true,90-95,lower_ii,No O&G Production 20,80916,77,female,1943-12-04,,0
+75137,15661251,DTP001,20210615,Q7,180,Smartphone,IOS,5,5,5,1,2,31,4,true,80-90,lower_ii,No O&G Production 20,80903,31,female,1990-01-01,,0
+53328,17727431,DTP001,20210615,Q7,948,Smartphone,Android,3,6,1,3,1,32,2,false,60-70,lower_ii,No O&G Production 20,80917,33,female,1988-01-01,,0
+80184,16391119,DTP001,20210615,Q7,182,Smartphone,Android,2,4,2,2,2,30,2,true,90-95,middle_i,O&G Producing 20,81301,30,female,1990-07-19,,1
+81737,15713957,DTP001,20210615,Q7,182,Smartphone,IOS,3,4,2,2,2,70,2,true,95-100,lower_ii,No O&G Production 20,80202,71,female,1949-12-23,,1
+12528,18138453,DTP001,20210615,Q7,184,Smartphone,IOS,4,4,4,2,2,33,2,true,60-70,lower_ii,O&G Producing 20,80734,32,female,1989-01-01,,0
+62628,923431,DTP001,20210615,Q7,191,Smartphone,IOS,2,5,2,1,1,62,2,true,95-100,middle_i,No O&G Production 20,80212,62,female,1959-04-27,,1
+64642,2602804,DTP001,20210615,Q7,192,Smartphone,Android,1,1,1,3,2,77,2,true,95-100,lower_ii,No O&G Production 20,81005,91,female,1930-01-01,,1
+62435,2605099,DTP001,20210615,Q7,195,Smartphone,Android,4,4,4,3,2,62,2,true,90-95,lower_ii,No O&G Production 20,81005,62,female,1958-10-12,,1
+57216,2701530,DTP001,20210615,Q7,197,Smartphone,Android,5,5,5,1,2,49,2,true,80-90,lower_ii,No O&G Production 20,80443,49,female,1972-03-01,,1
+34434,2599775,DTP001,20210615,Q7,198,Smartphone,Android,4,5,4,1,2,47,2,true,80-90,lower_ii,No O&G Production 20,81007,47,female,1973-08-17,,1
+97111,1061851,DTP001,20210615,Q7,200,Smartphone,Android,4,5,2,2,1,65,2,true,95-100,lower_ii,O&G Producing 20,81321,64,female,1956-05-04,,0
+13772,637544,DTP001,20210615,Q7,203,Smartphone,IOS,5,5,6,1,2,64,2,true,95-100,lower_ii,O&G Producing 20,80301,64,female,1956-06-29,,1
+15890,892869,DTP001,20210615,Q7,203,Smartphone,Android,2,4,2,2,4,65,2,true,95-100,middle_i,No O&G Production 20,80223,65,female,1955-12-31,,0
+83969,18500397,DTP001,20210615,Q7,208,Smartphone,Android,5,5,5,1,4,25,2,true,80-90,lower_ii,No O&G Production 20,80203,24,female,1996-07-10,,1
+58112,2607394,DTP001,20210615,Q7,209,Smartphone,Android,3,1,1,3,2,53,2,true,95-100,lower_ii,No O&G Production 20,81004,53,female,1967-09-27,,1
+38188,694578,DTP001,20210615,Q7,222,Smartphone,IOS,5,5,2,1,2,37,2,true,80-90,lower_ii,No O&G Production 20,80237,37,female,1984-01-21,,1
+10817,15409646,DTP001,20210615,Q7,225,Smartphone,IOS,5,5,3,1,1,60,2,true,70-80,lower_ii,O&G Producing 20,81501,75,female,1946-01-01,,0
+23216,4658489,DTP001,20210615,Q7,229,Smartphone,Android,6,4,1,2,2,27,2,true,70-80,lower_ii,No O&G Production 20,80211,43,female,1977-07-01,,0
+92023,111603,DTP001,20210615,Q7,1002,Smartphone,IOS,4,5,2,1,2,35,2,true,80-90,lower_ii,O&G Producing 20,80234,34,female,1986-05-01,,0
+48869,18478906,DTP001,20210616,Q7,115,Desktop,Mac OS X,1,1,1,4,2,52,1,true,90-95,lower_ii,O&G Producing 20,80501,29,female,1991-08-07,,0
+28193,16840298,DTP001,20210616,Q7,145,Smartphone,IOS,3,2,4,1,4,79,1,true,95-100,middle_i,No O&G Production 20,81007,42,female,1979-03-01,,0
+3801,1515889,DTP001,20210616,Q7,278,Smartphone,Android,3,2,4,4,2,65,1,true,60-70,middle_i,No O&G Production 20,80920,60,female,1960-06-20,,0
+23226,18895337,DTP001,20210616,Q7,39,Smartphone,Android,5,5,3,1,4,31,2,false,50-60,lower_ii,No O&G Production 20,80909,31,female,1989-10-01,,1
+87275,16440703,DTP001,20210616,Q7,41,Smartphone,Android,4,5,5,1,2,29,2,false,80-90,lower_ii,O&G Producing 20,80030,28,female,1992-07-15,,1
+80666,16921643,DTP001,20210616,Q7,46,Smartphone,IOS,5,5,5,1,4,30,2,true,95-100,middle_i,No O&G Production 20,80205,30,female,1991-02-01,,1
+1052,16114594,DTP001,20210616,Q7,51,Smartphone,Android,4,5,1,1,4,35,2,true,95-100,lower_ii,No O&G Production 20,80205,35,female,1986-01-22,,1
+72282,3379792,DTP001,20210616,Q7,53,Smartphone,Android,5,5,5,1,2,43,2,true,90-95,lower_ii,O&G Producing 20,81301,43,female,1978-01-24,,0
+53822,17626826,DTP001,20210616,Q7,54,Smartphone,Android,5,5,5,1,4,21,4,true,90-95,lower_ii,No O&G Production 20,80211,27,female,1994-04-01,,0
+92072,2598865,DTP001,20210616,Q7,310,Smartphone,Android,5,5,6,3,4,79,2,true,95-100,lower_ii,No O&G Production 20,81005,79,female,1941-09-25,,1
+56379,18497895,DTP001,20210616,Q7,56,Smartphone,IOS,5,5,5,1,3,44,4,true,80-90,lower_ii,O&G Producing 20,80304,44,female,1976-07-22,,0
+75836,3905884,DTP001,20210616,Q7,56,Smartphone,IOS,5,5,5,1,2,55,4,true,60-70,middle_i,O&G Producing 20,80031,55,female,1966-04-29,,1
+31180,16012298,DTP001,20210616,Q7,58,Smartphone,Android,5,5,3,1,4,32,1,true,90-95,lower_ii,No O&G Production 20,80921,32,male,1988-06-01,,0
+92161,765806,DTP001,20210616,Q7,59,Smartphone,IOS,4,5,6,1,4,40,2,true,80-90,middle_i,No O&G Production 20,80436,44,female,1976-05-01,,0
+21720,435912,DTP001,20210616,Q7,60,Smartphone,IOS,3,4,3,2,3,36,2,true,40-50,high_i,No O&G Production 20,80134,36,female,1984-11-28,,1
+84869,550068,DTP001,20210616,Q7,62,Smartphone,IOS,5,5,6,1,2,59,2,true,95-100,high_i,O&G Producing 20,80304,58,female,1962-05-06,,0
+64800,2695021,DTP001,20210616,Q7,63,Tablet,Mac OS X,3,4,5,1,2,60,2,false,90-95,lower_ii,No O&G Production 20,80424,69,female,1951-09-30,,0
+46421,2691814,DTP001,20210616,Q7,64,Smartphone,IOS,4,5,4,1,2,73,2,true,90-95,middle_i,No O&G Production 20,80498,73,female,1947-12-30,,1
+12232,440720,DTP001,20210616,Q7,65,Smartphone,IOS,5,4,2,2,3,62,2,true,70-80,lower_ii,No O&G Production 20,80218,62,female,1959-03-01,,0
+63759,18854574,DTP001,20210616,Q7,66,Smartphone,IOS,4,5,4,2,2,24,2,false,70-80,lower_ii,No O&G Production 20,80206,25,female,1996-01-01,,1
+100611,17842923,DTP001,20210616,Q7,67,Smartphone,IOS,4,3,6,3,4,26,2,false,90-95,lower_ii,No O&G Production 20,80247,26,female,1994-07-01,,1
+41457,16407237,DTP001,20210616,Q7,68,Smartphone,IOS,5,5,6,2,3,63,2,true,90-95,high_ii,O&G Producing 20,80031,33,female,1988-01-01,,0
+66306,2084003,DTP001,20210616,Q7,72,Smartphone,IOS,5,5,3,1,2,56,2,true,90-95,lower_ii,No O&G Production 20,80003,59,female,1962-02-16,,1
+58025,17719450,DTP001,20210616,Q7,73,Smartphone,IOS,4,5,6,1,4,31,2,false,95-100,lower_ii,No O&G Production 20,80239,31,female,1990-01-01,,1
+34313,2266529,DTP001,20210616,Q7,74,Smartphone,IOS,5,5,2,1,2,64,2,true,90-95,middle_i,O&G Producing 20,80487,63,female,1957-05-19,,0
+44758,16921539,DTP001,20210616,Q7,183,Smartphone,IOS,6,6,6,3,3,71,2,false,40-50,lower_ii,O&G Producing 20,81226,70,female,1950-05-01,,0
+28171,2397545,DTP001,20210616,Q7,78,Smartphone,IOS,5,4,4,1,4,59,2,true,60-70,lower_ii,O&G Producing 20,81501,59,female,1962-03-03,,0
+43773,15583742,DTP001,20210616,Q7,80,Smartphone,Android,3,2,3,1,2,56,2,true,80-90,lower_ii,No O&G Production 20,80210,37,female,1983-11-01,,1
+39170,15853988,DTP001,20210616,Q7,81,Smartphone,IOS,3,3,2,3,1,32,2,false,70-80,lower_ii,O&G Producing 20,81639,31,female,1989-06-01,,1
+48375,2123031,DTP001,20210616,Q7,116,Smartphone,Android,5,3,2,1,4,45,2,true,70-80,lower_ii,O&G Producing 20,81301,45,female,1976-03-11,,0
+2641,2167503,DTP001,20210616,Q7,87,Smartphone,IOS,4,5,2,1,4,41,2,true,95-100,lower_ii,O&G Producing 20,80545,70,female,1950-11-01,,0
+5466,779039,DTP001,20210616,Q7,90,Smartphone,IOS,1,3,1,3,4,34,2,false,50-60,lower_ii,O&G Producing 20,81520,34,female,1986-06-01,,0
+26597,16172206,DTP001,20210616,Q7,90,Smartphone,IOS,3,3,2,1,4,66,2,true,60-70,middle_i,No O&G Production 20,80925,66,female,1954-11-03,,1
+39449,2579693,DTP001,20210616,Q7,94,Smartphone,IOS,1,2,1,4,2,72,1,true,70-80,middle_i,No O&G Production 20,81006,56,female,1964-11-05,,1
+59343,15911631,DTP001,20210616,Q7,95,Smartphone,IOS,4,5,4,1,2,67,2,true,95-100,middle_i,No O&G Production 20,80209,67,female,1954-04-27,,1
+78772,15183489,DTP001,20210616,Q7,95,Smartphone,Android,2,4,4,1,4,68,1,true,95-100,middle_i,O&G Producing 20,81303,74,female,1947-02-01,,1
+12013,437137,DTP001,20210616,Q7,97,Smartphone,Android,3,4,5,1,2,36,2,true,95-100,lower_ii,O&G Producing 20,80011,36,female,1984-09-23,,0
+59467,2082541,DTP001,20210616,Q7,97,Smartphone,IOS,1,3,1,4,4,54,1,true,95-100,lower_ii,No O&G Production 20,80227,72,female,1948-12-03,,0
+54191,17578298,DTP001,20210616,Q7,99,Smartphone,IOS,5,5,3,1,4,27,2,true,80-90,lower_i,O&G Producing 20,80022,27,female,1993-08-12,,1
+47988,15881033,DTP001,20210616,Q7,102,Smartphone,Android,1,1,1,5,4,50,2,true,95-100,lower_ii,No O&G Production 20,80401,75,female,1945-05-01,,0
+15689,18544745,DTP001,20210616,Q7,104,Smartphone,IOS,1,1,1,4,4,57,1,true,70-80,lower_ii,No O&G Production 20,80227,55,female,1965-07-14,,0
+43994,1091424,DTP001,20210616,Q7,105,Smartphone,IOS,4,5,5,1,2,55,2,true,80-90,high_ii,No O&G Production 20,80444,55,female,1966-04-15,,0
+18676,2103711,DTP001,20210616,Q7,109,Smartphone,Android,3,5,6,1,4,60,2,true,95-100,lower_ii,No O&G Production 20,80211,60,female,1960-11-26,,1
+83763,782145,DTP001,20210616,Q7,112,Smartphone,IOS,5,5,4,1,4,55,2,true,90-95,lower_ii,O&G Producing 20,81428,55,female,1965-12-05,,1
+97535,18508526,DTP001,20210616,Q7,115,Smartphone,IOS,3,5,2,4,2,60,2,false,30-40,lower_ii,O&G Producing 20,80117,60,female,1960-09-25,,1
+75073,17041933,DTP001,20210616,Q7,118,Smartphone,Android,5,6,4,1,2,38,2,true,70-80,lower_ii,O&G Producing 20,80526,38,female,1982-12-01,,0
+76673,2763605,DTP001,20210616,Q7,118,Smartphone,IOS,1,5,2,1,4,68,2,true,95-100,lower_ii,O&G Producing 20,80634,67,female,1953-05-01,,1
+52344,18452033,DTP001,20210616,Q7,129,Desktop,Mac OS X,5,4,6,1,2,24,2,true,60-70,lower_ii,No O&G Production 20,80906,24,female,1997-01-01,,0
+26800,1581373,DTP001,20210616,Q7,126,Smartphone,Android,3,5,3,1,2,59,2,false,50-60,lower_ii,No O&G Production 20,80919,59,female,1962-01-10,,1
+73836,139279,DTP001,20210616,Q7,126,Smartphone,Android,5,5,5,1,2,68,2,true,90-95,lower_ii,O&G Producing 20,80010,68,female,1952-07-30,,0
+41390,925102,DTP001,20210616,Q7,133,Smartphone,IOS,4,2,6,2,1,57,2,true,95-100,lower_ii,No O&G Production 20,80221,57,female,1964-03-12,,1
+26673,19092777,DTP001,20210616,Q7,142,Smartphone,Android,6,4,3,3,3,22,2,false,40-50,lower_ii,No O&G Production 20,80905,22,female,1999-01-01,,1
+53500,2662282,DTP001,20210616,Q7,145,Smartphone,Android,3,5,2,2,2,69,4,false,95-100,lower_ii,No O&G Production 20,81132,69,female,1951-09-25,,1
+32634,1581367,DTP001,20210616,Q7,146,Smartphone,Android,5,1,1,1,4,66,4,true,90-95,middle_i,No O&G Production 20,80907,66,female,1955-01-16,,0
+75969,758474,DTP001,20210616,Q7,164,Smartphone,Android,1,1,1,4,2,66,2,false,70-80,lower_ii,O&G Producing 20,80802,66,female,1954-10-13,,0
+65018,843627,DTP001,20210616,Q7,170,Smartphone,IOS,5,5,4,1,1,50,2,true,95-100,lower_ii,O&G Producing 20,80221,65,female,1955-11-01,,1
+16263,4228890,DTP001,20210616,Q7,174,Smartphone,Android,3,5,3,1,2,56,4,true,80-90,lower_ii,O&G Producing 20,80631,56,female,1965-04-20,,0
+17539,771044,DTP001,20210616,Q7,174,Smartphone,IOS,5,4,1,1,2,75,2,false,80-90,lower_ii,No O&G Production 20,81120,75,female,1945-11-22,,1
+72514,16917871,DTP001,20210616,Q7,195,Smartphone,IOS,6,3,6,2,3,34,4,false,70-80,lower_ii,O&G Producing 20,80031,34,female,1987-01-01,,0
+10891,17975760,DTP001,20210616,Q7,454,Smartphone,Android,4,3,4,2,4,56,2,false,70-80,lower_ii,No O&G Production 20,80918,57,female,1964-01-01,,1
+94490,18970849,DTP001,20210616,Q7,200,Smartphone,Android,1,1,1,5,1,49,1,false,50-60,lower_ii,O&G Producing 20,81501,22,female,1998-06-17,,0
+92794,18184635,DTP001,20210616,Q7,214,Smartphone,IOS,5,5,3,1,1,25,2,false,60-70,lower_ii,No O&G Production 20,80205,25,female,1996-04-03,,0
+42154,2121369,DTP001,20210616,Q7,493,Smartphone,IOS,2,2,2,2,3,60,2,true,80-90,middle_i,O&G Producing 20,81303,61,female,1960-01-18,,0
+99690,1622888,DTP001,20210616,Q7,242,Smartphone,Android,5,1,1,5,4,80,4,false,70-80,lower_ii,No O&G Production 20,80909,81,female,1939-12-06,,1
+28141,2297435,DTP001,20210617,Q7,98,Smartphone,Android,5,5,5,1,4,64,2,false,95-100,lower_ii,O&G Producing 20,81428,64,female,1956-09-25,,0
+92655,17725979,DTP001,20210617,Q7,59,Unknown,Not A Device,6,4,1,1,2,34,2,true,90-95,lower_ii,No O&G Production 20,80219,33,female,1987-05-01,,1
+24037,1963398,DTP001,20210617,Q7,135,Smartphone,Android,4,3,6,2,2,66,2,true,80-90,lower_ii,O&G Producing 20,80651,66,female,1955-02-15,,1
+72883,18455583,DTP001,20210617,Q7,59,Smartphone,IOS,5,5,2,1,2,50,2,true,80-90,high_i,O&G Producing 20,80305,27,female,1994-04-01,,1
+29959,3366438,DTP001,20210617,Q7,63,Smartphone,IOS,6,5,5,1,4,43,2,true,95-100,lower_ii,O&G Producing 20,80503,42,female,1978-12-01,,1
+66637,18398134,DTP001,20210617,Q7,69,Smartphone,IOS,4,6,6,1,2,34,2,true,70-80,middle_i,No O&G Production 20,80906,34,female,1987-02-01,,0
+75576,15169331,DTP001,20210617,Q7,71,Smartphone,IOS,6,3,6,2,4,36,4,true,90-95,lower_ii,O&G Producing 20,80022,36,female,1984-09-27,,1
+32152,18978278,DTP001,20210617,Q7,73,Smartphone,Android,2,3,2,2,4,34,2,true,70-80,lower_ii,No O&G Production 20,81007,34,female,1986-07-01,,1
+12156,1219796,DTP001,20210617,Q7,88,Smartphone,IOS,6,6,6,1,2,67,2,true,70-80,lower_ii,No O&G Production 20,80231,67,female,1953-11-11,,1
+86285,4447880,DTP001,20210617,Q7,91,Smartphone,Android,5,5,5,1,2,56,2,true,90-95,middle_i,O&G Producing 20,80503,55,female,1965-05-01,,1
+83087,16346426,DTP001,20210617,Q7,374,Smartphone,IOS,1,3,6,3,2,72,2,true,70-80,lower_ii,O&G Producing 20,81082,44,female,1977-01-01,,1
+57958,18952234,DTP001,20210617,Q7,134,Smartphone,IOS,5,4,3,1,2,33,4,false,80-90,lower_ii,O&G Producing 20,80602,33,female,1988-01-01,,0
+82507,18129812,DTP001,20210617,Q7,183,Smartphone,IOS,5,5,5,1,4,28,2,true,80-90,middle_i,O&G Producing 20,80026,28,female,1993-01-01,,0
+6548,19111824,DTP001,20210618,Q7,78,Unknown,Not A Device,4,4,3,1,3,22,2,false,40-50,lower_ii,O&G Producing 20,80022,22,female,1999-01-01,,0
+27698,2808934,DTP001,20210618,Q7,242,Desktop,Linux,1,3,1,2,3,63,1,true,70-80,lower_ii,O&G Producing 20,80631,46,female,1974-10-21,,1
+45750,17747066,DTP001,20210618,Q7,93,Smartphone,Android,3,3,6,2,3,43,2,true,90-95,lower_ii,No O&G Production 20,80223,70,female,1951-01-01,,0
+100066,3406917,DTP001,20210618,Q7,90,Smartphone,IOS,4,5,6,2,4,69,2,true,80-90,lower_ii,No O&G Production 20,80238,69,female,1952-03-01,,1
+63059,15295594,DTP001,20210618,Q7,91,Smartphone,IOS,6,1,2,3,4,54,2,true,80-90,lower_ii,O&G Producing 20,81520,54,female,1966-11-23,,0
+94237,4339689,DTP001,20210618,Q7,91,Smartphone,Android,4,4,5,1,2,32,1,true,60-70,lower_ii,O&G Producing 20,81413,32,male,1988-12-28,,1
+56992,18800147,DTP001,20210618,Q7,120,Smartphone,IOS,1,4,1,2,3,30,1,true,70-80,lower_ii,No O&G Production 20,80228,68,female,1953-01-01,,1
+21263,528221,DTP001,20210618,Q7,107,Smartphone,IOS,1,3,1,1,2,62,2,true,95-100,middle_i,O&G Producing 20,81147,62,female,1959-03-21,,1
+49180,17963617,DTP001,20210618,Q7,115,Smartphone,IOS,4,4,2,1,4,65,2,true,80-90,lower_ii,No O&G Production 20,81007,65,female,1956-01-07,,0
+80868,169538,DTP001,20210618,Q7,119,Smartphone,Android,4,5,3,1,2,56,2,true,70-80,middle_i,O&G Producing 20,80602,56,female,1964-08-15,,1
+8795,2104456,DTP001,20210618,Q7,127,Smartphone,Android,4,4,1,1,2,55,2,true,90-95,lower_ii,No O&G Production 20,80219,55,female,1966-04-01,,0
+28316,2147006,DTP001,20210618,Q7,262,Smartphone,IOS,1,5,6,1,2,88,2,true,60-70,middle_i,O&G Producing 20,81301,87,female,1933-06-11,,0
+857,1751449,DTP001,20210618,Q7,142,Smartphone,IOS,4,4,3,1,3,42,1,true,80-90,middle_i,O&G Producing 20,81230,64,female,1957-01-17,,0
+5214,2904248,DTP001,20210619,Q7,170,Smartphone,Android,5,5,5,1,2,25,4,true,95-100,high_ii,O&G Producing 20,80023,71,female,1949-07-12,,1
+5388,18948364,DTP001,20210619,Q7,123,Unknown,Not A Device,4,5,3,2,2,64,2,true,40-50,lower_ii,No O&G Production 20,80813,33,female,1988-01-01,,0
+10100,15627367,DTP001,20210619,Q7,114,Smartphone,IOS,5,5,3,1,1,82,2,true,95-100,middle_i,O&G Producing 20,80540,83,female,1938-01-01,,0
+98294,16855529,DTP001,20210619,Q7,143,Smartphone,IOS,5,1,1,5,2,71,1,false,60-70,lower_ii,O&G Producing 20,80701,30,female,1991-03-01,,1
+3716,18999314,DTP001,20210619,Q7,66,Smartphone,IOS,5,5,1,1,2,33,1,true,80-90,middle_i,No O&G Production 20,80210,34,female,1987-01-01,,0
+15268,3805141,DTP001,20210619,Q7,33,Smartphone,Android,5,5,5,1,2,47,2,true,90-95,lower_ii,No O&G Production 20,81050,47,female,1974-04-01,,0
+901,18196439,DTP001,20210619,Q7,289,Smartphone,IOS,3,4,6,3,2,25,2,true,60-70,lower_ii,O&G Producing 20,81501,26,female,1995-01-01,,0
+7276,18485903,DTP001,20210619,Q7,40,Smartphone,Android,3,4,4,1,2,35,2,true,70-80,middle_i,No O&G Production 20,80442,36,female,1985-01-01,,1
+13017,16461453,DTP001,20210619,Q7,40,Smartphone,IOS,2,4,4,2,2,29,2,true,80-90,high_i,O&G Producing 20,80525,29,female,1992-01-01,,0
+21317,1346587,DTP001,20210619,Q7,296,Smartphone,Android,5,5,3,2,2,35,4,true,90-95,lower_ii,No O&G Production 20,80916,35,female,1986-03-15,,0
+18912,15590833,DTP001,20210619,Q7,41,Smartphone,IOS,5,5,2,2,2,31,2,true,95-100,middle_ii,O&G Producing 20,80020,31,female,1990-03-18,,0
+16907,18530951,DTP001,20210619,Q7,42,Smartphone,Android,5,5,3,1,2,33,2,true,80-90,lower_i,O&G Producing 20,80027,33,female,1988-01-01,,1
+21598,18264242,DTP001,20210619,Q7,43,Smartphone,IOS,5,5,6,1,4,40,2,true,95-100,middle_i,O&G Producing 20,80020,40,female,1980-12-29,,0
+2401,715681,DTP001,20210619,Q7,44,Smartphone,IOS,4,5,4,1,2,49,4,true,95-100,lower_ii,O&G Producing 20,80503,48,female,1972-05-29,,0
+19540,1896510,DTP001,20210619,Q7,45,Smartphone,Android,4,4,1,3,2,37,2,true,95-100,middle_i,No O&G Production 20,81637,36,female,1984-06-01,,1
+7889,18156016,DTP001,20210619,Q7,47,Smartphone,IOS,6,4,2,3,2,25,2,true,80-90,high_i,No O&G Production 20,80204,25,female,1995-08-26,,0
+20213,17240227,DTP001,20210619,Q7,47,Smartphone,IOS,5,5,5,1,1,26,2,false,40-50,lower_ii,O&G Producing 20,80501,26,female,1995-03-30,,0
+11408,762116,DTP001,20210619,Q7,304,Smartphone,Android,6,5,2,1,2,35,2,true,90-95,middle_i,No O&G Production 20,80452,35,female,1985-06-01,,0
+998,18017862,DTP001,20210619,Q7,49,Smartphone,Android,2,5,6,3,2,35,2,true,70-80,lower_ii,O&G Producing 20,81052,35,female,1985-09-02,,0
+738,15987798,DTP001,20210619,Q7,52,Smartphone,Android,2,5,4,1,4,33,2,true,80-90,middle_i,O&G Producing 20,81507,32,female,1988-07-01,,1
+4232,16988161,DTP001,20210619,Q7,53,Smartphone,Android,5,5,3,1,4,31,2,true,80-90,middle_i,O&G Producing 20,80212,32,female,1989-01-01,,1
+11772,17746870,DTP001,20210619,Q7,53,Smartphone,Android,5,5,1,5,2,28,4,true,70-80,middle_i,O&G Producing 20,80621,27,female,1993-07-01,,0
+21028,2586087,DTP001,20210619,Q7,309,Smartphone,Android,6,4,4,2,2,61,2,true,95-100,lower_ii,No O&G Production 20,81006,61,female,1959-12-17,,0
+8152,18731339,DTP001,20210619,Q7,54,Smartphone,IOS,4,3,5,5,2,26,2,false,70-80,lower_ii,No O&G Production 20,80917,26,female,1995-01-01,,0
+19006,16401955,DTP001,20210619,Q7,54,Smartphone,Android,5,5,3,2,2,36,4,true,90-95,lower_ii,O&G Producing 20,80521,36,female,1984-08-01,,0
+17758,17865153,DTP001,20210619,Q7,55,Smartphone,IOS,6,4,6,3,3,34,2,true,50-60,middle_i,No O&G Production 20,80922,34,female,1986-11-13,,1
+6789,15629639,DTP001,20210619,Q7,79,Smartphone,IOS,3,4,2,1,4,63,2,true,90-95,high_i,No O&G Production 20,80138,62,female,1958-06-12,,0
+5198,310997,DTP001,20210619,Q7,57,Smartphone,IOS,5,5,5,1,2,37,2,true,95-100,lower_ii,No O&G Production 20,80219,37,female,1983-07-01,,1
+9970,15990127,DTP001,20210619,Q7,58,Smartphone,IOS,5,5,5,1,1,30,2,true,80-90,middle_i,No O&G Production 20,80923,30,female,1991-02-25,,1
+9547,17357499,DTP001,20210619,Q7,59,Smartphone,IOS,6,3,6,2,2,20,2,true,40-50,high_i,No O&G Production 20,80209,26,female,1994-12-20,,1
+19739,16424429,DTP001,20210619,Q7,59,Smartphone,IOS,5,5,5,2,3,40,2,true,90-95,middle_i,No O&G Production 20,80918,41,female,1980-01-01,,0
+461,15592043,DTP001,20210619,Q7,60,Smartphone,IOS,1,3,2,1,2,35,2,true,90-95,lower_ii,O&G Producing 20,80524,34,female,1986-06-01,,1
+13754,2828177,DTP001,20210619,Q7,60,Smartphone,IOS,1,2,1,2,2,41,2,true,90-95,middle_i,O&G Producing 20,80026,41,female,1979-11-25,,1
+18549,1347421,DTP001,20210619,Q7,62,Smartphone,IOS,3,3,6,4,2,37,2,false,50-60,lower_ii,No O&G Production 20,80909,67,female,1953-09-21,,1
+75394,18664545,DTP001,20210619,Q7,62,Smartphone,Android,5,5,5,1,4,45,4,true,70-80,lower_ii,No O&G Production 20,81101,55,female,1966-01-01,,0
+363,18459502,DTP001,20210619,Q7,64,Smartphone,IOS,5,5,5,2,4,47,4,true,80-90,lower_ii,No O&G Production 20,80204,48,female,1973-01-01,,0
+2048,15643474,DTP001,20210619,Q7,64,Desktop,Mac OS X,3,3,6,2,3,35,2,true,95-100,lower_ii,No O&G Production 20,80205,35,female,1986-01-27,,0
+13951,18436534,DTP001,20210619,Q7,64,Smartphone,IOS,5,4,5,1,2,27,4,true,30-40,lower_ii,No O&G Production 20,80205,27,female,1994-01-15,,0
+14389,17852223,DTP001,20210619,Q7,64,Smartphone,Android,5,5,3,1,4,52,4,true,80-90,lower_ii,No O&G Production 20,81003,52,female,1968-08-01,,0
+11009,16043694,DTP001,20210619,Q7,66,Smartphone,Android,6,4,5,2,4,30,2,false,95-100,lower_ii,No O&G Production 20,80223,29,female,1991-05-01,,1
+5018,17992589,DTP001,20210619,Q7,67,Smartphone,IOS,1,1,1,3,2,28,2,false,60-70,lower_ii,O&G Producing 20,81504,28,female,1993-01-01,,1
+12025,18199792,DTP001,20210619,Q7,67,Smartphone,IOS,5,5,5,1,2,63,1,true,95-100,middle_i,No O&G Production 20,80224,62,female,1958-08-22,,1
+18527,19108489,DTP001,20210619,Q7,70,Smartphone,IOS,4,3,3,3,3,21,4,false,30-40,lower_ii,No O&G Production 20,81101,22,female,1999-01-01,,1
+19154,15709352,DTP001,20210619,Q7,70,Smartphone,IOS,1,4,1,2,2,38,2,true,95-100,lower_ii,O&G Producing 20,80537,38,female,1983-02-09,,0
+19330,18389132,DTP001,20210619,Q7,583,Smartphone,IOS,1,4,1,1,2,38,2,true,80-90,lower_ii,No O&G Production 20,80239,38,female,1983-01-01,,1
+11188,16023248,DTP001,20210619,Q7,72,Smartphone,Android,1,5,1,2,3,31,2,false,30-40,lower_ii,O&G Producing 20,80631,31,female,1989-12-03,,0
+2504,15673409,DTP001,20210619,Q7,74,Smartphone,IOS,2,3,2,3,2,30,2,false,40-50,lower_ii,No O&G Production 20,81623,30,female,1990-09-01,,1
+7256,18113172,DTP001,20210619,Q7,74,Smartphone,Android,5,5,5,1,4,20,2,true,80-90,lower_ii,No O&G Production 20,80231,21,female,2000-01-01,,1
+15172,1024434,DTP001,20210619,Q7,74,Smartphone,IOS,5,5,4,1,1,24,2,true,90-95,lower_ii,No O&G Production 20,80239,50,female,1970-11-11,,0
+19136,18211487,DTP001,20210619,Q7,74,Smartphone,IOS,3,2,5,3,1,38,2,true,80-90,middle_i,O&G Producing 20,80602,25,female,1995-10-11,,1
+20594,1935315,DTP001,20210619,Q7,74,Desktop,Windows,5,3,6,1,2,54,4,true,95-100,lower_ii,No O&G Production 20,80216,54,female,1967-02-01,,0
+16011,1593511,DTP001,20210619,Q7,76,Smartphone,Android,4,2,1,1,2,50,2,true,90-95,lower_ii,No O&G Production 20,80916,49,female,1971-05-31,,0
+20480,18959772,DTP001,20210619,Q7,77,Smartphone,IOS,3,5,2,1,1,100,3,true,80-90,middle_i,No O&G Production 20,80219,23,female,1998-01-01,,1
+21449,2790504,DTP001,20210619,Q7,78,Smartphone,Android,1,1,1,2,4,34,2,false,80-90,lower_ii,O&G Producing 20,80631,34,female,1986-12-04,,1
+246,18363143,DTP001,20210619,Q7,79,Smartphone,IOS,5,5,5,1,4,37,2,true,95-100,lower_ii,No O&G Production 20,80237,36,female,1984-06-10,,1
+377,19007314,DTP001,20210619,Q7,80,Smartphone,IOS,2,4,4,2,2,72,2,true,90-95,lower_ii,O&G Producing 20,80550,72,female,1948-09-01,,1
+6097,16801521,DTP001,20210619,Q7,80,Smartphone,IOS,1,1,2,2,2,35,2,true,95-100,lower_ii,No O&G Production 20,80204,35,female,1985-07-12,,0
+15486,928458,DTP001,20210619,Q7,80,Smartphone,IOS,5,4,2,3,3,34,2,true,95-100,middle_i,No O&G Production 20,80212,58,female,1962-08-08,,1
+21695,1959617,DTP001,20210619,Q7,80,Smartphone,IOS,4,3,6,1,2,71,2,true,95-100,middle_i,No O&G Production 20,80452,70,female,1950-06-11,,0
+2840,18999007,DTP001,20210619,Q7,81,Smartphone,IOS,3,3,2,2,2,33,2,false,70-80,lower_ii,No O&G Production 20,81004,33,female,1987-11-01,,1
+7996,443638,DTP001,20210619,Q7,82,Smartphone,Android,4,4,6,2,3,42,2,true,80-90,middle_i,No O&G Production 20,81005,42,female,1979-04-06,,0
+15421,2519029,DTP001,20210619,Q7,82,Smartphone,Android,6,4,6,3,2,36,2,true,90-95,lower_ii,No O&G Production 20,81050,36,female,1985-01-01,,0
+17079,2444406,DTP001,20210619,Q7,82,Smartphone,Android,5,5,2,1,2,75,2,true,90-95,middle_i,O&G Producing 20,80212,75,female,1946-04-06,,0
+14209,17611617,DTP001,20210619,Q7,85,Smartphone,Android,5,5,4,2,2,37,2,true,90-95,lower_ii,No O&G Production 20,80238,36,female,1984-05-03,,1
+21934,4302002,DTP001,20210619,Q7,85,Smartphone,IOS,2,2,4,2,2,33,2,true,95-100,lower_ii,No O&G Production 20,80223,32,female,1988-05-12,,1
+6845,887382,DTP001,20210619,Q7,343,Smartphone,Android,4,4,3,1,4,44,2,true,80-90,lower_ii,No O&G Production 20,80219,43,female,1977-08-19,,0
+1557,15672957,DTP001,20210619,Q7,88,Smartphone,Android,4,4,3,1,2,39,4,true,80-90,middle_i,No O&G Production 20,80919,40,female,1981-01-01,,0
+12049,632069,DTP001,20210619,Q7,89,Smartphone,Android,5,1,3,1,4,60,2,true,80-90,lower_ii,No O&G Production 20,80227,60,female,1960-08-16,,1
+11390,2108361,DTP001,20210619,Q7,90,Smartphone,IOS,5,5,5,3,2,71,2,true,60-70,lower_ii,O&G Producing 20,80807,72,female,1949-03-06,,1
+12091,2781406,DTP001,20210619,Q7,90,Smartphone,IOS,6,6,1,1,4,57,2,true,90-95,lower_ii,O&G Producing 20,80631,57,female,1963-11-30,,1
+6602,699030,DTP001,20210619,Q7,91,Smartphone,IOS,5,5,4,1,2,61,2,false,95-100,lower_ii,O&G Producing 20,80501,60,female,1960-05-07,,1
+11154,18256847,DTP001,20210619,Q7,91,Smartphone,IOS,4,4,4,2,2,78,2,true,95-100,lower_ii,No O&G Production 20,80014,78,female,1942-07-27,,0
+2255,19095213,DTP001,20210619,Q7,92,Smartphone,Android,1,4,6,1,2,22,2,false,40-50,lower_ii,O&G Producing 20,80229,22,female,1999-01-01,,1
+92601,15876075,DTP001,20210619,Q7,92,Smartphone,Android,3,5,4,1,2,55,2,true,80-90,lower_ii,O&G Producing 20,80634,55,female,1965-11-11,,1
+1357,48862,DTP001,20210619,Q7,93,Smartphone,Android,2,3,3,2,3,43,1,true,95-100,lower_ii,No O&G Production 20,80211,63,female,1957-10-20,,0
+15762,1735781,DTP001,20210619,Q7,93,Smartphone,IOS,5,5,4,1,2,70,2,true,80-90,middle_i,No O&G Production 20,80442,70,female,1951-04-01,,1
+748,18325270,DTP001,20210619,Q7,349,Smartphone,IOS,3,4,6,1,3,31,2,true,80-90,lower_ii,No O&G Production 20,80211,32,female,1989-01-01,,0
+17352,16410048,DTP001,20210619,Q7,99,Smartphone,Android,5,5,5,1,4,36,2,true,60-70,lower_ii,O&G Producing 20,81507,37,female,1984-01-01,,1
+15527,17001805,DTP001,20210619,Q7,101,Smartphone,Android,2,5,1,1,3,42,2,true,80-90,lower_ii,O&G Producing 20,80019,41,female,1979-06-01,,0
+12203,18828277,DTP001,20210619,Q7,102,Smartphone,IOS,5,5,4,1,4,31,4,true,80-90,lower_ii,No O&G Production 20,80203,31,female,1990-01-01,,1
+692,2424566,DTP001,20210619,Q7,103,Smartphone,IOS,5,4,4,1,1,61,2,true,80-90,middle_i,O&G Producing 20,81650,70,female,1950-06-25,,1
+15780,17467808,DTP001,20210619,Q7,104,Smartphone,Android,5,5,3,1,4,29,2,false,80-90,lower_ii,O&G Producing 20,80221,29,female,1991-10-26,,1
+10376,18573370,DTP001,20210619,Q7,115,Smartphone,IOS,1,1,1,4,3,41,2,true,50-60,middle_i,No O&G Production 20,80911,41,female,1980-04-01,,0
+12306,4387236,DTP001,20210619,Q7,105,Smartphone,IOS,5,5,2,1,4,40,2,true,90-95,lower_ii,No O&G Production 20,80207,40,female,1980-07-17,,0
+21374,1641284,DTP001,20210619,Q7,105,Smartphone,IOS,5,5,4,1,2,62,2,true,80-90,lower_ii,No O&G Production 20,81251,61,female,1959-06-01,,1
+564,195645,DTP001,20210619,Q7,106,Smartphone,IOS,6,6,6,1,1,70,2,true,95-100,lower_ii,No O&G Production 20,81101,69,female,1951-05-03,,1
+10858,18872987,DTP001,20210619,Q7,106,Smartphone,IOS,2,3,2,1,2,23,1,true,70-80,lower_ii,O&G Producing 20,80620,27,female,1994-01-01,,1
+18199,17828135,DTP001,20210619,Q7,106,Smartphone,IOS,5,3,4,1,2,32,2,false,95-100,lower_ii,No O&G Production 20,81003,32,female,1989-02-05,,1
+12446,16506534,DTP001,20210619,Q7,107,Smartphone,Android,4,5,5,1,4,34,2,true,70-80,lower_ii,No O&G Production 20,80916,34,female,1987-01-01,,0
+9296,15625611,DTP001,20210619,Q7,108,Smartphone,Android,2,2,2,2,2,30,2,false,50-60,lower_ii,O&G Producing 20,81601,30,female,1990-10-09,,0
+14315,1849848,DTP001,20210619,Q7,108,Smartphone,IOS,4,4,4,1,1,33,2,true,80-90,lower_ii,O&G Producing 20,80758,56,female,1965-01-13,,1
+21833,2503047,DTP001,20210619,Q7,109,Smartphone,Android,1,1,1,2,2,69,2,true,90-95,middle_i,O&G Producing 20,80654,69,female,1951-12-06,,1
+21588,3385229,DTP001,20210619,Q7,110,Smartphone,IOS,2,5,1,3,2,70,2,true,50-60,middle_i,No O&G Production 20,80919,41,female,1979-12-21,,0
+16455,16855620,DTP001,20210619,Q7,112,Smartphone,Android,3,2,6,4,2,60,2,false,70-80,lower_ii,No O&G Production 20,80104,60,female,1961-01-19,,0
+16538,1712337,DTP001,20210619,Q7,112,Smartphone,IOS,5,5,5,2,2,65,2,false,40-50,lower_ii,O&G Producing 20,81635,65,female,1955-08-15,,1
+3518,2116200,DTP001,20210619,Q7,113,Smartphone,IOS,6,2,1,5,4,37,1,true,95-100,lower_ii,No O&G Production 20,80461,76,female,1944-11-02,,1
+13903,18530475,DTP001,20210619,Q7,113,Smartphone,IOS,3,4,3,1,2,30,2,true,60-70,lower_i,No O&G Production 20,80911,31,female,1990-01-01,,0
+20105,2382516,DTP001,20210619,Q7,114,Smartphone,Android,5,3,1,4,2,66,1,false,30-40,lower_ii,O&G Producing 20,81503,58,female,1962-11-05,,0
+9850,15493226,DTP001,20210619,Q7,115,Smartphone,IOS,5,5,3,1,1,63,2,true,90-95,lower_ii,No O&G Production 20,80907,62,female,1958-06-01,,0
+12474,15689250,DTP001,20210619,Q7,116,Smartphone,Android,3,5,3,1,4,70,2,true,80-90,lower_ii,No O&G Production 20,80204,89,female,1932-01-01,,0
+6720,17035219,DTP001,20210619,Q7,117,Smartphone,IOS,3,5,6,1,4,29,4,true,90-95,lower_ii,No O&G Production 20,80109,45,female,1976-01-01,,1
+10823,18457624,DTP001,20210619,Q7,121,Smartphone,Android,4,6,6,4,1,23,2,false,50-60,lower_ii,No O&G Production 20,80916,24,female,1997-01-31,,1
+14586,18721966,DTP001,20210619,Q7,123,Smartphone,IOS,4,4,4,2,4,36,2,true,95-100,lower_ii,O&G Producing 20,80022,35,female,1985-06-07,,0
+381,17748487,DTP001,20210619,Q7,124,Smartphone,IOS,5,5,3,1,2,27,2,true,90-95,high_i,No O&G Production 20,80209,27,female,1993-10-01,,1
+926,2406501,DTP001,20210619,Q7,129,Smartphone,Android,3,6,3,1,4,28,1,false,70-80,lower_ii,O&G Producing 20,81504,65,female,1955-07-12,,0
+5814,2635283,DTP001,20210619,Q7,129,Smartphone,IOS,5,1,1,3,4,62,2,false,95-100,lower_ii,No O&G Production 20,81005,61,female,1959-11-12,,1
+7970,17565664,DTP001,20210619,Q7,131,Smartphone,Android,4,5,1,1,1,26,3,true,70-80,lower_ii,O&G Producing 20,81416,26,female,1994-10-16,,0
+8343,2345755,DTP001,20210619,Q7,134,Smartphone,IOS,6,2,1,2,4,64,1,true,95-100,middle_i,O&G Producing 20,81082,61,female,1959-05-12,,1
+14653,15700204,DTP001,20210619,Q7,907,Smartphone,IOS,5,5,5,1,2,31,3,false,90-95,lower_ii,No O&G Production 20,80206,32,female,1989-02-01,,1
+569,4248796,DTP001,20210619,Q7,140,Smartphone,IOS,5,5,4,1,2,50,4,true,95-100,lower_ii,No O&G Production 20,80211,49,female,1971-08-25,,0
+4799,15237814,DTP001,20210619,Q7,140,Smartphone,IOS,5,5,3,1,3,31,2,true,95-100,lower_ii,No O&G Production 20,80224,31,female,1989-08-17,,1
+15665,16200758,DTP001,20210619,Q7,141,Smartphone,IOS,5,3,3,1,1,27,2,true,30-40,lower_ii,No O&G Production 20,81211,27,female,1994-01-01,,1
+4258,15291668,DTP001,20210619,Q7,142,Smartphone,Android,5,5,3,1,4,32,2,true,70-80,middle_i,O&G Producing 20,80501,31,female,1989-07-31,,1
+16628,4470352,DTP001,20210619,Q7,142,Smartphone,Android,3,3,4,1,2,48,2,true,90-95,lower_ii,No O&G Production 20,80864,48,female,1973-04-01,,0
+1275,2151617,DTP001,20210619,Q7,148,Smartphone,Android,4,5,1,5,4,63,4,false,50-60,lower_ii,No O&G Production 20,80919,63,female,1958-01-09,,0
+17297,16072437,DTP001,20210619,Q7,150,Desktop,Mac OS X,5,5,4,2,2,64,2,true,80-90,middle_i,O&G Producing 20,80303,65,female,1956-01-01,,0
+12537,18315952,DTP001,20210619,Q7,151,Smartphone,Android,1,1,5,5,2,67,1,true,60-70,middle_i,No O&G Production 20,80435,25,female,1996-01-01,,1
+13441,4316170,DTP001,20210619,Q7,151,Smartphone,Android,3,5,4,3,1,37,1,true,70-80,lower_ii,No O&G Production 20,80907,36,female,1985-04-21,,0
+79097,16122942,DTP001,20210619,Q7,163,Smartphone,Android,1,1,1,1,2,69,2,true,90-95,lower_ii,No O&G Production 20,80216,69,female,1951-07-01,,1
+16839,816183,DTP001,20210619,Q7,165,Smartphone,Android,1,2,2,1,2,66,2,true,95-100,lower_i,No O&G Production 20,80216,65,female,1955-07-16,,0
+17463,1433589,DTP001,20210619,Q7,430,Smartphone,Android,5,5,6,1,4,60,2,true,90-95,lower_ii,No O&G Production 20,80903,60,female,1960-07-01,,1
+20482,2631064,DTP001,20210619,Q7,176,Smartphone,Android,3,2,4,2,2,68,2,true,95-100,lower_i,No O&G Production 20,81005,68,female,1952-07-07,,0
+7496,520234,DTP001,20210619,Q7,177,Smartphone,Android,3,1,1,3,3,61,2,true,95-100,lower_ii,No O&G Production 20,80222,61,female,1959-09-20,,0
+21136,15614170,DTP001,20210619,Q7,195,Smartphone,IOS,3,4,2,1,4,33,2,true,80-90,lower_ii,No O&G Production 20,80904,33,female,1987-06-01,,0
+12401,850277,DTP001,20210619,Q7,217,Smartphone,IOS,5,5,4,1,4,55,2,true,95-100,lower_ii,No O&G Production 20,80204,54,female,1966-05-21,,0
+3882,26938,DTP001,20210619,Q7,228,Smartphone,IOS,3,3,6,4,2,77,2,true,80-90,lower_ii,No O&G Production 20,80247,66,female,1955-03-11,,0
+6025,16050981,DTP001,20210619,Q7,231,Smartphone,IOS,1,2,2,4,2,27,4,false,60-70,lower_ii,O&G Producing 20,81501,30,female,1991-01-01,,0
+5160,16651607,DTP001,20210619,Q7,238,Smartphone,IOS,1,3,6,2,2,76,2,true,80-90,middle_i,No O&G Production 20,80817,76,female,1944-12-29,,1
+3796,18663377,DTP001,20210619,Q7,254,Smartphone,IOS,1,2,1,1,4,25,4,true,90-95,lower_ii,O&G Producing 20,80022,26,female,1995-01-01,,1
+4233,18697658,DTP001,20210620,Q7,149,Smartphone,Android,4,2,4,2,4,70,2,true,80-90,high_i,No O&G Production 20,80249,70,female,1951-04-15,,1
+53987,4681897,DTP001,20210620,Q6,104,Smartphone,IOS,5,5,6,1,2,61,2,false,50-60,lower_ii,No O&G Production 20,80910,25,female,1995-05-01,,1
+14247,18177088,DTP001,20210620,Q7,47,Smartphone,Android,5,5,4,2,2,28,3,true,60-70,lower_ii,No O&G Production 20,80917,28,female,1992-08-11,,0
+7418,1000964,DTP001,20210620,Q7,67,Smartphone,Android,4,2,4,1,2,42,2,true,90-95,lower_ii,No O&G Production 20,80202,42,female,1978-10-01,,0
+36658,18940641,DTP001,20210620,Q7,69,Smartphone,Android,4,5,6,2,4,33,4,true,80-90,middle_ii,O&G Producing 20,80610,33,female,1988-01-01,,0
+18916,18572185,DTP001,20210620,Q7,85,Smartphone,IOS,1,3,5,2,2,59,2,false,40-50,lower_ii,O&G Producing 20,81501,59,female,1962-01-01,,0
+4092,15316009,DTP001,20210620,Q7,102,Tablet,Mac OS X,1,2,1,2,2,61,1,true,95-100,lower_ii,No O&G Production 20,80829,72,female,1948-12-18,,0
+43530,2347125,DTP001,20210620,Q7,86,Smartphone,IOS,6,3,6,2,2,79,2,true,80-90,lower_ii,O&G Producing 20,81082,79,female,1941-07-17,,0
+2326,700530,DTP001,20210620,Q7,88,Smartphone,Android,5,5,6,1,4,66,2,true,95-100,middle_i,O&G Producing 20,80304,66,female,1954-08-16,,0
+28844,1049600,DTP001,20210620,Q7,113,Smartphone,Android,5,4,5,1,2,56,2,true,95-100,lower_ii,No O&G Production 20,80205,56,female,1964-05-09,,1
+12163,15168034,DTP001,20210620,Q7,115,Smartphone,Android,3,3,2,1,2,58,2,true,70-80,lower_ii,O&G Producing 20,80525,58,female,1963-01-02,,1
+12302,16465756,DTP001,20210620,Q7,127,Smartphone,IOS,4,4,1,2,4,59,2,true,70-80,lower_ii,No O&G Production 20,80004,59,female,1962-01-01,,1
+19610,3426734,DTP001,20210620,Q7,132,Smartphone,Android,6,5,6,1,2,68,2,true,95-100,lower_ii,No O&G Production 20,81067,68,female,1953-03-01,,1
+5329,384576,DTP001,20210620,Q7,137,Smartphone,IOS,5,5,6,1,2,68,2,true,90-95,middle_i,No O&G Production 20,80126,69,female,1952-01-22,,1
+7591,723587,DTP001,20210620,Q7,211,Smartphone,IOS,5,5,5,1,3,66,2,true,95-100,high_i,O&G Producing 20,80516,65,female,1955-05-10,,0
+20280,1024633,DTP001,20210620,Q7,218,Smartphone,IOS,6,6,6,1,2,80,2,true,90-95,lower_ii,No O&G Production 20,80247,80,female,1941-03-23,,1
+99114,17755757,DTP001,20210620,Q7,240,Smartphone,Android,2,1,2,3,2,40,1,true,70-80,lower_ii,No O&G Production 20,80817,65,male,1955-09-01,,0
+33602,886534,DTP001,20210622,Q7,267,Smartphone,Android,3,5,6,2,2,58,2,true,95-100,lower_ii,No O&G Production 20,80239,58,female,1962-08-18,,1
+33115,17941360,DTP001,20210622,Q7,314,Smartphone,IOS,2,2,1,1,4,74,2,true,80-90,middle_i,No O&G Production 20,80911,73,female,1947-08-01,,1
+39192,3378515,DTP001,20210622,Q7,59,Smartphone,Android,4,5,4,2,4,40,2,true,95-100,middle_i,No O&G Production 20,80461,40,female,1980-08-20,,1
+37373,19094368,DTP001,20210622,Q7,63,Smartphone,Android,5,5,6,1,4,21,3,true,60-70,lower_ii,No O&G Production 20,80909,22,female,1999-01-01,,1
+32671,16089912,DTP001,20210622,Q7,76,Smartphone,IOS,5,5,4,1,2,39,2,true,90-95,lower_ii,No O&G Production 20,80909,38,female,1982-05-02,,0
+36083,1607959,DTP001,20210622,Q7,88,Smartphone,Android,3,3,3,2,2,66,2,true,70-80,lower_ii,No O&G Production 20,80911,65,female,1955-06-01,,1
+25016,17135235,DTP001,20210622,Q7,96,Smartphone,Android,4,4,3,1,4,30,2,true,80-90,lower_ii,No O&G Production 20,80916,30,female,1991-01-20,,0
+32434,944930,DTP001,20210622,Q7,98,Smartphone,Android,5,5,2,1,1,48,1,true,90-95,lower_ii,O&G Producing 20,80229,69,female,1951-09-30,,0
+34183,355280,DTP001,20210622,Q7,100,Smartphone,IOS,6,5,5,1,2,68,2,true,95-100,lower_ii,No O&G Production 20,80247,68,female,1953-02-19,,1
+43816,15240748,DTP001,20210622,Q7,102,Smartphone,IOS,5,5,3,1,2,49,2,true,90-95,lower_ii,O&G Producing 20,80516,48,female,1972-06-19,,1
+10012,15740299,DTP001,20210622,Q7,106,Smartphone,Android,1,1,1,3,3,35,2,true,70-80,middle_i,No O&G Production 20,81201,36,female,1985-01-01,,1
+25445,3598634,DTP001,20210622,Q7,115,Smartphone,Android,3,5,3,3,2,65,2,true,95-100,lower_ii,No O&G Production 20,80220,65,female,1955-09-15,,1
+27312,2477156,DTP001,20210622,Q7,115,Smartphone,Android,6,5,6,1,2,72,2,true,95-100,lower_ii,No O&G Production 20,81401,71,female,1949-06-01,,1
+31908,2722983,DTP001,20210622,Q7,120,Smartphone,IOS,5,4,6,2,2,74,2,true,90-95,lower_ii,No O&G Production 20,80860,74,female,1946-09-29,,0
+37972,975750,DTP001,20210622,Q7,121,Smartphone,Android,5,5,5,5,2,63,2,true,80-90,lower_ii,No O&G Production 20,80206,62,female,1958-10-01,,0
+31795,19807486,DTP001,20210622,Q7,123,Smartphone,IOS,6,2,6,2,2,28,2,true,70-80,,No O&G Production 20,81004,27,female,1993-06-08,,0
+41298,16998610,DTP001,20210622,Q7,127,Smartphone,Android,2,1,1,2,1,76,1,true,60-70,lower_ii,O&G Producing 20,81505,34,female,1986-12-09,,0
+23802,1572296,DTP001,20210622,Q7,138,Smartphone,Android,5,5,3,1,1,78,2,true,80-90,lower_ii,No O&G Production 20,80907,78,female,1943-03-06,,1
+25200,4767217,DTP001,20210622,Q7,146,Smartphone,Android,4,4,5,2,2,60,2,true,80-90,lower_ii,O&G Producing 20,81501,59,female,1961-05-30,,1
+29110,3618658,DTP001,20210622,Q7,160,Smartphone,IOS,3,2,4,3,1,47,2,true,90-95,lower_ii,O&G Producing 20,80229,47,female,1974-03-01,,0
+42704,18337641,DTP001,20210622,Q7,216,Smartphone,Android,4,5,6,1,4,61,2,true,70-80,lower_ii,O&G Producing 20,80221,60,female,1960-05-01,,1
+36834,18280151,DTP001,20210623,Q7,38,Smartphone,Android,5,5,5,1,2,24,2,true,80-90,lower_ii,No O&G Production 20,80401,25,female,1996-01-01,,0
+17843,3368977,DTP001,20210623,Q7,68,Smartphone,Android,6,5,4,2,2,38,2,true,90-95,lower_ii,No O&G Production 20,80203,38,female,1982-09-16,,1
+43960,79688,DTP001,20210623,Q7,113,Smartphone,Android,5,5,5,1,4,44,2,true,80-90,lower_ii,O&G Producing 20,80601,44,female,1976-11-30,,1
+31556,17745935,DTP001,20210623,Q7,116,Smartphone,Android,4,4,2,2,4,41,2,true,80-90,lower_ii,O&G Producing 20,80022,41,female,1980-01-01,,1
+17809,18549329,DTP001,20210623,Q7,123,Smartphone,Android,1,4,2,4,4,32,4,false,40-50,lower_ii,No O&G Production 20,80814,31,female,1990-03-01,,0
+36754,2701969,DTP001,20210623,Q7,125,Smartphone,IOS,2,4,6,1,2,49,2,true,95-100,lower_ii,No O&G Production 20,80424,48,female,1972-08-09,,0
+5827,460803,DTP001,20210623,Q7,204,Smartphone,Android,4,5,3,1,2,74,2,true,95-100,high_ii,O&G Producing 20,81505,74,female,1946-09-01,,1
+27814,2785359,DTP001,20210623,Q7,235,Smartphone,Android,1,2,1,5,2,72,1,true,90-95,middle_i,O&G Producing 20,80543,85,female,1935-06-17,,1
