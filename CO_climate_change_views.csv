@@ -1,0 +1,751 @@
+OS,Country,City,Provider,Gender,DOB,facebook_use,voter_reg,works_in_oil_gas,climate_change_importance,climate_change_worry,climate_change_personal_harm,climate_change_future_gen_harm,county
+Android,US,Frisco,Unknown,female,1966,Every day,Not registered to vote,No,Very important,Somewhat worried,Only a little,A great deal,Summit County
+iOS,US,Denver,Unknown,male,1961,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Boulder County
+iOS,US,Denver,Unknown,female,1986,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Douglas County
+Android,US,Denver,T-Mobile,male,1991,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Very important,Not very worried,A moderate amount,A moderate amount,Adams County
+Android,US,Denver,Unknown,female,1985,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Denver,Unknown,female,2001,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Denver County
+iOS,US,Pueblo,Verizon,male,1972,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,Only a little,A great deal,Pueblo County
+Web,US,Denver,Unknown,female,2001,I never use Facebook or Instagram,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Not very worried,Only a little,A moderate amount,Denver County
+iOS,US,Durango,Verizon,female,1985,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A moderate amount,A great deal,La Plata County
+iOS,US,Castle Rock,Unknown,male,1998,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,Douglas County
+Android,US,Broomfield,Verizon,female,1990,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,Boulder County
+Android,US,Denver,Verizon,female,1993,Less than once a month,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Pagosa Springs,Verizon,female,1984,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,Only a little,A great deal,El Paso County
+iOS,US,Colorado Springs,AT&T,female,1997,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A great deal,A moderate amount,El Paso County
+Web,US,Colorado Springs,Unknown,female,1958,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Arvada,Unknown,male,1975,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Only a little,A moderate amount,Denver County
+Android,US,Denver,Unknown,male,1999,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Not very worried,Only a little,A moderate amount,Denver County
+Android,US,Denver,T-Mobile,female,1998,Every day,Not registered to vote,No,Very important,Not very worried,A moderate amount,Only a little,Denver County
+Android,US,Brighton,Unknown,male,1980,I never use Facebook or Instagram,I don’t know,No,Very important,Somewhat worried,A moderate amount,A great deal,Weld County
+Android,US,Greeley,Unknown,female,1989,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Not at all,Not at all,Weld County
+Android,US,Colorado Springs,Verizon,male,2003,Every day,Not registered to vote,No,Not too important,Somewhat worried,A moderate amount,Not at all,El Paso County
+Android,US,Colorado Springs,Verizon,female,1977,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+Web,US,Denver,Unknown,female,1963,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Denver County
+Web,US,Englewood,Unknown,male,1963,Once a week,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Arapahoe County
+Web,US,Denver,Unknown,female,1997,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Not very worried,Only a little,A moderate amount,Arapahoe County
+Web,US,Aurora,Unknown,male,1980,Once a week,"Registered to vote, registered as Republican ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Very worried,Only a little,A great deal,tonaly county
+Android,US,Denver,Verizon,male,1984,Every day,I don’t know,Not sure,Somewhat important,Somewhat worried,Don’t know,Only a little,Adams County
+Android,US,Westminster,Unknown,male,1990,Once a week,Not registered to vote,No,Somewhat important,Not very worried,A moderate amount,Only a little,Denver County
+iOS,US,Colorado Springs,Verizon,male,1991,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+iOS,US,Gypsum,Verizon,male,1969,I never use Facebook or Instagram,I don’t know,Not sure,Somewhat important,Somewhat worried,Only a little,A great deal,Eagle
+Web,US,Denver,Unknown,female,1982,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,Only a little,Douglas County
+Android,US,Pagosa Springs,Verizon,male,1969,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Fremont County
+Android,US,Palisade,Sprint,male,1969,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Mesa County
+Android,US,Aurora,AT&T,female,1969,I never use Facebook or Instagram,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,Only a little,Arapahoe County
+Android,US,Denver,Unknown,female,1974,Every day,I don’t know,"Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Longmont,Unknown,female,1966,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Larimer County
+iOS,US,Fort Collins,Unknown,female,1955,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,A great deal,A great deal,Larimer County
+Android,US,Denver,Unknown,female,1985,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Fort Collins,Unknown,female,2000,Less than once a month,Not registered to vote,Not sure,Extremely important,Very worried,A great deal,A great deal,Fort collins
+Android,US,Denver,Sprint,female,1981,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Somewhat worried,A moderate amount,A great deal,Larimer County
+Web,US,Golden,Unknown,male,1985,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Somewhat worried,A great deal,A great deal,Adams County
+Android,US,Greeley,Verizon,female,1978,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Weld County
+iOS,US,Denver,Unknown,female,2002,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Denver,Unknown,female,1995,Once a week,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Granby,AT&T,male,1957,Every day,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Denver,Unknown,male,1997,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Web,US,Colorado Springs,Unknown,male,1995,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,Don’t know,Boulder County
+iOS,US,Colorado Springs,Sprint,female,1989,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Denver,T-Mobile,female,1985,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Denver,Unknown,female,1985,Every day,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Don’t know,Denver County
+iOS,US,Colorado Springs,Unknown,female,2003,Once a week,I don’t know,No,Not at all important,Not very worried,Not at all,Don’t know,El Paso County
+Web,US,Arvada,Unknown,female,1976,Once a month,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,Jefferson County
+Web,US,Denver,Unknown,male,1982,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,Only a little,A great deal,Jefferson County
+Web,US,Greeley,Unknown,female,1957,Less than once a month,"Registered to vote, registered as Republican ",No,Very important,Not very worried,Don’t know,Don’t know,Weld County
+iOS,US,Frederick,Unknown,male,2001,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Not very worried,A moderate amount,Only a little,Weld
+Android,US,Durango,AT&T,female,1978,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,La Plata County
+iOS,US,Pueblo,Unknown,male,1985,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Pueblo County
+Web,US,Greeley,Unknown,male,1951,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Only a little,A moderate amount,Other
+iOS,US,Arvada,T-Mobile,female,1982,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Not at all,Don’t know,Iron
+Web,US,Westminster,Unknown,female,1976,Once a month,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A great deal,Jefferson County
+Android,US,Englewood,Unknown,female,1966,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Arapahoe County
+iOS,US,Colorado Springs,Unknown,female,1992,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,A great deal,El Paso County
+iOS,US,Denver,Sprint,male,1955,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Brighton,AT&T,male,1992,Every day,I don’t know,"Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,Don’t know,A great deal,Denver County
+iOS,US,Hugo,Viaero,female,1960,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Cheyenne
+Android,US,Greeley,Unknown,female,1955,Once a week,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,Don’t know,A moderate amount,Weld County
+iOS,US,Cañon City,T-Mobile,female,1981,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Not very worried,Only a little,A moderate amount,Fremont County
+Android,US,Denver,AT&T,female,1977,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A great deal,Denver County
+Web,US,Commerce City,Unknown,female,1965,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,Only a little,Adams County
+Android,US,Denver,AT&T,female,1966,Every day,I don’t know,No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Weld County
+Android,US,Denver,T-Mobile,male,1997,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,A moderate amount,Jefferson County
+Web,US,Milliken,Unknown,male,1968,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,A moderate amount,A moderate amount,Adams County
+Android,US,Arvada,T-Mobile,female,1981,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,Only a little,Arapahoe County
+iOS,US,Denver,Verizon,female,1989,Every day,"Registered to vote, registered as Democratic",Not sure,Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Denver,AT&T,male,1983,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,Not at all,A great deal,Jefferson County
+Android,US,Sterling,Unknown,male,1959,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,A moderate amount,A great deal,Logan County
+Android,US,Denver,Sprint,female,1986,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Adams County
+Android,US,Greeley,AT&T,male,1980,Once a week,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Boulder County
+Web,US,Littleton,Unknown,male,1994,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,Only a little,A great deal,Arapahoe County
+iOS,US,Greeley,Unknown,male,1981,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Not at all,Weld County
+Web,US,Denver,Unknown,female,1951,Every day,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Only a little,Adams County
+iOS,US,Boulder,Unknown,female,1994,Every day,Not registered to vote,No,Very important,Very worried,Only a little,A moderate amount,Boulder County
+Android,US,Denver,AT&T,female,1989,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Pueblo County
+Android,US,Denver,Unknown,female,1972,Once a week,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,Pueblo County
+Android,US,Denver,Unknown,female,1964,I never use Facebook or Instagram,Not registered to vote,No,Very important,Very worried,A moderate amount,A great deal,Do not live in Colorado
+Android,US,Denver,Unknown,male,1996,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Broomfield County
+Web,US,Boulder,Unknown,female,1986,I never use Facebook or Instagram,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,Boulder County
+Android,US,Denver,Unknown,female,1988,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,Only a little,Denver County
+Web,US,Littleton,Unknown,male,1946,I never use Facebook or Instagram,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Larimer County
+Web,US,Colorado Springs,Unknown,female,1958,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Denver,Sprint,male,1978,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,I don't live in Colorado.
+Android,US,Arvada,Unknown,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+iOS,US,Colorado Springs,Unknown,female,2001,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,El Paso County
+Android,US,Denver,AT&T,female,1985,Less than once a month,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Unknown,Unknown,female,1991,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Other
+Android,US,Colorado Springs,T-Mobile,male,1988,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A moderate amount,A great deal,El Paso County
+Android,US,Denver,AT&T,female,1993,Every day,Not registered to vote,No,Very important,Somewhat worried,Only a little,A moderate amount,Montrose County
+Android,US,Littleton,AT&T,female,1957,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Pueblo,AT&T,female,1971,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Pueblo County
+Web,US,Colorado Springs,Unknown,male,1993,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Arvada,Verizon,female,1979,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Montrose County
+Android,US,Denver,T-Mobile,female,1975,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+Android,US,Trinidad,T-Mobile,male,1968,Every day,Not registered to vote,No,Very important,Somewhat worried,A great deal,A great deal,Denver County
+iOS,US,Colorado Springs,Verizon,male,1982,Once a month,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Not at all,Not at all,El Paso County
+Android,US,Denver,T-Mobile,male,1986,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Only a little,A moderate amount,Jefferson County
+Android,US,Arvada,Unknown,male,1988,Every day,Not registered to vote,No,Somewhat important,Very worried,A moderate amount,A moderate amount,I dont live in Colorado
+iOS,US,Colorado Springs,Unknown,female,1999,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,El Paso County
+Android,US,Colorado Springs,AT&T,male,1993,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A great deal,Garfield County
+Android,US,Pueblo,T-Mobile,male,1985,Once a week,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Pueblo County
+Android,US,Pueblo,Unknown,male,1979,Once a month,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not at all worried,Not at all,Only a little,Pueblo County
+Android,US,Fort Collins,AT&T,female,1949,Less than once a month,Not registered to vote,No,Somewhat important,Not very worried,A moderate amount,A great deal,Larimer County
+Android,US,Denver,AT&T,female,1974,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+Android,US,Denver,Unknown,female,1991,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Larimer County
+iOS,US,Denver,Unknown,male,1985,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Somewhat worried,A moderate amount,A great deal,Pueblo County
+Web,US,Fort Collins,Unknown,female,1996,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Larimer County
+iOS,US,Gill,Unknown,male,1981,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Weld County
+iOS,US,Denver,AT&T,female,1991,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,AT&T,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Westminster,Unknown,female,1990,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Adams County
+Web,US,Durango,Unknown,male,1952,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,La Plata County
+Android,US,Denver,Unknown,female,1961,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,La Plata County
+iOS,US,Colorado Springs,Unknown,female,1957,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Somewhat worried,A moderate amount,A great deal,El Paso County
+iOS,US,Parker,Unknown,female,1970,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Douglas County
+Android,US,Louisville,Unknown,male,1993,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Adams County
+Android,US,Denver,T-Mobile,male,1992,Once a month,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Broomfield County
+Web,US,Pueblo,Unknown,female,2003,Every day,"Registered to vote, registered as Democratic",Not sure,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+Web,US,Denver,Unknown,male,1991,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,Only a little,A great deal,Denver County
+Android,US,Pueblo,Unknown,male,1987,Once a week,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Denver,Sprint,male,1988,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,T-Mobile,female,1992,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Parker,AT&T,female,1956,Once a month,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Douglas County
+Web,US,Aurora,Unknown,male,1975,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Littleton,Sprint,female,1988,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Denver,T-Mobile,male,1973,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Weld County
+Android,US,Denver,Verizon,female,1991,Every day,I don’t know,No,Extremely important,Very worried,A great deal,A great deal,Larimer County
+Android,US,Arvada,T-Mobile,male,1983,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",Not sure,Extremely important,Very worried,A moderate amount,A great deal,Other
+Android,US,Denver,Verizon,female,1962,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Pueblo,Unknown,male,1995,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+Android,US,Denver,AT&T,male,1992,Once a week,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,I don't live in colorado
+Android,US,Denver,Unknown,male,1983,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A moderate amount,Denver County
+iOS,US,Cedaredge,AT&T,female,1987,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Web,US,Denver,Unknown,male,1987,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Adams County
+Web,US,Littleton,Unknown,male,1980,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Arvada,Unknown,male,2000,Every day,Not registered to vote,Not sure,Extremely important,Very worried,A moderate amount,Only a little,Adams County
+Web,US,Beulah,Unknown,male,1983,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Unknown,Unknown,male,1971,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Other
+Web,US,Longmont,Unknown,male,1998,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Colorado Springs,Verizon,female,1985,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Denver,Unknown,male,1994,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,Don’t know,A great deal,Denver County
+iOS,US,Aurora,T-Mobile,female,1994,Every day,I don’t know,Not sure,Not at all important,Not at all worried,Not at all,Don’t know,El Paso County
+Web,US,Littleton,Unknown,female,1974,Less than once a month,"Registered to vote, registered as Democratic",No,Not at all important,Not very worried,Only a little,Not at all,Denver County
+Android,US,Denver,Verizon,male,1984,I never use Facebook or Instagram,Not registered to vote,Not sure,Not at all important,Somewhat worried,Don’t know,Don’t know,Other
+Android,US,Del Norte,Unknown,female,1968,Once a week,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A moderate amount,A great deal,Rio Grande
+Web,US,Aurora,Unknown,female,1998,Once a week,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,Only a little,A moderate amount,Denver County
+Web,US,Calhan,Unknown,male,1955,Every day,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Greeley,Unknown,female,1999,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Weld County
+Web,US,Monument,Unknown,male,1997,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,El Paso County
+Web,US,Fort Collins,Unknown,male,1980,Every day,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Pueblo County
+Web,US,Colorado Springs,Unknown,male,1998,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Denver,Unknown,male,1950,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Only a little,Only a little,Denver County
+iOS,US,Longmont,Unknown,female,1962,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Not too important,Not at all worried,Not at all,Don’t know,Boulder County
+Web,US,Denver,Unknown,female,1980,Once a week,I don’t know,No,Not too important,Not very worried,Only a little,Only a little,Pueblo County
+Web,US,Denver,Unknown,female,1950,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Only a little,Only a little,Jefferson County
+Android,US,Unknown,Verizon,male,1974,Once a month,I don’t know,"Yes, a close friend or family member is employed in the oil and gas industry",Not too important,Not very worried,Only a little,Only a little,Other
+Android,US,Pagosa Springs,Unknown,male,1956,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,A moderate amount,A great deal,Archuleta
+Android,US,Denver,Unknown,female,1965,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Not very worried,Only a little,A moderate amount,Crowley
+Web,US,Colorado Springs,Unknown,female,1990,Once a week,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,A moderate amount,Not at all,El Paso County
+Android,US,Grand Junction,T-Mobile,male,1993,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,Only a little,Mesa County
+Android,US,Greeley,Unknown,female,1955,Once a week,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Weld County
+Web,US,Denver,Unknown,female,1952,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not very worried,Only a little,Only a little,Douglas County
+iOS,US,Denver,Unknown,female,1993,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Arapahoe County
+Android,US,Denver,Verizon,female,1989,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Larimer County
+Web,US,Fort Collins,Unknown,female,1963,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,A moderate amount,A great deal,Larimer County
+Web,US,Colorado Springs,Unknown,female,1982,Every day,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A great deal,A great deal,Montezuma County
+Web,US,Boulder,Unknown,male,1978,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,Not at all,A great deal,Denver County
+Android,US,Greeley,Verizon,female,1972,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Weld County
+Web,US,Golden,Unknown,male,1995,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Pagosa Springs,Unknown,male,1987,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Boulder,Unknown,male,1998,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Loveland,Unknown,male,1986,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,El Paso County
+Web,US,Denver,Unknown,male,1998,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Longmont,Unknown,male,1998,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Denver,Unknown,male,1980,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Mancos,AT&T,female,1988,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Somewhat worried,Don’t know,A great deal,Montezuma County
+Android,US,Colorado Springs,AT&T,female,1956,Every day,"Registered to vote, registered as Democratic",Not sure,Extremely important,Very worried,A great deal,A great deal,El Paso County
+Web,US,Colorado Springs,Unknown,male,1995,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Web,US,Denver,Unknown,male,1995,Once a week,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Web,US,Loveland,Unknown,male,1952,Every day,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Not at all,Larimer
+iOS,US,Denver,Unknown,female,1960,Every day,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Not at all,Jefferson County
+Web,US,Denver,Unknown,male,1951,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not at all important,Not at all worried,Not at all,Not at all,Larimer County
+Web,US,Florissant,Unknown,female,1948,Once a week,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Only a little,Teller
+Web,US,Aurora,Unknown,female,1948,Once a week,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Not at all,Arapahoe County
+Web,US,Loveland,Unknown,female,1976,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not at all important,Not at all worried,Not at all,Not at all,Larimer County
+Android,US,Denver,AT&T,male,1967,Once a week,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Not at all,Denver County
+Android,US,Denver,T-Mobile,female,1982,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Don’t know,Don’t know,Denver County
+Android,US,Loveland,Unknown,female,1968,Once a week,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Weld County
+Android,US,Denver,Verizon,male,1976,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Eagle County
+iOS,US,Denver,Sprint,female,1958,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Pueblo,AT&T,female,1975,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Pueblo County
+Android,US,Greeley,Sprint,female,1989,Every day,"Registered to vote, registered as Democratic",No,Very important,Not very worried,A moderate amount,A moderate amount,Weld County
+Web,US,Broomfield,Unknown,female,1951,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Only a little,A moderate amount,Broomfield County
+Web,US,Denver,Unknown,female,1993,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,Only a little,A great deal,Denver County
+Web,US,Littleton,Unknown,male,1986,Once a month,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Brush,Unknown,female,1994,Every day,"Registered to vote, registered as Democratic",No,Very important,Not at all worried,A great deal,A great deal,Morgan County
+Android,US,Arvada,T-Mobile,female,1986,Every day,I don’t know,No,Very important,Very worried,A moderate amount,A great deal,La Plata County
+iOS,US,Colorado Springs,Unknown,male,1987,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Not at all,Don’t know,El Paso County
+Android,US,Aurora,Unknown,female,1984,Once a week,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Not at all,A moderate amount,Arapahoe County
+Android,US,Grand Junction,T-Mobile,male,1989,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Not too important,Not very worried,Not at all,A moderate amount,Mesa County
+iOS,US,Akron,Unknown,female,1993,Every day,I don’t know,No,Not too important,Not very worried,Not at all,A moderate amount,Otero
+Web,US,Denver,Unknown,female,1944,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Not at all,Only a little,Larimer County
+Web,US,Johnstown,Unknown,female,1955,Less than once a month,"Registered to vote, registered as Republican ",Not sure,Not too important,Not very worried,Not at all,Don’t know,Weld County
+iOS,US,Fort Collins,Sprint,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Not too important,Not very worried,Only a little,A moderate amount,Larimer County
+iOS,US,Denver,Unknown,male,1966,Once a week,Not registered to vote,Not sure,Not too important,Not very worried,A moderate amount,A moderate amount,"Wyoming, not Colorado"
+iOS,US,Denver,Verizon,male,1998,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Denver County
+Web,US,Denver,Unknown,female,1953,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Weld County
+Android,US,Pueblo,Unknown,female,1980,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Pueblo County
+Android,US,Pueblo,Unknown,female,1980,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Pueblo County
+Web,US,Rifle,Unknown,female,1967,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Garfield County
+Web,US,Denver,Unknown,female,1976,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Very worried,A great deal,Only a little,Denver County
+Android,US,Unknown,Verizon,female,1992,Every day,Not registered to vote,Not sure,Somewhat important,Very worried,A great deal,Don’t know,Montana
+iOS,US,Aurora,Sprint,female,1979,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Denver County
+Web,US,Arvada,Unknown,male,1979,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",Not sure,Somewhat important,Somewhat worried,Only a little,A moderate amount,Jefferson County
+Web,US,Littleton,Unknown,male,1986,Less than once a month,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Denver,T-Mobile,male,1986,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Not at all,A moderate amount,Denver County
+Android,US,Unknown,Unknown,male,2000,Once a month,"Registered to vote, registered as Republican ",No,Somewhat important,Not very worried,A moderate amount,A moderate amount,Larimer County
+Android,US,Colorado Springs,Unknown,male,1982,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not very worried,Only a little,Don’t know,El Paso County
+iOS,US,Denver,AT&T,female,1991,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not very worried,Don’t know,Don’t know,Larimer County
+Android,US,Denver,Unknown,female,1985,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,None
+Android,US,Westminster,Sprint,male,1986,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Adams County
+iOS,US,Colorado Springs,Verizon,female,1992,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,El Paso County
+Android,US,Lamar,Unknown,male,1979,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,A moderate amount,Otero
+Android,US,Denver,Verizon,male,1970,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Not at all,Not at all,Denver County
+Android,US,Arvada,AT&T,female,1979,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Not very worried,Not at all,Not at all,Jefferson County
+Android,US,Denver,T-Mobile,female,1992,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Don’t know,Don’t know,Larimer County
+Android,US,Parachute,Unknown,female,1972,Every day,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Garfield County
+Web,US,Englewood,Unknown,male,1979,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Other
+iOS,US,Littleton,Verizon,female,1980,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Fort Collins,Verizon,male,1979,Once a week,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A great deal,A great deal,Larimer County
+iOS,US,Denver,Unknown,female,1969,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Fort Collins,Sprint,female,1987,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Larimer County
+iOS,US,Parker,Unknown,male,1990,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Douglas County
+Android,US,Denver,T-Mobile,male,1972,I never use Facebook or Instagram,Not registered to vote,No,Extremely important,Somewhat worried,Don’t know,A moderate amount,None
+iOS,US,Littleton,Verizon,female,1961,Once a month,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Douglas County
+iOS,US,Denver,Verizon,male,1979,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Boulder County
+Android,US,Aurora,Unknown,male,1987,I never use Facebook or Instagram,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Brighton,Verizon,female,1992,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,Don’t know,A great deal,Adams County
+Android,US,Denver,Verizon,female,1984,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Brighton,Unknown,male,1978,I never use Facebook or Instagram,"Registered to vote, registered as Republican ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Not at all important,Not at all worried,Not at all,Don’t know,Adams County
+Android,US,Denver,Unknown,female,1979,Every day,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Not at all,Douglas County
+Android,US,Unknown,Verizon,male,1967,Every day,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Not at all,Denver County
+Android,US,Unknown,AT&T,male,1991,Once a week,I don’t know,Not sure,Very important,Not at all worried,A great deal,A great deal,Other
+Android,US,Unknown,T-Mobile,male,1990,Once a week,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Not at all worried,A great deal,A great deal,Jefferson County
+iOS,US,Unknown,Unknown,male,1985,Once a month,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Huerfano
+Android,US,Unknown,Verizon,male,1983,Every day,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Only a little,Larimer County
+Android,US,Unknown,Verizon,female,1991,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Pueblo County
+iOS,US,Unknown,Unknown,female,1996,I never use Facebook or Instagram,Not registered to vote,Not sure,Very important,Very worried,A great deal,A moderate amount,Montezuma County
+Android,US,Unknown,Verizon,female,1991,Every day,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Other
+iOS,US,Unknown,Sprint,male,1963,Once a week,Not registered to vote,"Yes, I am employed in the oil and gas industry",Not too important,Somewhat worried,A moderate amount,A great deal,La Plata County
+Web,US,Unknown,Unknown,male,1959,Once a week,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,Only a little,A moderate amount,None
+Web,US,Unknown,Unknown,male,1977,Once a week,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Web,US,Unknown,Unknown,male,1987,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Denver County
+Android,US,Unknown,Unknown,female,1983,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",Not sure,Somewhat important,Somewhat worried,A moderate amount,Only a little,Malheur County
+Android,US,Unknown,Unknown,male,1971,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A moderate amount,Denver County
+Android,US,Unknown,Verizon,female,2000,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,A moderate amount,A moderate amount,Larimer County
+Android,US,Unknown,T-Mobile,male,2002,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Not very worried,Only a little,Not at all,El Paso County
+Android,US,Unknown,T-Mobile,male,1977,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Grand Junction,T-Mobile,female,1995,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Mesa County
+Web,US,Grand Junction,Unknown,female,1958,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Mesa County
+Web,US,Montrose,Unknown,male,1978,Every day,"Registered to vote, registered as Republican ",No,Very important,Very worried,A great deal,A great deal,El Paso County
+Web,US,Durango,Unknown,male,1973,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,La Plata County
+iOS,US,Denver,Unknown,female,1994,Every day,Not registered to vote,No,Very important,Somewhat worried,A great deal,A great deal,Denver County
+iOS,US,Denver,Unknown,female,1963,Every day,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Not at all,Not at all,Other
+Android,US,Boulder,Unknown,male,1982,Every day,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Eagle County
+Web,US,Arvada,Unknown,male,1982,Once a week,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Web,US,Aurora,Unknown,male,1999,Once a week,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Web,US,Denver,Unknown,male,1998,Once a week,I don’t know,Not sure,Somewhat important,Very worried,Don’t know,Only a little,Denver County
+iOS,US,Denver,T-Mobile,female,1990,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Jefferson County
+Web,US,Calhan,Unknown,male,1980,Every day,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Denver,Verizon,female,1987,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Not too important,Not very worried,Only a little,A moderate amount,Grand
+Android,US,Denver,Verizon,male,1997,I never use Facebook or Instagram,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Somewhat important,Not very worried,Not at all,Not at all,Denver County
+iOS,US,Parker,Verizon,female,1976,Every day,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Very worried,A great deal,A moderate amount,Douglas County
+iOS,US,Westminster,Verizon,female,1980,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Not at all important,Not at all worried,Not at all,Only a little,Adams County
+iOS,US,Castle Rock,AT&T,male,1952,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not at all worried,Not at all,Not at all,Douglas County
+iOS,US,Arvada,T-Mobile,female,1954,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Mesa County
+Web,US,Denver,Unknown,male,1988,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Denver,Unknown,male,1992,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Montezuma County
+Android,US,Denver,T-Mobile,male,1983,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Not too important,Not at all worried,Not at all,Not at all,Adams County
+Android,US,Aurora,Sprint,male,1977,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Not very worried,Only a little,Only a little,Denver County
+Web,US,Denver,Unknown,male,1975,Every day,"Registered to vote, registered as Republican ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Not very worried,A great deal,A great deal,Denver County
+Android,US,Denver,T-Mobile,male,1976,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Not at all worried,Only a little,A moderate amount,Arapahoe County
+Web,US,Denver,Unknown,male,1995,Once a week,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+iOS,US,Denver,Unknown,male,1971,Once a week,Not registered to vote,No,Not too important,Not very worried,Not at all,Not at all,Adams County
+Android,US,Denver,Boost Mobile,male,1970,Once a week,Not registered to vote,Not sure,Extremely important,Very worried,Don’t know,A great deal,Other
+Android,US,Denver,AT&T,male,1965,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+Web,US,Broomfield,Unknown,male,1982,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Very important,Not at all worried,Only a little,A great deal,Arapahoe County
+Android,US,Denver,Unknown,female,1980,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Johnstown,Unknown,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A great deal,A great deal,Larimer County
+iOS,US,Denver,Unknown,male,1980,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A moderate amount,A great deal,Denver CO
+Android,US,Aurora,T-Mobile,female,1984,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Don’t know,Don’t know,Jefferson County
+Web,US,Denver,Unknown,female,1948,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Jefferson County
+Web,US,Loveland,Unknown,female,1954,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Only a little,A moderate amount,Boulder County
+iOS,US,Littleton,Verizon,female,1982,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Grand
+iOS,US,Denver,T-Mobile,female,1993,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+Android,US,Denver,Verizon,male,1974,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,La Plata County
+Web,US,Denver,Unknown,male,1967,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,Don’t know,A great deal,Jefferson County
+Android,US,Denver,T-Mobile,female,1983,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+Web,US,Castle Rock,Unknown,female,1990,I never use Facebook or Instagram,Not registered to vote,No,Not at all important,Very worried,A great deal,A great deal,Montezuma County
+Android,US,Denver,T-Mobile,female,1986,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Other
+Android,US,Granby,Verizon,male,1956,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Denver County
+Android,US,Aurora,T-Mobile,female,1980,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A moderate amount,A great deal,Arapahoe County
+Web,US,Boulder,Unknown,female,1944,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Boulder County
+Android,US,Boulder,Unknown,female,1944,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Boulder County
+Android,US,Fort Collins,T-Mobile,female,1986,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Larimer County
+iOS,US,Littleton,Unknown,female,1965,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Jefferson County
+Android,US,Denver,AT&T,female,1971,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Only a little,A moderate amount,Adams County
+iOS,US,Denver,Unknown,female,1991,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Jefferson County
+iOS,US,Denver,Verizon,male,1987,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+iOS,US,Denver,Unknown,male,1984,Every day,"Registered to vote, registered as Republican ",No,Very important,Very worried,A moderate amount,Don’t know,Denver County
+iOS,US,Denver,Verizon,female,1954,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A moderate amount,A great deal,Boulder County
+iOS,US,Denver,Verizon,female,1988,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,Only a little,A great deal,Denver County
+Web,US,Aurora,Unknown,male,1994,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,El Paso County
+Web,US,Hugo,Unknown,male,1995,Once a month,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Littleton,Unknown,male,1980,Once a month,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Somewhat worried,A great deal,A great deal,Adams County
+Web,US,Wellington,Unknown,male,1998,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Denver,T-Mobile,male,1990,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Denver,Unknown,female,2000,I never use Facebook or Instagram,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Denver County
+Web,US,Littleton,Unknown,male,1981,Once a month,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Only a little,A great deal,Arapahoe County
+Android,US,Denver,Verizon,male,1991,Every day,Not registered to vote,No,Extremely important,Somewhat worried,A great deal,A great deal,Arapahoe County
+Android,US,Denver,Verizon,male,1965,Every day,Not registered to vote,No,Extremely important,Very worried,Don’t know,A great deal,Denver County
+iOS,US,Aurora,Unknown,female,1973,Every day,"Registered to vote, registered as Republican ",No,Very important,Very worried,Only a little,A great deal,Arapahoe County
+Android,US,Denver,AT&T,female,1974,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+Android,US,Denver,Verizon,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Douglas County
+Android,US,Denver,AT&T,female,1983,Every day,I don’t know,No,Somewhat important,Somewhat worried,A moderate amount,Don’t know,None
+Android,US,Westminster,AT&T,female,1986,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+Android,US,Denver,AT&T,male,1976,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,El Paso County
+Android,US,Aurora,Unknown,male,1945,I never use Facebook or Instagram,I don’t know,Not sure,Not at all important,Not at all worried,Don’t know,Don’t know,Denver County
+Android,US,Arvada,T-Mobile,female,1994,I never use Facebook or Instagram,Not registered to vote,No,Not at all important,Not at all worried,Only a little,Don’t know,Adams County
+Android,US,Denver,T-Mobile,male,1991,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,Only a little,Adams County
+Android,US,Fort Morgan,Unknown,female,1966,Once a week,Not registered to vote,No,Not too important,Not very worried,Not at all,Not at all,None
+iOS,US,Windsor,Unknown,female,1952,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,Only a little,Only a little,Other
+Android,US,Denver,Unknown,female,1984,Once a week,"Registered to vote, registered as Democratic",No,Somewhat important,Very worried,A moderate amount,A moderate amount,Arapahoe County
+Web,US,Denver,Unknown,male,1981,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Web,US,Aurora,Unknown,male,1985,Every day,"Registered to vote, registered as Democratic",Not sure,Very important,Somewhat worried,A moderate amount,A moderate amount,Larimer County
+Web,US,Westminster,Unknown,male,1982,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,El Paso County
+iOS,US,Denver,Unknown,female,1970,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not at all worried,Not at all,Only a little,Jefferson County
+Android,US,Golden,Unknown,male,1978,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,santa clara
+Android,US,Denver,AT&T,female,1966,Every day,I don’t know,No,Very important,Somewhat worried,A moderate amount,A moderate amount,Arapahoe County
+Android,US,Aurora,T-Mobile,male,1997,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",Not sure,Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Littleton,Unknown,female,1977,Less than once a month,Not registered to vote,No,Not too important,Not at all worried,Only a little,Not at all,Denver County
+Android,US,Arvada,AT&T,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A great deal,Jefferson County
+Android,US,Denver,Verizon,female,1994,Once a week,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A great deal,A great deal,Weld County
+iOS,US,Arvada,Sprint,male,1989,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,A moderate amount,Don’t know,Denver County
+Android,US,Denver,AT&T,male,1971,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,A great deal,Jefferson County
+Android,US,Denver,AT&T,male,1998,Every day,Not registered to vote,No,Somewhat important,Not very worried,A moderate amount,A great deal,Denver County
+Android,US,Arvada,Sprint,male,1979,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,Don’t know,Jefferson County
+Android,US,Denver,Verizon,female,1991,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+Android,US,Denver,AT&T,female,1967,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+iOS,US,Denver,Unknown,female,1980,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Don’t know,Don’t know,Larimer County
+Android,US,Denver,Unknown,male,1973,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Don’t know,A great deal,Denver County
+Web,US,Parker,Unknown,female,1950,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,Only a little,A great deal,Douglas County
+Android,US,Denver,Unknown,female,1967,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+iOS,US,Boulder,Unknown,male,1964,Less than once a month,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Boulder County
+Android,US,Aurora,Unknown,female,1966,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Eagle,Unknown,female,1995,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,Eagle County
+iOS,US,Fort Collins,Sprint,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Not too important,Not very worried,Don’t know,Don’t know,Larimer County
+iOS,US,Denver,Unknown,female,1970,Every day,Not registered to vote,No,Very important,Somewhat worried,Only a little,A moderate amount,I don’t live in Colorado
+Android,US,Boulder,Unknown,male,1978,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,Eagle County
+Android,US,Loveland,Unknown,female,1952,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not very worried,Only a little,A moderate amount,Larimer County
+Android,US,Denver,Unknown,male,1978,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,I don't live in Colorado.
+Android,US,Thornton,Verizon,female,1982,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Adams County
+iOS,US,Denver,Verizon,female,1975,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,Only a little,A great deal,Mesa County
+Android,US,Aurora,T-Mobile,female,1973,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+Web,US,Denver,Unknown,male,1979,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Web,US,Denver,Unknown,female,1972,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Aurora,Sprint,male,1989,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,T-Mobile,female,1984,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+Android,US,Littleton,Unknown,female,1993,Every day,I don’t know,No,Somewhat important,Not very worried,Don’t know,Don’t know,Jefferson County
+iOS,US,Parker,T-Mobile,male,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,Douglas County
+Android,US,Fort Collins,Verizon,female,1983,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Larimer County
+iOS,US,Denver,AT&T,female,1976,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+iOS,US,Denver,Unknown,female,1986,Every day,"Registered to vote, registered as Republican ",No,Very important,Very worried,A great deal,A great deal,Douglas County
+Android,US,Arvada,Unknown,male,1991,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Pueblo County
+Android,US,Loveland,Verizon,female,1987,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,A moderate amount,A great deal,Larimer County
+Android,US,Greeley,T-Mobile,female,1981,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Don’t know,A great deal,Weld County
+iOS,US,Denver,T-Mobile,female,1988,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Longmont,Unknown,male,1988,Once a week,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,Boulder County
+iOS,US,Denver,Verizon,female,1983,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Douglas County
+iOS,US,Arvada,Unknown,female,1972,Every day,I don’t know,"Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Montrose County
+iOS,US,Denver,AT&T,female,1998,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+iOS,US,Vail,Unknown,male,1990,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Englewood,Unknown,male,1996,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Not too important,Somewhat worried,A moderate amount,Not at all,Denver County
+Web,US,Milliken,Unknown,female,1981,Once a month,"Registered to vote, registered as Republican ",No,Very important,Very worried,A moderate amount,A great deal,Weld County
+Web,US,Denver,Unknown,female,1994,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+Android,US,Arvada,Unknown,male,1988,I never use Facebook or Instagram,I don’t know,Not sure,Extremely important,Very worried,A great deal,A great deal,None
+iOS,US,Aurora,Unknown,female,2000,Once a month,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,Only a little,A great deal,Douglas County
+Android,US,Denver,Verizon,male,2000,Every day,I don’t know,No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Pueblo County
+Android,US,Denver,T-Mobile,female,1965,Every day,"Registered to vote, registered as Republican ",Not sure,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,None
+Android,US,Denver,Verizon,female,1961,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Somewhat worried,A moderate amount,A great deal,Larimer County
+Android,US,Denver,AT&T,male,1984,Once a week,I don’t know,"Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A moderate amount,Denver County
+Android,US,Westminster,AT&T,female,2000,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Somewhat worried,A great deal,A great deal,Denver County
+Android,US,Brighton,AT&T,female,1995,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Adams County
+Android,US,Denver,T-Mobile,female,1980,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Not very worried,A moderate amount,A moderate amount,Denver County
+Android,US,Denver,AT&T,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Jefferson County
+Android,US,Denver,Unknown,male,1986,Every day,I don’t know,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,I'm not in colorado
+Web,US,Broomfield,Unknown,female,1984,Once a week,Not registered to vote,Not sure,Very important,Very worried,A moderate amount,A great deal,Boulder County
+Android,US,Pagosa Springs,Unknown,male,1980,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A great deal,A great deal,Pueblo County
+Web,US,Arvada,Unknown,female,1984,Once a month,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,Don’t know,A great deal,Jefferson County
+iOS,US,Denver,Unknown,female,1990,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+iOS,US,Denver,T-Mobile,female,1988,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Adams County
+Web,US,Littleton,Unknown,male,1976,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+Android,US,Denver,T-Mobile,male,1980,I never use Facebook or Instagram,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Not too important,Not very worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,Unknown,female,1990,Every day,Not registered to vote,No,Very important,Somewhat worried,Only a little,A great deal,Denver County
+Android,US,Longmont,Unknown,female,1960,Less than once a month,Not registered to vote,Not sure,Very important,Somewhat worried,A moderate amount,A moderate amount,Weld County
+Android,US,Denver,Unknown,female,1985,Every day,Not registered to vote,No,Very important,Somewhat worried,Don’t know,Don’t know,Montrose County
+Web,US,Salida,Unknown,male,1973,Less than once a month,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A great deal,Chaffee
+Android,US,Boulder,Unknown,male,1969,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Denver County
+Android,US,Castle Rock,Verizon,male,1989,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Only a little,Only a little,Douglas County
+iOS,US,Denver,Unknown,female,2001,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",Not sure,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Garfield County
+Android,US,Westminster,AT&T,female,1996,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Adams County
+iOS,US,Denver,Unknown,male,1984,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,Only a little,A great deal,Jefferson County
+Android,US,Littleton,Verizon,male,1963,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Not at all important,Very worried,Only a little,Don’t know,Denver County
+Android,US,Denver,T-Mobile,male,1995,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A great deal,Weld County
+Android,US,Denver,AT&T,female,1980,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not very worried,A moderate amount,A great deal,Jefferson County
+Web,US,Denver,Unknown,male,1990,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+iOS,US,Denver,Unknown,female,2000,Every day,Not registered to vote,No,Somewhat important,Not very worried,A great deal,A moderate amount,Jefferson County
+Web,US,Fort Collins,Unknown,male,1979,Once a week,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Only a little,A moderate amount,Adams County
+iOS,US,Commerce City,Unknown,female,1965,Every day,"Registered to vote, registered as Democratic",Not sure,Very important,Somewhat worried,A moderate amount,A moderate amount,Adams
+iOS,US,Denver,Verizon,male,1985,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,Denver County
+Android,US,Parker,Unknown,female,1984,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Denver,Unknown,female,1993,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+iOS,US,Denver,Unknown,female,2002,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A moderate amount,Denver County
+Android,US,Arvada,Boost Mobile,male,1988,Less than once a month,Not registered to vote,No,Not at all important,Not at all worried,A moderate amount,A moderate amount,marathon county
+Android,US,Denver,Unknown,female,1993,Less than once a month,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Aurora,Verizon,female,1986,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,Don’t know,A moderate amount,Arapahoe County
+Android,US,Denver,Unknown,female,1970,Once a month,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+iOS,US,Denver,Sprint,male,1959,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,Only a little,Denver County
+iOS,US,Denver,Verizon,male,1968,Every day,"Registered to vote, registered as Democratic",No,Not too important,Not very worried,Not at all,Only a little,Adams County
+iOS,US,Denver,T-Mobile,female,1961,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,Only a little,A great deal,Adams County
+Android,US,Arvada,Unknown,male,1969,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Not very worried,Not at all,A moderate amount,None
+Android,US,Arvada,T-Mobile,female,1985,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A great deal,A great deal,Denver County
+Android,US,Brighton,Unknown,female,1990,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Somewhat worried,Not at all,Not at all,Adams County
+Android,US,Littleton,T-Mobile,male,1986,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Douglas County
+iOS,US,Denver,Unknown,male,1999,Once a week,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Very worried,A moderate amount,A moderate amount,Douglas County
+Android,US,Westminster,AT&T,male,1983,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Adams County
+Android,US,Denver,AT&T,male,1970,Every day,"Registered to vote, registered as Democratic",No,Very important,Not very worried,A great deal,A great deal,Denver County
+Android,US,Denver,Unknown,male,1998,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,Only a little,A moderate amount,Arapahoe County
+Web,US,Colorado Springs,Unknown,female,1946,Less than once a month,"Registered to vote, registered as Republican ",No,Not too important,Not at all worried,Not at all,Only a little,El Paso County
+Web,US,Colorado Springs,Unknown,male,1971,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Delta County
+iOS,US,Colorado Springs,Unknown,male,1998,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,Not at all,A great deal,El Paso County
+Web,US,Colorado Springs,Unknown,male,1985,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,El Paso County
+Web,US,Colorado Springs,Unknown,male,1995,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,Only a little,Denver County
+Android,US,Colorado Springs,Unknown,female,1952,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,El Paso County
+iOS,US,Colorado Springs,T-Mobile,female,1994,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,El Paso County
+Web,US,Colorado Springs,Unknown,female,1985,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+iOS,US,Fountain,Unknown,female,1955,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Huerfano
+iOS,US,Colorado Springs,Unknown,female,1992,Every day,"Registered to vote, registered as Republican ",No,Not at all important,Not at all worried,Don’t know,Don’t know,El Paso County
+Web,US,Walsenburg,Unknown,female,1982,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Huerfano
+Android,US,Pueblo,Unknown,female,1982,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Only a little,A great deal,Pueblo County
+Web,US,Pueblo,Unknown,male,1981,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A great deal,A great deal,Pueblo County
+Android,US,Colorado Springs,AT&T,female,1972,Less than once a month,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A great deal,A great deal,Fremont County
+Android,US,Colorado Springs,Unknown,female,1949,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Colorado Springs,AT&T,female,1988,Every day,Not registered to vote,No,Extremely important,Very worried,A moderate amount,A great deal,El Paso County
+Android,US,Colorado Springs,Unknown,male,1971,Once a month,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A great deal,A great deal,Fremont County
+Android,US,Colorado Springs,T-Mobile,male,1976,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+iOS,US,Monument,Unknown,female,1992,Every day,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Colorado Springs,AT&T,male,1955,Less than once a month,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A moderate amount,A great deal,El Paso County
+Android,US,Cañon City,AT&T,female,1992,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Fremont County
+Android,US,Colorado Springs,Unknown,female,1984,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+iOS,US,Colorado Springs,Unknown,female,1993,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,Only a little,A great deal,Pueblo County
+Web,US,Colorado Springs,Unknown,male,1971,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+iOS,US,Colorado Springs,AT&T,female,1991,Every day,Not registered to vote,No,Somewhat important,Not very worried,Only a little,Only a little,Clintin
+Android,US,Colorado Springs,T-Mobile,female,1985,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+Android,US,Walsenburg,Unknown,female,1953,Every day,"Registered to vote, registered as Republican ",No,Extremely important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+Web,US,Colorado Springs,Unknown,female,1936,Every day,"Registered to vote, registered as Republican ",No,Very important,Not very worried,A moderate amount,A great deal,El Paso County
+iOS,US,Colorado Springs,Unknown,female,1997,Every day,Not registered to vote,Not sure,Very important,Very worried,A moderate amount,A great deal,El Paso County
+iOS,US,Colorado Springs,Unknown,female,2001,Every day,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+iOS,US,Colorado Springs,AT&T,female,1955,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+iOS,US,Colorado Springs,T-Mobile,male,2002,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+iOS,US,Colorado Springs,Verizon,female,1985,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,El Paso County
+Web,US,La Junta,Unknown,female,1967,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,otero
+Android,US,Colorado Springs,AT&T,female,1980,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Colorado Springs,Unknown,male,1971,Less than once a month,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,El Paso County
+Android,US,Colorado Springs,Verizon,female,1984,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,El Paso County
+Android,US,Colorado Springs,Unknown,male,1974,Once a week,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,El Paso County
+Android,US,Pueblo,AT&T,female,1985,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,A moderate amount,Pueblo County
+Web,US,Monument,Unknown,female,1995,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+iOS,US,Colorado Springs,Unknown,female,1951,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+iOS,US,Colorado Springs,Unknown,female,1991,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,Only a little,A moderate amount,El Paso County
+Android,US,Colorado Springs,Unknown,male,1958,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not at all important,Not at all worried,Not at all,Not at all,El Paso County
+Web,US,Colorado Springs,Unknown,female,1956,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A moderate amount,El Paso County
+Web,US,Colorado Springs,Unknown,male,1952,Every day,Not registered to vote,Not sure,Not too important,Not very worried,Only a little,A moderate amount,none
+Android,US,La Junta,Verizon,female,1989,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Somewhat worried,Only a little,A great deal,Otero County
+Web,US,Colorado Springs,Unknown,male,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,Don’t know,Montrose County
+iOS,US,Colorado Springs,Unknown,male,1979,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Somewhat important,Not very worried,Only a little,Only a little,El Paso County
+Web,US,Colorado Springs,Unknown,female,1963,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,El Paso County
+Android,US,Colorado Springs,Unknown,male,1986,Once a week,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,Only a little,A great deal,El Paso County
+iOS,US,Pueblo,Verizon,male,1965,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Only a little,A great deal,Pueblo County
+iOS,US,Colorado Springs,T-Mobile,female,1975,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not very worried,Only a little,A great deal,El Paso County
+Android,US,Trinidad,Unknown,female,1979,I never use Facebook or Instagram,I don’t know,Not sure,Somewhat important,Somewhat worried,Don’t know,Don’t know,Trinidad
+Android,US,Colorado Springs,AT&T,female,1981,Every day,"Registered to vote, registered as Democratic",No,Not too important,Not very worried,Not at all,Only a little,El Paso County
+Android,US,Unknown,Verizon,male,1980,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Not at all important,Not at all worried,Not at all,Not at all,I live in Utah
+Android,US,Unknown,Verizon,male,1991,Every day,Not registered to vote,"Yes, I am employed in the oil and gas industry",Extremely important,Somewhat worried,A moderate amount,A great deal,Adams County
+iOS,US,Parker,AT&T,male,1981,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Not at all important,Not at all worried,Not at all,Not at all,Douglas County
+Android,US,Golden,Unknown,male,1977,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Extremely important,Not very worried,Not at all,A great deal,Jefferson County
+iOS,US,Colorado Springs,Unknown,female,1993,Once a month,"Registered to vote, registered as Republican ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+iOS,US,Fort Morgan,T-Mobile,female,1991,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Morgan County
+Android,US,Fort Morgan,Viaero,male,1989,Every day,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Not at all,Weld County
+Android,US,Denver,T-Mobile,female,1989,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not at all worried,Only a little,Only a little,NA
+iOS,US,Denver,Verizon,male,1987,Once a week,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Not at all,Denver County
+Web,US,Denver,Unknown,male,1975,Every day,"Registered to vote, registered as Republican ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Not very worried,A great deal,A moderate amount,Denver County
+iOS,US,Denver,Unknown,male,2000,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Very important,Not very worried,A great deal,Only a little,Denver County
+Web,US,Grand Junction,Unknown,female,1947,Less than once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not at all important,Not at all worried,Not at all,Not at all,Mesa County
+Android,US,Steamboat Springs,Unknown,male,1984,Once a month,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Denver,T-Mobile,female,1958,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Denver County
+Web,US,Longmont,Unknown,male,1983,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Web,US,Longmont,Unknown,female,1994,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,Only a little,A moderate amount,Denver County
+Android,US,Aurora,AT&T,male,1975,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,Don’t know,A great deal,Arapahoe County
+Web,US,Fort Collins,Unknown,female,1994,Once a week,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Not at all,Only a little,Weld County
+Web,US,Fort Collins,Unknown,female,1976,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not at all worried,Not at all,Not at all,Larimer County
+Android,US,Aurora,Unknown,female,1982,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Only a little,A great deal,Arapahoe County
+Android,US,Commerce City,AT&T,female,1984,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Adams County
+Web,US,Loveland,Unknown,female,1952,I never use Facebook or Instagram,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A moderate amount,A great deal,Larimer County
+Web,US,Calhan,Unknown,male,1980,Every day,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Adams County
+Web,US,Avon,Unknown,male,1980,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,Only a little,A great deal,Denver County
+Android,US,Brighton,Sprint,female,1997,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Not at all important,Not at all worried,Not at all,Not at all,Adams County
+Web,US,Del Norte,Unknown,female,1968,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Rio Grande
+Web,US,Englewood,Unknown,female,1980,Every day,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A moderate amount,A moderate amount,Jefferson County
+Web,US,Gill,Unknown,male,1972,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not at all important,Not at all worried,Not at all,Not at all,Jefferson County
+Web,US,Littleton,Unknown,female,1984,Once a month,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,Only a little,Arapahoe County
+Web,US,Montrose,Unknown,male,1980,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,El Paso County
+Web,US,Lone Tree,Unknown,male,1975,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Montrose County
+Android,US,Unknown,Unknown,female,1948,Every day,Not registered to vote,No,Extremely important,Very worried,A moderate amount,A great deal,Garfield County
+Android,US,Unknown,Unknown,female,1987,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,El Paso County
+iOS,US,Unknown,Unknown,male,1995,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,Don’t know,A great deal,N/A
+Android,US,Unknown,T-Mobile,male,1983,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Oklahoma. Not sure why I got this survey but it hits home hard.
+iOS,US,Parker,Unknown,female,1999,Every day,Not registered to vote,No,Very important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Colorado Springs,Unknown,male,1972,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Very worried,A moderate amount,A moderate amount,El Paso County
+Android,US,Colorado Springs,T-Mobile,female,1981,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A great deal,A great deal,El Paso County
+iOS,US,Colorado Springs,T-Mobile,female,1965,Every day,Not registered to vote,Not sure,Extremely important,Not at all worried,A moderate amount,Only a little,El Paso County
+Web,US,Colorado Springs,Unknown,female,1952,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,Don’t know,A great deal,El Paso County
+Android,US,Colorado Springs,AT&T,male,1980,Every day,Not registered to vote,No,Very important,Somewhat worried,Only a little,A great deal,El Paso County
+Web,US,Frisco,Unknown,female,1966,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A great deal,Summit County
+Web,US,Granby,Unknown,female,1992,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,Verizon,female,1987,Less than once a month,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Denver,Unknown,female,1975,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Boulder County
+Android,US,Denver,T-Mobile,female,1988,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Denver,Unknown,female,2001,Less than once a month,Not registered to vote,No,Extremely important,Very worried,A moderate amount,A great deal,Jefferson County
+iOS,US,Denver,Verizon,female,1981,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Jefferson County
+iOS,US,Gunnison,Verizon,female,1981,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,A moderate amount,A great deal,Gunnison
+iOS,US,Denver,Unknown,female,1985,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Summit County
+Android,US,Denver,Unknown,female,1970,Every day,Not registered to vote,No,Very important,Very worried,A moderate amount,A great deal,"I don't live in Colorado, I live in Wyoming"
+Android,US,Denver,Unknown,male,1970,Once a week,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A great deal,A great deal,Douglas County
+Android,US,Denver,Unknown,female,1968,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,None
+iOS,US,Denver,Unknown,male,1968,Every day,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,None
+Android,US,Denver,Unknown,female,1960,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Don’t know,A moderate amount,Denver County
+iOS,US,Denver,Unknown,male,1984,Once a week,Not registered to vote,"Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Montezuma County
+iOS,US,Denver,Unknown,female,2000,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Arapahoe County
+Android,US,Denver,Unknown,female,1971,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,Pueblo County
+Android,US,Denver,Unknown,male,1977,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,None
+Android,US,Denver,Unknown,female,2000,Once a week,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Other
+Android,US,Denver,Unknown,female,2000,Every day,Not registered to vote,No,Extremely important,Somewhat worried,A great deal,A great deal,Denver County
+Android,US,Denver,AT&T,female,1996,Once a month,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,AT&T,female,1985,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Don’t know,A great deal,Denver County
+Android,US,Denver,Unknown,female,1968,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Adams County
+Android,US,Denver,Sprint,male,1981,Less than once a month,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Denver County
+iOS,US,Denver,Verizon,female,1988,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Denver,Unknown,male,1954,Once a week,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Missouri
+iOS,US,Denver,Sprint,female,1988,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Adams County
+Android,US,Denver,T-Mobile,male,1990,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Somewhat worried,A great deal,A great deal,El Paso County
+Web,US,Denver,Unknown,male,1969,Every day,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,Other
+Web,US,Denver,Unknown,male,1972,Every day,"Registered to vote, registered as Democratic",No,Not at all important,Not at all worried,Not at all,Not at all,Denver County
+iOS,US,Denver,Sprint,male,2000,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+iOS,US,Denver,Unknown,female,1963,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Denver,T-Mobile,male,1971,I never use Facebook or Instagram,Not registered to vote,No,Very important,Somewhat worried,Only a little,A great deal,Jefferson County
+Android,US,Denver,Verizon,male,2002,Every day,I don’t know,No,Extremely important,Very worried,A moderate amount,A great deal,Other
+Android,US,Denver,AT&T,female,1974,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+Web,US,Denver,Unknown,male,1974,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,Jefferson County
+Unknown,US,Denver,Unknown,male,2000,I never use Facebook or Instagram,I don’t know,Not sure,Extremely important,Very worried,A moderate amount,A moderate amount,Denver County
+Unknown,US,Denver,Unknown,female,1986,Once a week,"Registered to vote, registered as Democratic",Not sure,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+Android,US,Denver,T-Mobile,female,1967,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,Don’t know,A moderate amount,Adams County
+iOS,US,Denver,Unknown,male,1980,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Denver County
+Android,US,Denver,Sprint,male,1983,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Adams County
+iOS,US,Denver,Unknown,female,1946,I never use Facebook or Instagram,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Pueblo,AT&T,male,1990,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,Only a little,A great deal,Pueblo County
+iOS,US,Pueblo,Unknown,male,1998,Every day,I don’t know,"Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Pueblo,AT&T,male,1985,Once a month,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+iOS,US,Pueblo,Unknown,male,1992,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+Android,US,Denver,Unknown,male,1977,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Adams County
+iOS,US,Denver,T-Mobile,male,2000,Once a week,Not registered to vote,No,Very important,Somewhat worried,A great deal,A great deal,Denver County
+Android,US,Denver,Verizon,male,1992,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",Not sure,Very important,Very worried,A great deal,A great deal,Larimer County
+Web,US,Denver,Unknown,male,1965,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Boulder County
+Android,US,Sterling,Unknown,female,1952,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Not at all,A great deal,Jefferson County
+Web,US,Thornton,Unknown,male,1978,Once a week,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Don’t know,A great deal,Adams County
+Web,US,Longmont,Unknown,male,1990,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Boulder County
+iOS,US,Denver,Verizon,male,1987,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Not at all,Only a little,Denver County
+iOS,US,Denver,T-Mobile,female,1982,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,Missouri
+Android,US,Denver,T-Mobile,male,1990,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Arapahoe County
+Android,US,Longmont,Unknown,male,1980,Every day,"Registered to vote, registered as Democratic","Yes, I am employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Douglas County
+Android,US,Colorado City,AT&T,male,1983,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Somewhat worried,A great deal,A great deal,Pueblo County
+Android,US,Arvada,T-Mobile,male,1984,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Not very worried,A great deal,A great deal,Jefferson County
+Android,US,Arvada,T-Mobile,female,1960,Every day,Not registered to vote,No,Extremely important,Somewhat worried,A great deal,A great deal,Don't  live in  Colorado
+Android,US,Arvada,T-Mobile,female,1959,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Delta County
+iOS,US,Arvada,T-Mobile,male,1960,I never use Facebook or Instagram,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Boulder County
+Web,US,Arvada,Unknown,female,1965,Once a week,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A great deal,Arapahoe County
+Unknown,US,Erie,Unknown,male,2000,Every day,"Registered to vote, registered as Democratic",No,Very important,Very worried,A great deal,A great deal,Broomfield County
+Android,US,Arvada,Unknown,male,1980,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,El Paso County
+iOS,US,Aurora,T-Mobile,female,2001,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Fort Collins,AT&T,female,1990,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Larimer County
+Web,US,Aurora,Unknown,male,1978,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Pueblo County
+Android,US,Fort Collins,T-Mobile,female,1996,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Larimer County
+Android,US,Fort Collins,T-Mobile,male,1993,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Larimer County
+Web,US,Fort Collins,Unknown,female,1955,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Larimer County
+Android,US,Fort Collins,Unknown,male,1996,Once a month,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+iOS,US,Aurora,Unknown,female,1976,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Commerce City,Unknown,female,1993,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Adams County
+Web,US,Westminster,Unknown,male,1999,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Only a little,A great deal,Adams County
+Android,US,Boulder,Unknown,male,1970,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Fountain,Unknown,female,1967,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+iOS,US,Brighton,Unknown,male,1977,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,Don’t know,Adams County
+iOS,US,Edwards,Verizon,female,1981,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Eagle County
+Web,US,Castle Rock,Unknown,male,1998,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Very important,Very worried,A great deal,A great deal,Arapahoe County
+iOS,US,Englewood,Unknown,female,1959,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A great deal,A great deal,Arapahoe County
+Android,US,Rifle,T-Mobile,female,1967,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Only a little,Not at all,Garfield
+Android,US,Littleton,Verizon,female,1965,Every day,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A great deal,A great deal,Arapahoe County
+iOS,US,Littleton,Unknown,male,1946,I never use Facebook or Instagram,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Not very worried,Not at all,A moderate amount,Arapahoe County
+Android,US,Littleton,Unknown,male,1979,Once a week,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Not in Colorado
+Android,US,Greeley,Unknown,female,1994,Every day,I don’t know,No,Somewhat important,Somewhat worried,A great deal,A great deal,Weld County
+Android,US,Greeley,Verizon,male,1986,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Weld County
+Android,US,Montrose,Verizon,female,1960,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,A great deal,A great deal,Montrose County
+Web,US,Littleton,Unknown,female,1933,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Douglas County
+Android,US,Unknown,Sprint,male,1973,Every day,Not registered to vote,No,Not too important,Not at all worried,Not at all,Not at all,Denver County
+Android,US,Unknown,Unknown,male,1976,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,Only a little,A great deal,El Paso County
+iOS,US,Denver,Unknown,female,1976,Every day,"Registered to vote, registered as Democratic",Not sure,Extremely important,Very worried,A moderate amount,A moderate amount,Denver County
+Android,US,Denver,Unknown,male,1988,Every day,Not registered to vote,No,Extremely important,Very worried,A great deal,A great deal,None
+iOS,US,Denver,Unknown,female,1988,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Weld County
+Android,US,Akron,Viaero,female,1979,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,Only a little,A great deal,Larimer County
+Android,US,Denver,T-Mobile,male,1962,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,Only a little,Adams County
+iOS,US,Grand Junction,Unknown,male,1986,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Mesa County
+Web,US,Denver,Unknown,male,1980,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Douglas County
+iOS,US,Aurora,Verizon,female,1991,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+Android,US,Aurora,Verizon,female,1965,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Not at all,Don’t know,None
+iOS,US,Commerce City,Unknown,male,1997,Every day,"Registered to vote, registered as Republican ","Yes, I am employed in the oil and gas industry",Not too important,Not very worried,A great deal,Not at all,Denver County
+Android,US,Trinidad,AT&T,female,1973,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Las Animas
+Android,US,Castle Rock,Verizon,male,1966,Every day,"Registered to vote, registered as Republican ",No,Very important,Very worried,A moderate amount,A moderate amount,Other
+iOS,US,Montrose,AT&T,female,1980,Once a month,"Registered to vote, registered as Democratic",No,Not at all important,Somewhat worried,Only a little,Only a little,Montrose County
+Android,US,Unknown,AT&T,female,1979,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A great deal,I don't live in Colorado
+Android,US,Unknown,Verizon,female,1994,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, I am employed in the oil and gas industry",Very important,Somewhat worried,Only a little,A moderate amount,Denver County
+Android,US,Unknown,Verizon,female,1993,Once a month,Not registered to vote,"Yes, both myself and close friends or family members are employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A great deal,Dont live in Colorado
+iOS,US,Unknown,Unknown,female,1962,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,not in Colorado
+Android,US,Unknown,Verizon,male,1977,Once a week,"Registered to vote, registered as Republican ",No,Extremely important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Unknown,T-Mobile,female,1970,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Weld County
+Web,US,Littleton,Unknown,female,1965,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Not very worried,Only a little,A great deal,Montezuma County
+Android,US,Littleton,Unknown,female,1991,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Parker,Unknown,male,1999,Once a week,I don’t know,Not sure,Somewhat important,Somewhat worried,Only a little,A great deal,Weld County
+iOS,US,Colorado Springs,Unknown,female,1987,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,A moderate amount,A moderate amount,El Paso County
+Android,US,Colorado Springs,Unknown,male,2000,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Not very worried,Only a little,A moderate amount,El Paso County
+iOS,US,Colorado Springs,Unknown,female,1958,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,El Paso County
+Android,US,Colorado Springs,Verizon,female,1968,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+Web,US,Colorado Springs,Unknown,female,1995,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,El Paso County
+Android,US,Colorado Springs,Unknown,male,1981,Once a week,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A great deal,A great deal,Montezuma County
+Android,US,Denver,AT&T,male,1995,Less than once a month,"Registered to vote, registered as Democratic",No,Very important,Not very worried,Not at all,A great deal,Broomfield County
+Android,US,Denver,Verizon,male,1994,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A moderate amount,Douglas County
+iOS,US,Denver,Verizon,female,1988,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Boulder County
+Android,US,Denver,T-Mobile,male,2001,Less than once a month,Not registered to vote,Not sure,Extremely important,Very worried,A great deal,A great deal,Adams County
+iOS,US,Denver,Unknown,female,1976,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,I live in Utah
+Android,US,Denver,Unknown,female,1956,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Other
+iOS,US,Denver,Unknown,female,1976,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,Unknown,female,2001,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Somewhat worried,A moderate amount,A great deal,Morgan County
+Android,US,Denver,Unknown,female,1974,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Arapahoe County
+Web,US,Denver,Unknown,male,1993,Less than once a month,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,Unknown,male,1986,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Not at all,A moderate amount,Jefferson County
+iOS,US,Denver,Unknown,female,1997,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,Not at all,A moderate amount,Denver County
+Android,US,Denver,Unknown,female,1963,Every day,"Registered to vote, registered as Republican ",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Denver County
+Web,US,Denver,Unknown,male,1985,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,Only a little,La Plata County
+iOS,US,Denver,Verizon,female,1988,Every day,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+iOS,US,Denver,Verizon,female,1984,Every day,"Registered to vote, registered as Democratic",No,Extremely important,Very worried,Only a little,A great deal,Denver County
+Android,US,Denver,Unknown,female,1980,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Jefferson County
+iOS,US,Denver,T-Mobile,female,1988,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+iOS,US,Denver,Unknown,male,1978,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Denver,T-Mobile,female,1977,Every day,Not registered to vote,No,Very important,Very worried,A moderate amount,A great deal,Denver County
+Android,US,Denver,T-Mobile,female,1976,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Other
+iOS,US,Grand Junction,Unknown,male,2001,Once a month,"Registered to vote, registered as Republican ","Yes, both myself and close friends or family members are employed in the oil and gas industry",Very important,Very worried,Only a little,A great deal,Mesa County
+iOS,US,Denver,Unknown,female,1987,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Jefferson County
+iOS,US,Denver,Verizon,male,1989,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A great deal,A great deal,Jefferson County
+iOS,US,Denver,Unknown,male,1982,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,Only a little,A great deal,Jefferson County
+Android,US,Denver,Unknown,female,1965,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Adams County
+Web,US,Denver,Unknown,male,2000,Once a week,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Denver County
+Android,US,Sterling,Unknown,female,1998,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+Web,US,Wray,Unknown,male,1951,I never use Facebook or Instagram,"Registered to vote, registered as Democratic",No,Very important,Very worried,A moderate amount,A great deal,washington
+iOS,US,Denver,Unknown,female,1993,Every day,Not registered to vote,No,Extremely important,Somewhat worried,A moderate amount,A great deal,Douglas
+Android,US,Denver,T-Mobile,male,1961,Once a week,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A great deal,Douglas County
+iOS,US,Arvada,T-Mobile,female,1981,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,A moderate amount,A moderate amount,Montezuma County
+Android,US,Arvada,T-Mobile,male,1988,Once a week,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Not at all,Fremont County
+iOS,US,Arvada,Sprint,male,1968,Once a week,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A moderate amount,I live in Nebraska
+iOS,US,Arvada,Unknown,female,1995,Once a week,"Registered to vote, registered as Republican ",No,Very important,Not very worried,Only a little,A moderate amount,Boulder County
+Android,US,Arvada,T-Mobile,female,1954,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Boulder County
+Android,US,Arvada,T-Mobile,female,1996,Every day,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Fremont County
+iOS,US,Arvada,Unknown,female,1976,Once a week,"Registered to vote, registered as Democratic",No,Very important,Very worried,Only a little,A great deal,Jefferson County
+Android,US,Arvada,Unknown,female,1972,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,Only a little,A moderate amount,Jefferson County
+iOS,US,Aurora,Verizon,female,1983,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Aurora,Sprint,male,1963,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A moderate amount,A great deal,Arapahoe County
+Web,US,Aurora,Unknown,female,1999,Once a week,"Registered to vote, registered as Democratic","Yes, both myself and close friends or family members are employed in the oil and gas industry",Extremely important,Somewhat worried,A moderate amount,A great deal,Denver County
+iOS,US,Fort Collins,AT&T,female,1958,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A great deal,Larimer County
+Web,US,Aurora,Unknown,female,1966,Every day,Not registered to vote,No,Very important,Very worried,A moderate amount,A moderate amount,Arapahoe County
+Web,US,Aurora,Unknown,male,1962,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A moderate amount,A great deal,Arapahoe County
+Android,US,Aurora,T-Mobile,male,1982,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not at all important,Not at all worried,Not at all,Not at all,Arapahoe County
+Android,US,Windsor,T-Mobile,female,1975,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A great deal,A moderate amount,Weld County
+iOS,US,Eagle,AT&T,male,1968,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Eagle County
+Android,US,Englewood,Unknown,female,1971,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Arapahoe County
+iOS,US,Greeley,Verizon,female,1991,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,Only a little,A moderate amount,Weld County
+Android,US,Littleton,T-Mobile,female,1987,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,A moderate amount,A great deal,Jefferson County
+Web,US,Unknown,Unknown,male,1978,Less than once a month,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Not at all,i don't live in colorado
+Android,US,Unknown,Unknown,male,1984,I never use Facebook or Instagram,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Do not live in Colorado
+Web,US,Unknown,Unknown,male,1989,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Not at all,A great deal,El Paso County
+iOS,US,Unknown,T-Mobile,male,1980,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Not at all,Only a little,El Paso County
+Android,US,Unknown,Verizon,male,1981,Once a week,Not registered to vote,No,Not at all important,Very worried,Don’t know,Only a little,Delta County
+iOS,US,Colorado Springs,AT&T,female,1966,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A moderate amount,A great deal,El Paso County
+iOS,US,Colorado Springs,Unknown,female,1979,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,Only a little,A moderate amount,El Paso County
+Web,US,Colorado Springs,Unknown,female,1955,Once a week,"Registered to vote, registered as Republican ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,El Paso County
+iOS,US,Dillon,Unknown,female,1996,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Only a little,A moderate amount,Summit County
+Android,US,Fort Morgan,Verizon,female,1995,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,Only a little,A moderate amount,Morgan County
+Web,US,Denver,Unknown,female,1987,Once a week,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A great deal,Other
+Android,US,Denver,Unknown,female,1985,Every day,Not registered to vote,No,Not at all important,Not at all worried,Not at all,Not at all,Denver County
+Android,US,Denver,Unknown,female,1994,Every day,"Registered to vote, registered as Democratic",No,Very important,Somewhat worried,A moderate amount,A moderate amount,Jefferson County
+Android,US,Denver,Unknown,female,1990,I never use Facebook or Instagram,Not registered to vote,No,Somewhat important,Somewhat worried,Only a little,Don’t know,Knoxville tn
+Android,US,Denver,Verizon,female,1963,Less than once a month,Not registered to vote,No,Not too important,Not very worried,Don’t know,Don’t know,Adams County
+Android,US,Denver,T-Mobile,male,1987,Every day,Not registered to vote,"Yes, a close friend or family member is employed in the oil and gas industry",Very important,Somewhat worried,Only a little,A moderate amount,Eagle County
+Web,US,Denver,Unknown,female,1967,Every day,"Registered to vote, registered as Democratic",No,Somewhat important,Somewhat worried,A moderate amount,A great deal,Douglas County
+iOS,US,Denver,Unknown,male,1983,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Not very worried,A moderate amount,A moderate amount,Denver County
+Unknown,US,Denver,Unknown,male,1985,I never use Facebook or Instagram,I don’t know,Not sure,Not at all important,Somewhat worried,Don’t know,Don’t know,Other
+Web,US,Denver,Unknown,female,1959,Once a week,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not at all important,Not at all worried,Not at all,Don’t know,Jefferson County
+Android,US,Denver,T-Mobile,male,1954,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Only a little,Only a little,Adams County
+iOS,US,Denver,T-Mobile,female,1970,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A moderate amount,Adams County
+Android,US,Pueblo,Unknown,male,1988,Every day,Not registered to vote,No,Very important,Somewhat worried,A moderate amount,A moderate amount,Pueblo County
+Android,US,Denver,Verizon,female,1973,Every day,Not registered to vote,No,Not too important,Not very worried,Don’t know,Don’t know,I live in wyoming
+Android,US,Denver,AT&T,female,1982,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,Don’t know,A great deal,Denver County
+Android,US,Denver,T-Mobile,female,1990,Every day,Not registered to vote,Not sure,Somewhat important,Not very worried,Only a little,Only a little,Other
+iOS,US,Longmont,Unknown,female,1968,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Very important,Very worried,A moderate amount,A great deal,Boulder County
+Android,US,Palisade,Sprint,female,1971,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Not too important,Not very worried,Only a little,A moderate amount,Mesa County
+iOS,US,Denver,Unknown,female,1989,Every day,"Registered to vote, registered as Democratic","Yes, a close friend or family member is employed in the oil and gas industry",Extremely important,Very worried,A great deal,A great deal,Adams County
+iOS,US,Denver,AT&T,female,1977,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Extremely important,Very worried,A great deal,A great deal,Denver County
+Android,US,Arvada,T-Mobile,male,1976,Every day,"Registered to vote, registered as Republican ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Somewhat worried,Only a little,A moderate amount,Broomfield County
+Android,US,Aurora,T-Mobile,female,1972,Every day,"Registered to vote, registered as Republican ",No,Not too important,Not very worried,Don’t know,Don’t know,Arapahoe County
+Web,US,Aurora,Unknown,female,1953,I never use Facebook or Instagram,Not registered to vote,No,Very important,Very worried,A moderate amount,A great deal,Adams County
+iOS,US,Aurora,T-Mobile,female,1984,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ","Yes, a close friend or family member is employed in the oil and gas industry",Somewhat important,Not very worried,Not at all,A moderate amount,Arapahoe County
+Android,US,Fort Collins,Unknown,male,1981,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Somewhat worried,A great deal,A moderate amount,Delta County
+Android,US,Durango,AT&T,female,1979,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Somewhat important,Somewhat worried,Only a little,A great deal,La Plata County
+iOS,US,Brighton,Unknown,female,1999,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,A great deal,A great deal,Adams County
+Android,US,Greeley,Unknown,female,2001,I never use Facebook or Instagram,Not registered to vote,No,Very important,Somewhat worried,Only a little,A great deal,Weld County
+iOS,US,Greeley,Verizon,female,1986,Every day,"Registered to vote, registered as Independent, third party, unknown, or unaffiliated ",No,Very important,Very worried,Don’t know,A great deal,Weld County
